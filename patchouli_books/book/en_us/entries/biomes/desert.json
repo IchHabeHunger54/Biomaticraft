@@ -8,11 +8,11 @@
       "type": "text"
     },
     {
-      "text": "The surface consists of a few layers of $(l:blocks/sand)sand$() on a few layers of sandstone. In the underground, you might find a fossil - a huge formation of $(l:items/bone)bone blocks$() and $(l:basics/ores)coal ore$(), forming parts of dead animals (maybe the Red Dragons?).$(br2)The $(l:mobs/spawning)usual monsters$(), but not the usual animals spawn. $(l:mobs/zombie)Husks$() replace 80 percent of zombie and zombie villager spawns. You might also cross some $(l:world/tumbleweed)tumbleweeds$() and $(l:mobs/rabbit)rabbits$() here.",
+      "text": "The surface consists of a few layers of $(l:blocks/sand)sand$() on a few layers of sandstone. In the underground, you might find a fossil - a huge formation of $(l:items/bone)bone blocks$() and $(l:basics/ores)coal ore$(), forming parts of dead animals (maybe the Red Dragons?).$(br2)The usual monsters, but not the usual animals spawn. $(l:mobs/zombie)Husks$() replace 80 percent of zombie and zombie villager spawns. You might also cross some $(l:world/tumbleweed)tumbleweeds$() and $(l:mobs/rabbit)rabbits$() here.",
       "type": "text"
     },
     {
-      "text": "Variants of the following structures, usually with sandstone and jungle wood, can spawn:$(br2)- $(l:structures/village)Villages$()$(br)- $(l:structures/outpost)Outposts$()$(br)- $(l:structures/pyramid)Pyramids$()",
+      "text": "Variants of the following structures, with sandstone and jungle wood, can spawn:$(br2)- $(l:structures/village)Villages$()$(br)- $(l:structures/outpost)Outposts$()$(br)- $(l:structures/pyramid)Pyramids$()",
       "type": "text"
     }
   ]

@@ -4,7 +4,7 @@
   "name": "Giant Taiga",
   "pages": [
     {
-      "text": "The Giant Taiga is a variant of the normal $(l:biomes/taiga)taiga$(). Aside from normal spruce trees, giant 2x2 spruce trees can spawn here. The ground is mostly $(l:blocks/dirt)podzol$() and coarse dirt. You might also find some $(l:blocks/mossy_cobblestone)mossy cobblestone$() blobs there, sometimes with $(l:basics/ores)ores$() enclosed.",
+      "text": "The Giant Taiga is a variant of the normal $(l:biomes/taiga)taiga$(). Aside from normal $(l:world/tree)spruce trees$(), giant 2x2 spruce trees can spawn here. The ground is mostly $(l:blocks/dirt)podzol$() and coarse dirt. You might also find some $(l:blocks/mossy_cobblestone)mossy cobblestone$() blobs there, sometimes with $(l:basics/ores)ores$() enclosed.",
       "type": "text"
     },
     {

@@ -1,0 +1,16 @@
+{
+  "category": "patchouli:biomes",
+  "icon": "minecraft:spruce_log",
+  "name": "Taiga",
+  "pages": [
+    {
+      "text": "The taiga is the spruce counterpart to the $(l:biomes/forest)forest$(). You will commonly find $(l:mobs/fox)foxes$(), $(l:mobs/wolf)wolves$() and $(l:items/sweet_berries)sweet berry bushes$() here.$(br2)There are three different variants of this biomes - normal, hills and mountains, which are just even steeper hills -, and each of them has a snowy variant.",
+      "type": "text"
+    },
+    {
+      "text": "Normal and snowy taiga variants each have their own $(l:structures/village)villages$(), $(l:structures/outpost)outposts$() and $(l:structures/mansion)mansions$(). They also share one type of $(l:structures/witch_hut)witch hut$(). All the snowy taiga features can generate in a $(l:biomes/plains)tundra$() as well.",
+      "type": "text"
+    }
+  ],
+  "priority": true
+}

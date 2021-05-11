@@ -4,7 +4,7 @@
   "name": "River",
   "pages": [
     {
-      "text": "Rivers are mostly $(l:fluids/water)water-filled$(), long-stretched biomes. They often, but not always are the border between two biomes. If one of the biomes is a cold one, the river might be frozen. Oddly enough, if a river goes through a dry area, like a $(l:biomes/desert)desert$(), it can still rain in the river biome.$(br2)In addition to $(l:mobs/spawning)regular spawns$(), $(l:mobs/squid)squids$() and $(l:mobs/fish)salmons$() spawn in the river.",
+      "text": "Rivers are mostly $(l:fluids/water)water-filled$(), long-stretched biomes. They often, but not always are the border between two biomes. If one of the biomes is a cold one, the river might be frozen. Oddly enough, if a river goes through a dry area, like a $(l:biomes/desert)desert$(), it can still rain in the river biome.$(br2)In addition to regular spawns, $(l:mobs/squid)squids$() and $(l:mobs/fish)salmons$() spawn in the river.",
       "type": "text"
     }
   ]

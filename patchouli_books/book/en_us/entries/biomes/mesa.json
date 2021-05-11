@@ -4,7 +4,7 @@
   "name": "Mesa",
   "pages": [
     {
-      "text": "The Mesa, also known as Badlands, is the only natural source of $(l:blocks/sand)red sand$(). It looks somewhat like the Grand Canyon.$(br2)The surface consists of several layers of terracotta in various colors. The valleys are covered by several layers of red sand, on which $(l:blocks/cactus)cacti$() can grow. $(l:blocks/dead_bush)Dead bushes$() grow on both terracotta and sand. Lakes appear rarely.",
+      "text": "The Mesa, also known as Badlands, is the only natural source of $(l:blocks/sand)red sand$().$(br2)The surface consists of several layers of $(l:blocks/terracotta)terracotta$() in various colors. The valleys are covered by several layers of red sand, on which $(l:blocks/cactus)cacti$() can grow. $(l:blocks/dead_bush)Dead bushes$() grow on both terracotta and sand.",
       "type": "text"
     },
     {
@@ -12,7 +12,7 @@
       "type": "text"
     },
     {
-      "text": "Special variants of the following structures, usually made from red sandstone and acacia/dark oak wood, can spawn here:$(br2)- $(l:structures/village)Villages$(). Mesa villages are the only ones that can't spawn zombified$(br)- $(l:structures/outpost)Outposts$()$(br)- $(l:structures/pyramid)Pyramids$()$(br2)The $(l:mobs/spawning)usual monsters$(), but not the usual animals spawn. $(l:mobs/zombie)Husks$() replace 80 percent of zombie and zombie villager spawns. You might also cross some $(l:world/tumbleweed)tumbleweeds$() here.",
+      "text": "Special variants of the following structures, usually made from red sandstone and acacia/dark oak wood, can spawn here:$(br2)- $(l:structures/village)Villages$(). Mesa villages are the only ones that can't spawn zombified$(br)- $(l:structures/outpost)Outposts$()$(br)- $(l:structures/pyramid)Pyramids$()$(br2)The usual monsters, but not the usual animals spawn. $(l:mobs/zombie)Husks$() replace 80 percent of zombie and zombie villager spawns. You might also cross some $(l:world/tumbleweed)tumbleweeds$() here.",
       "type": "text"
     }
   ]

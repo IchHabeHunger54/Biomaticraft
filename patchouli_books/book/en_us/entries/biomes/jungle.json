@@ -4,7 +4,7 @@
   "name": "Jungle",
   "pages": [
     {
-      "text": "The lush Jungle biomes are known for $(l:mobs/ocelot)ocelots$(), $(l:mobs/parrot)parrots$() and framerate issues. There are many jungle trees in various sizes, sometimes with some oak trees between them, with $(l:blocks/vine)vines$() and $(l:blocks/cocoa_beans)cocoa beans$() attached. $(l:blocks/bamboo)Bamboo$() might be found as well.$(br2)It is not recommended to actually live in a jungle, due to how laggy it can be.",
+      "text": "The lush Jungle biomes are known for $(l:mobs/ocelot)ocelots$(), $(l:mobs/parrot)parrots$() and framerate issues. There are many $(l:world/tree)jungle trees$() in various sizes, sometimes with some oak trees between them, with $(l:blocks/vine)vines$() and $(l:blocks/cocoa_beans)cocoa beans$() attached. $(l:blocks/bamboo)Bamboo$() might be found as well.$(br2)It is not recommended to actually live in a jungle, due to how laggy it can be.",
       "type": "text"
     },
     {

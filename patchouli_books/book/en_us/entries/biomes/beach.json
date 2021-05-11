@@ -1,10 +1,10 @@
 {
   "category": "patchouli:biomes",
   "icon": "minecraft:sand",
-  "name": "Beaches",
+  "name": "Beach",
   "pages": [
     {
-      "text": "Beaches are the natural transition between $(l:biomes/ocean)oceans$() and land. Depending on where they are, they come in three variants: Snowy Beach (when next to a $(l:overworld/tundra)Tundra$() or $(l:overworld/taiga)Snowy Taiga$()), Stone Beach (when in a $(l:biomes/mountains)mountains$() environment) and normal Beach (everywhere else).$(br2)$(l:mobs/turtle)Turtles$() spawn exclusively on regular beaches.",
+      "text": "Beaches are the natural transition between $(l:biomes/ocean)oceans$() and land. Depending on where they are, they come in three variants: Snowy Beach (when next to a $(l:biomes/plains)Tundra$() or $(l:biomes/taiga)Snowy Taiga$()), Stone Beach (when in a $(l:biomes/mountains)mountains$() environment) and normal Beach (everywhere else).$(br2)$(l:mobs/turtle)Turtles$() and $(l:mobs/crab)crabs$() spawn exclusively on regular beaches.",
       "type": "text"
     },
     {

@@ -1,6 +1,6 @@
 {
   "category": "patchouli:biomes",
-  "icon": "minecraft:granite",
+  "icon": "minecraft:stone",
   "name": "Mountains",
   "pages": [
     {
@@ -8,7 +8,7 @@
       "type": "text"
     },
     {
-      "text": "At the edges of the mountains, the rare Mountain Edge biome might appear (not always). The Wooded Mountains are basically a forest on top of the mountains.$(br2)Gravelly Mountains and their Modified variant are a subtype of mountains that have their first few surface layers covered with $(l:blocks/gravel)gravel$().$(br2)$(l:blocks/llama)Llamas$() are typical for mountains, they don't spawn anywhere else.",
+      "text": "At the edges of the mountains, the rare Mountain Edge biome might appear (not always). The Wooded Mountains are basically a $(l:world/tree)forest$() on top of the mountains, while the Snowy Mountains have more snow on top than the other mountains.$(br2)Gravelly Mountains and their Modified variant are a subtype of mountains that have their first few surface layers covered with $(l:blocks/gravel)gravel$().$(br2)$(l:blocks/llama)Llamas$() are typical for mountains, they don't spawn anywhere else.",
       "type": "text"
     },
     {

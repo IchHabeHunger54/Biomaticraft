@@ -1,7 +1,7 @@
 {
   "category": "patchouli:biomes",
   "icon": "minecraft:tube_coral_block",
-  "name": "Oceans",
+  "name": "Ocean",
   "pages": [
     {
       "text": "Oceans are one of the most common biome types. They come in ten different variants: frozen, cold, normal, lukewarm and warm, each with a deep variant. Warm deep oceans do not generate, though.",
