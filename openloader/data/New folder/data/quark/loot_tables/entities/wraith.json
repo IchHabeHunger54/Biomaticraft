@@ -1,0 +1,1 @@
+{"pools":[{"entries":[{"functions":[{"count":{"max":1,"min":0},"function":"looting_enchant"}],"name":"quark:soul_bead","type":"item","weight":1}],"name":"soul_bead","rolls":1}]}

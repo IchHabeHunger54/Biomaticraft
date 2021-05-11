@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:carrot"},"inputMiddle":{"item":"minecraft:gold_nugget"},"inputTop":{"item":"minecraft:carrot"},"mix":{"count":100,"fluid":"cyclic:honey"},"result":{"count":2,"item":"minecraft:golden_carrot"},"type":"cyclic:solidifier"}

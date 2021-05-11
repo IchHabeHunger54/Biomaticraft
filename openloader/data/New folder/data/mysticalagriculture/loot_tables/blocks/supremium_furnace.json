@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"mysticalagriculture:supremium_furnace","type":"minecraft:item"}],"name":"mysticalagriculture:supremium_furnace","rolls":1}],"type":"minecraft:block"}

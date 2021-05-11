@@ -1,0 +1,1 @@
+{"advancement":"botania:main/pure_daisy_pickup","category":"botania:generating_flowers","icon":"minecraft:air","name":"botania.entry.gIntro","pages":[{"text":"botania.page.gIntro0","type":"text"},{"text":"botania.page.gIntro1","type":"text"},{"text":"botania.page.gIntro2","type":"text"},{"text":"botania.page.gIntro3","type":"text"}],"priority":true}

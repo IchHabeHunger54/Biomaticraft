@@ -1,0 +1,1 @@
+{"advancement":"botania:main/pure_daisy_pickup","category":"botania:mana","icon":"botania:redstone_spreader","name":"botania.entry.redstoneSpreader","pages":[{"text":"botania.page.redstoneSpreader0","type":"text"},{"recipe":"botania:redstone_spreader","text":"botania.page.redstoneSpreader1","type":"crafting"}],"priority":true}

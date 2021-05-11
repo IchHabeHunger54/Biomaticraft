@@ -1,0 +1,1 @@
+{"inputBottom":{"tag":"minecraft:coals"},"inputMiddle":{"tag":"minecraft:flowers"},"inputTop":{"tag":"minecraft:leaves"},"mix":{"count":100,"fluid":"minecraft:water"},"result":{"count":4,"item":"cyclic:biomass"},"type":"cyclic:solidifier"}

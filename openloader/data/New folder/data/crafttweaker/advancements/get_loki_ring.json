@@ -1,0 +1,1 @@
+{"criteria":{"loki_ring":{"conditions":{"items":[{"item":"botania:loki_ring"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Get the Ring of Loki","frame":"task","hidden":false,"icon":{"item":"botania:loki_ring"},"show_toast":true,"title":"God of Mischief"},"parent":"crafttweaker:get_dice","requirements":[["loki_ring"]]}

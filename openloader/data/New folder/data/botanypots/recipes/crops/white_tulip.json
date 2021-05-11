@@ -1,0 +1,1 @@
+{"categories":["dirt"],"display":{"block":"minecraft:white_tulip"},"growthTicks":1200,"results":[{"chance":0.75,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:white_tulip"}}],"seed":{"item":"minecraft:white_tulip"},"type":"botanypots:crop"}

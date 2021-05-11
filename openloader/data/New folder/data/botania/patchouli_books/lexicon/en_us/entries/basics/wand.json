@@ -1,0 +1,1 @@
+{"advancement":"botania:main/pure_daisy_pickup","category":"botania:basics","icon":"botania:twig_wand","name":"botania.entry.wand","pages":[{"text":"botania.page.wand0","type":"text"},{"text":"botania.page.wand1","type":"text"},{"text":"botania.page.wand2","type":"text"},{"recipe":"botania:twig_wand","text":"botania.page.wand3","type":"crafting"}],"priority":true}

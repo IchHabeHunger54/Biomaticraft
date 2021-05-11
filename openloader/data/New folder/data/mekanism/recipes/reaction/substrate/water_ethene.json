@@ -1,0 +1,1 @@
+{"duration":100,"fluidInput":{"amount":100,"tag":"minecraft:water"},"gasInput":{"amount":100,"gas":"mekanism:ethene"},"gasOutput":{"amount":10,"gas":"mekanism:oxygen"},"itemInput":{"ingredient":{"item":"mekanism:substrate"}},"itemOutput":{"count":8,"item":"mekanism:substrate"},"type":"mekanism:reaction"}

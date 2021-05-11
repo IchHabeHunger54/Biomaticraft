@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:dead_fire_coral"},"inputMiddle":{"item":"minecraft:fire_coral"},"inputTop":{"item":"minecraft:dead_fire_coral"},"mix":{"count":100,"fluid":"minecraft:water"},"result":{"count":3,"item":"minecraft:fire_coral"},"type":"cyclic:solidifier"}

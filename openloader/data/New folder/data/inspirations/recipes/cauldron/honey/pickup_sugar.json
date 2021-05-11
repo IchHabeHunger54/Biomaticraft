@@ -1,0 +1,1 @@
+{"input":{"contents":{"name":"minecraft:honey_block","type":"inspirations:custom"},"level":{"max":11,"min":1}},"output":{"item":{"item":"minecraft:sugar"},"level":{"add":-1}},"sound":"minecraft:block.honey_block.break","type":"inspirations:cauldron"}

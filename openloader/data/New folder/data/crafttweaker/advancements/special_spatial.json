@@ -1,0 +1,1 @@
+{"criteria":{"spatial":{"trigger":"appliedenergistics2:spatial_explorer"}},"display":{"announce_to_chat":true,"description":"Get inside a spatial IO cell","frame":"task","hidden":false,"icon":{"item":"appliedenergistics2:128_cubed_spatial_storage_cell"},"show_toast":true,"title":"Compact Machines"},"parent":"crafttweaker:get_spatial_io_port","requirements":[["spatial"]]}

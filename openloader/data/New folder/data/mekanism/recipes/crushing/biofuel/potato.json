@@ -1,0 +1,1 @@
+{"input":{"ingredient":[{"item":"minecraft:potato"},{"item":"minecraft:baked_potato"},{"item":"minecraft:poisonous_potato"}]},"output":{"count":3,"item":"mekanism:bio_fuel"},"type":"mekanism:crushing"}

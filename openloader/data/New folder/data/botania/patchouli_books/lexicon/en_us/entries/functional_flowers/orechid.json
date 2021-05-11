@@ -1,0 +1,1 @@
+{"advancement":"botania:main/elf_lexicon_pickup","category":"botania:functional_flowers","entry_color":"aa00","flag":"!mod:gardenofglass","icon":"botania:orechid","name":"botania.entry.orechid","pages":[{"text":"botania.page.orechid0","type":"text"},{"recipe":"botania:petal_apothecary/orechid","text":"botania.page.orechid1","type":"botania:petal_apothecary"}]}

@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"},{"condition":"minecraft:inverted","term":{"condition":"minecraft:entity_properties","entity":"this","predicate":{}}}],"entries":[{"name":"securitycraft:stone_mine","type":"minecraft:item"}],"rolls":1}],"type":"minecraft:block"}

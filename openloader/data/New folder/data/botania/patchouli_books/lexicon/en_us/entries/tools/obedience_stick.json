@@ -1,0 +1,1 @@
+{"advancement":"botania:main/mana_pool_pickup","category":"botania:tools","icon":"botania:obedience_stick","name":"botania.entry.obedienceStick","pages":[{"text":"botania.page.obedienceStick0","type":"text"},{"recipe":"botania:obedience_stick","text":"botania.page.obedienceStick1","type":"crafting"}],"priority":true}

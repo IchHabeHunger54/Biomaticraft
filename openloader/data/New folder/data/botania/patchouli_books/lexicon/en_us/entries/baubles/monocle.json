@@ -1,0 +1,1 @@
+{"advancement":"botania:main/mana_pool_pickup","category":"botania:baubles","icon":"botania:monocle","name":"botania.entry.monocle","pages":[{"text":"botania.page.monocle0","type":"text"},{"text":"botania.page.monocle2","type":"text"},{"recipe":"botania:monocle","text":"botania.page.monocle1","type":"crafting"}],"priority":true}

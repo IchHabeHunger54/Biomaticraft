@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:dirt"},"inputMiddle":{"item":"minecraft:cobblestone"},"inputTop":{"item":"minecraft:dirt"},"mix":{"count":250,"fluid":"cyclic:magma"},"result":{"count":9,"item":"minecraft:gravel"},"type":"cyclic:solidifier"}

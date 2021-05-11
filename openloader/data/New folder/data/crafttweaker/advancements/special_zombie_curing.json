@@ -1,0 +1,1 @@
+{"criteria":{"zombie_curing":{"conditions":{},"trigger":"minecraft:cured_zombie_villager"}},"display":{"announce_to_chat":true,"description":"Cure a zombie villager","frame":"task","hidden":false,"icon":{"item":"minecraft:golden_apple"},"show_toast":true,"title":"Zombie Doctor"},"parent":"crafttweaker:special_trading","requirements":[["zombie_curing"]]}

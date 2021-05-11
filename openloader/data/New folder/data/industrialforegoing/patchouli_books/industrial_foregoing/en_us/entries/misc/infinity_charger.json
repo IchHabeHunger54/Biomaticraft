@@ -1,0 +1,1 @@
+{"category":"misc","icon":"industrialforegoing:infinity_charger","name":"Infinity Charger","pages":[{"text":"Charges items that can hold power. It charges $(6)Infinity$() items very fast.","type":"text"},{"recipe":"industrialforegoing:infinity_charger","type":"crafting"}],"read_by_default":true,"sortnum":5}

@@ -1,0 +1,1 @@
+{"criteria":{"elytra":{"conditions":{"items":[{"item":"minecraft:elytra"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Find an elytra","frame":"task","hidden":false,"icon":{"item":"minecraft:elytra"},"show_toast":true,"title":"Hang Glider Reloaded"},"parent":"crafttweaker:enter_end_city","requirements":[["elytra"]]}

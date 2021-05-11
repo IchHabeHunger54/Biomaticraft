@@ -1,0 +1,1 @@
+{"components":[{"height":15,"image":"patchouli:textures/gui/crafting.png","texture_height":128,"texture_width":128,"type":"image","u":37,"v":76,"width":43,"x":36,"y":5},{"framed":true,"item":"#in","type":"item","x":15,"y":5},{"framed":true,"item":"#out","link_recipe":true,"type":"item","x":85,"y":5},{"text":"#text","type":"text","x":0,"y":30}]}

@@ -1,0 +1,1 @@
+{"input":{"amount":4,"ingredient":{"item":"minecraft:torch"}},"mainOutput":{"count":4,"item":"thermal:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"item":"minecraft:coal"},"type":"mekanism:sawing"}

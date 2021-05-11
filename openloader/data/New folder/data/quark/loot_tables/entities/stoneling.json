@@ -1,0 +1,1 @@
+{"pools":[{"entries":[{"conditions":[{"chance":0.2,"condition":"random_chance_with_looting","looting_multiplier":0.02}],"name":"quark:diamond_heart","type":"item","weight":1}],"name":"quark:stoneling","rolls":1}]}

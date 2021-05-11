@@ -1,0 +1,1 @@
+{"category":"thermal:augments","flag":"mod:thermal_expansion","icon":"thermal:dynamo_fuel_augment","name":"Multi-Cycle Injectors","pages":[{"recipe":"thermal:augments/dynamo_fuel_augment","text":"The Multi-Cycle Injectors augment scales the fuel efficiency of a dynamo by 1.1.","title":"Multi-Cycle Injectors","type":"crafting"}],"read_by_default":true}

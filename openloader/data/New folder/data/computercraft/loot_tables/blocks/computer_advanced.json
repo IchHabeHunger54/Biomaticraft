@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:alternative","terms":[{"condition":"computercraft:block_named"},{"condition":"computercraft:has_id"},{"condition":"minecraft:inverted","term":{"condition":"computercraft:player_creative"}}]}],"entries":[{"name":"computercraft:computer","type":"minecraft:dynamic"}],"name":"main","rolls":1}],"type":"minecraft:block"}

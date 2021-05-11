@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:magenta_concrete_powder"},"inputMiddle":{"item":"minecraft:magenta_concrete_powder"},"inputTop":{"item":"minecraft:magenta_concrete_powder"},"mix":{"count":10,"fluid":"minecraft:water"},"result":{"count":3,"item":"minecraft:magenta_concrete"},"type":"cyclic:solidifier"}

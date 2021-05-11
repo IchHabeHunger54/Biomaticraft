@@ -1,0 +1,1 @@
+{"description":"This section details the function of each device. Devices do not require RF unless explicitly stated.","flag":"|mod:thermal_expansion,mod:thermal_cultivation","icon":"thermal:device_tree_extractor","name":"Devices","parent":"thermal:technology","sortnum":2}

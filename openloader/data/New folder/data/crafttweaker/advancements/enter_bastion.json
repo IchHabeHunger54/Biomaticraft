@@ -1,0 +1,1 @@
+{"criteria":{"bastion":{"conditions":{"location":{"feature":"bastion_remnant"}},"trigger":"minecraft:location"}},"display":{"announce_to_chat":true,"description":"Enter a bastion remnant","frame":"task","hidden":false,"icon":{"item":"minecraft:polished_blackstone_bricks"},"show_toast":true,"title":"Piggy Bank"},"parent":"crafttweaker:enter_nether","requirements":[["bastion"]]}

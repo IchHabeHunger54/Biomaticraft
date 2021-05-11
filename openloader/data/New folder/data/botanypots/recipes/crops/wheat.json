@@ -1,0 +1,1 @@
+{"categories":["dirt"],"display":{"block":"minecraft:wheat","properties":{"age":7}},"growthTicks":1000,"results":[{"chance":0.75,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:wheat"}},{"chance":0.05,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:wheat_seeds"}}],"seed":{"item":"minecraft:wheat_seeds"},"type":"botanypots:crop"}

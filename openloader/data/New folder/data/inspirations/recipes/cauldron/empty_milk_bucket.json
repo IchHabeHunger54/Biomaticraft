@@ -1,0 +1,1 @@
+{"input":{"contents":{"tag":"forge:milk","type":"inspirations:fluid"},"item":{"item":"minecraft:milk_bucket"},"level":{"max":11}},"output":{"container":{"empty":true},"contents":{"name":"inspirations:milk","type":"inspirations:fluid"},"item":{"item":"minecraft:bucket"},"level":{"set":12}},"sound":"minecraft:item.bucket.empty","type":"inspirations:cauldron"}

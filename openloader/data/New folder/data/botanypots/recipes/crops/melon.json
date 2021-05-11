@@ -1,0 +1,1 @@
+{"categories":["dirt"],"display":{"block":"minecraft:melon"},"growthTicks":2000,"results":[{"chance":0.75,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:melon"}},{"chance":0.05,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:melon_seeds"}}],"seed":{"tag":"forge:seeds/melon"},"type":"botanypots:crop"}

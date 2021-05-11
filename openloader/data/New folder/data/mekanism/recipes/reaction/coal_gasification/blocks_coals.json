@@ -1,0 +1,1 @@
+{"duration":900,"fluidInput":{"amount":900,"tag":"minecraft:water"},"gasInput":{"amount":900,"gas":"mekanism:oxygen"},"gasOutput":{"amount":900,"gas":"mekanism:hydrogen"},"itemInput":[{"ingredient":{"tag":"forge:storage_blocks/coal"}},{"ingredient":{"tag":"forge:storage_blocks/charcoal"}}],"itemOutput":{"count":9,"item":"mekanism:dust_sulfur"},"type":"mekanism:reaction"}

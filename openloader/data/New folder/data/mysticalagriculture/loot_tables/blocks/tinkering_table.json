@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"mysticalagriculture:tinkering_table","type":"minecraft:item"}],"name":"mysticalagriculture:tinkering_table","rolls":1}],"type":"minecraft:block"}

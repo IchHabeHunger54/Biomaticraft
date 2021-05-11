@@ -1,0 +1,11 @@
+{
+  "category": "patchouli:biomes",
+  "icon": "minecraft:bamboo",
+  "name": "Bamboo Jungle",
+  "pages": [
+    {
+      "text": "The Bamboo Jungle is a subtype of the usual $(l:biomes/jungle)jungle$(). However, jungle trees are rare, instead, the vegetation is predominately $(l:blocks/bamboo)bamboo$(). Structure and mob spawning are mostly the same as in a normal jungle, $(l:mobs/panda)pandas$(), however, spawn only here. Like most biomes, this biome has a steeper hills variant.",
+      "type": "text"
+    }
+  ]
+}

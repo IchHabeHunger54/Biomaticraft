@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:slime_ball"},"inputMiddle":{"item":"minecraft:slime_ball"},"inputTop":{"item":"minecraft:slime_ball"},"mix":{"count":600,"fluid":"cyclic:slime"},"result":{"count":9,"item":"minecraft:slime_ball"},"type":"cyclic:solidifier"}

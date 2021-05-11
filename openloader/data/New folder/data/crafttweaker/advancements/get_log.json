@@ -1,0 +1,1 @@
+{"criteria":{"log":{"conditions":{"items":[{"tag":"minecraft:logs"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Mine a block of wood","frame":"task","hidden":false,"icon":{"item":"minecraft:oak_log"},"show_toast":true,"title":"Getting Wood"},"parent":"crafttweaker:special_root","requirements":[["log"]]}

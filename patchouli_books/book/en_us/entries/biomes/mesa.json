@@ -1,0 +1,19 @@
+{
+  "category": "patchouli:biomes",
+  "icon": "minecraft:red_sandstone",
+  "name": "Mesa",
+  "pages": [
+    {
+      "text": "The Mesa, also known as Badlands, is the only natural source of $(l:blocks/sand)red sand$(). It looks somewhat like the Grand Canyon.$(br2)The surface consists of several layers of terracotta in various colors. The valleys are covered by several layers of red sand, on which $(l:blocks/cactus)cacti$() can grow. $(l:blocks/dead_bush)Dead bushes$() grow on both terracotta and sand. Lakes appear rarely.",
+      "type": "text"
+    },
+    {
+      "text": "This biome has a total of six subtypes. These include the normal Badlands, the Badlands Hills, which are just a steeper variant, the Modified Mesa, which is an even more canyon-like biome with extreme height differences, and its hill variant. Enclosed in the hill variants, (Modified) Mesa Forests, which consist of small oak trees, occasionally appear.$(br2)As a dry biome, it does not rain in mesas.",
+      "type": "text"
+    },
+    {
+      "text": "Special variants of the following structures, usually made from red sandstone and acacia/dark oak wood, can spawn here:$(br2)- $(l:structures/village)Villages$(). Mesa villages are the only ones that can't spawn zombified$(br)- $(l:structures/outpost)Outposts$()$(br)- $(l:structures/pyramid)Pyramids$()$(br2)The $(l:mobs/spawning)usual monsters$(), but not the usual animals spawn. $(l:mobs/zombie)Husks$() replace 80 percent of zombie and zombie villager spawns. You might also cross some $(l:world/tumbleweed)tumbleweeds$() here.",
+      "type": "text"
+    }
+  ]
+}

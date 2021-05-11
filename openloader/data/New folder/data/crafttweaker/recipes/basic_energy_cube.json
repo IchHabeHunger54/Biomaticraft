@@ -1,0 +1,1 @@
+{"key":{"A":{"item":"minecraft:redstone"},"E":{"item":"mekanism:energy_tablet"},"I":{"item":"minecraft:iron_ingot"},"P":{"item":"mekanism:steel_casing"}},"pattern":["AEA","IPI","AEA"],"result":{"item":"mekanism:basic_energy_cube"},"type":"mekanism:mek_data"}

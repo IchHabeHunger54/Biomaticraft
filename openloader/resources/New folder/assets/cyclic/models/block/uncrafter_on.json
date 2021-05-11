@@ -1,0 +1,1 @@
+{"parent":"cyclic:parent/machine_simple","textures":{"base":"minecraft:block/diamond_block","inner":"minecraft:block/diamond_block","particle":"cyclic:blocks/machine/back","side":"cyclic:blocks/machine/back"}}

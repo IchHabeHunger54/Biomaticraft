@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"darkutils:filter_pet","type":"minecraft:item"}],"rolls":1}],"type":"minecraft:block"}

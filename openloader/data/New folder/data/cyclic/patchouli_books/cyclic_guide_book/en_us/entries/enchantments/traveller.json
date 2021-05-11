@@ -1,0 +1,1 @@
+{"category":"cyclic:enchantments","icon":"minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:traveler\",lvl:1}]}","name":"enchantment.cyclic.traveler","pages":[{"text":"enchantment.cyclic.traveler.guide","type":"text"},{"item":"minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:traveler\",lvl:1}]}","link_recipe":true,"type":"spotlight"}]}

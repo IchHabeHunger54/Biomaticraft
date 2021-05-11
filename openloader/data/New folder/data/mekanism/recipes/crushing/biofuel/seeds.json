@@ -1,0 +1,1 @@
+{"input":{"ingredient":[{"item":"minecraft:wheat_seeds"},{"item":"minecraft:beetroot_seeds"},{"item":"minecraft:melon_seeds"},{"item":"minecraft:pumpkin_seeds"}]},"output":{"count":2,"item":"mekanism:bio_fuel"},"type":"mekanism:crushing"}

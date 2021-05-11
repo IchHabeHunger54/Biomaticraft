@@ -1,0 +1,1 @@
+{"criteria":{"cobblestone":{"conditions":{"items":[{"item":"minecraft:cobblestone"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Mine stone","frame":"task","hidden":false,"icon":{"item":"minecraft:cobblestone"},"show_toast":true,"title":"Stone Age"},"parent":"crafttweaker:get_crafting_table","requirements":[["cobblestone"]]}

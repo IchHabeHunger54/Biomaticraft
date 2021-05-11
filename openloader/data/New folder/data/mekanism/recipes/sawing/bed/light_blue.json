@@ -1,0 +1,1 @@
+{"input":{"ingredient":{"item":"minecraft:light_blue_bed"}},"mainOutput":{"count":6,"item":"thermal:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"count":3,"item":"minecraft:light_blue_wool"},"type":"mekanism:sawing"}

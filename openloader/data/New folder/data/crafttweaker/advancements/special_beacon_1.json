@@ -1,0 +1,1 @@
+{"criteria":{"beacon":{"conditions":{"level":{"min":1}},"trigger":"minecraft:construct_beacon"}},"display":{"announce_to_chat":true,"description":"Build a beacon","frame":"task","hidden":false,"icon":{"item":"minecraft:beacon"},"show_toast":true,"title":"Beam me up, Scotty!"},"parent":"crafttweaker:spawn_wither","requirements":[["beacon"]]}

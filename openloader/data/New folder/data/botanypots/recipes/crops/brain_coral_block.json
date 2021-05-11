@@ -1,0 +1,1 @@
+{"categories":["water"],"display":{"block":"minecraft:brain_coral_block","renderFluid":false},"growthTicks":1000,"results":[{"chance":0.6,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:brain_coral_block"}}],"seed":{"item":"minecraft:brain_coral_block"},"type":"botanypots:crop"}

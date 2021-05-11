@@ -1,0 +1,1 @@
+{"category":"resource_production","icon":"industrialforegoing:fluid_collector","name":"Fluid Collector","pages":[{"text":"It drains a fluid source block in front of it.$(br2)It will place the fluid from the internal container and use $(6)1000$()RF.","type":"text"},{"recipe":"industrialforegoing:fluid_collector","type":"crafting"}],"read_by_default":true,"sortnum":7}

@@ -1,0 +1,1 @@
+{"conditions":[{"condition":"minecraft:match_tool","predicate":{"enchantments":[{"enchantment":"vanillatweaks:blazing","levels":{"min":1}}]}}],"type":"vanillatweaks:blazing"}

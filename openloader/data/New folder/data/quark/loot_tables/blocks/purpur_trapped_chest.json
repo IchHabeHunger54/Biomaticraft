@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"quark:purpur_trapped_chest","type":"minecraft:item"}],"rolls":1}],"type":"minecraft:block"}

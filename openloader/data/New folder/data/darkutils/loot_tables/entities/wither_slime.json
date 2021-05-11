@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"chance":0.0001,"condition":"random_chance"}],"entries":[{"name":"minecraft:nether_star","type":"item","weight":1}],"rolls":1}],"type":"minecraft:entity"}

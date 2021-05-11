@@ -1,0 +1,15 @@
+{
+  "category": "patchouli:biomes",
+  "icon": "minecraft:sand",
+  "name": "Beaches",
+  "pages": [
+    {
+      "text": "Beaches are the natural transition between $(l:biomes/ocean)oceans$() and land. Depending on where they are, they come in three variants: Snowy Beach (when next to a $(l:overworld/tundra)Tundra$() or $(l:overworld/taiga)Snowy Taiga$()), Stone Beach (when in a $(l:biomes/mountains)mountains$() environment) and normal Beach (everywhere else).$(br2)$(l:mobs/turtle)Turtles$() spawn exclusively on regular beaches.",
+      "type": "text"
+    },
+    {
+      "text": "Buried Treasures can be found, though it is not worth randomly digging around, instead, a $(l:items/map)treasure map$() should be used. You might occasionally stumble across a beached $(l:structures/shipwreck)shipwreck$() as well.",
+      "type": "text"
+    }
+  ]
+}

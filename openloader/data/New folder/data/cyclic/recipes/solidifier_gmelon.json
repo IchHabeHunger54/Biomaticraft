@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:dirt"},"inputMiddle":{"item":"minecraft:charcoal"},"inputTop":{"item":"cyclic:biomass"},"mix":{"count":500,"fluid":"cyclic:biomass"},"result":{"count":1,"item":"cyclic:peat_unbaked"},"type":"cyclic:solidifier"}

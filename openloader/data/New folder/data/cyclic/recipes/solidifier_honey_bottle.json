@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:glass_bottle"},"inputMiddle":{"item":"minecraft:glass_bottle"},"inputTop":{"item":"minecraft:glass_bottle"},"mix":{"count":750,"fluid":"cyclic:honey"},"result":{"count":3,"item":"minecraft:honey_bottle"},"type":"cyclic:solidifier"}

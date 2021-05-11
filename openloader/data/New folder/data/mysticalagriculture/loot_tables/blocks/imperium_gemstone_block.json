@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"mysticalagriculture:imperium_gemstone_block","type":"minecraft:item"}],"name":"mysticalagriculture:imperium_gemstone_block","rolls":1}],"type":"minecraft:block"}

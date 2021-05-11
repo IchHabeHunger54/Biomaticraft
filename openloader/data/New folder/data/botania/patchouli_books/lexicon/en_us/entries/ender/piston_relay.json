@@ -1,0 +1,1 @@
+{"advancement":"botania:main/mana_pool_pickup","category":"botania:ender","icon":"botania:piston_relay","name":"botania.entry.pistonRelay","pages":[{"text":"botania.page.pistonRelay0","type":"text"},{"text":"botania.page.pistonRelay1","type":"text"},{"recipes":"botania:mana_infusion/piston_relay","text":"botania.page.pistonRelay2","type":"botania:mana_infusion"}]}

@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"appliedenergistics2:molecular_assembler","type":"minecraft:item"}],"name":"main","rolls":1}],"type":"minecraft:block"}

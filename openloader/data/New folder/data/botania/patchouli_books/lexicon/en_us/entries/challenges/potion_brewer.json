@@ -1,0 +1,1 @@
+{"advancement":"botania:main/mana_pool_pickup","category":"botania:challenges","entry_color":"aa0000","icon":"botania:brewery","name":"botania.challenge.potionBrewer","pages":[{"text":"botania.challenge.potionBrewer.desc","title":"botania.challenge.potionBrewer","type":"quest"}],"read_by_default":true,"sortnum":5}

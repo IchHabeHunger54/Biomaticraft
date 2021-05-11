@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:dead_brain_coral_block"},"inputMiddle":{"item":"minecraft:brain_coral_block"},"inputTop":{"item":"minecraft:dead_brain_coral_block"},"mix":{"count":100,"fluid":"minecraft:water"},"result":{"count":3,"item":"minecraft:brain_coral_block"},"type":"cyclic:solidifier"}

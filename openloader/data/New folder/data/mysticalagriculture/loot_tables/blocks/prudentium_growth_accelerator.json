@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"mysticalagriculture:prudentium_growth_accelerator","type":"minecraft:item"}],"name":"mysticalagriculture:prudentium_growth_accelerator","rolls":1}],"type":"minecraft:block"}

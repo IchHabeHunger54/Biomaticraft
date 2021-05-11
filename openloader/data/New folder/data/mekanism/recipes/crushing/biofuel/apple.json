@@ -1,0 +1,1 @@
+{"input":{"ingredient":[{"item":"minecraft:apple"},{"item":"minecraft:golden_apple"},{"item":"minecraft:enchanted_golden_apple"},{"item":"pickletweaks:diamond_apple"},{"item":"pickletweaks:emerald_apple"}]},"output":{"count":3,"item":"mekanism:bio_fuel"},"type":"mekanism:crushing"}

@@ -1,0 +1,1 @@
+{"categories":["dirt"],"display":{"block":"minecraft:poppy"},"growthTicks":1200,"results":[{"chance":0.75,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:poppy"}}],"seed":{"item":"minecraft:poppy"},"type":"botanypots:crop"}

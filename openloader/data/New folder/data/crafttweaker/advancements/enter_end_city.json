@@ -1,0 +1,1 @@
+{"criteria":{"endcity":{"conditions":{"location":{"feature":"endcity"}},"trigger":"minecraft:location"}},"display":{"announce_to_chat":true,"description":"Enter an end city","frame":"task","hidden":false,"icon":{"item":"minecraft:purpur_block"},"show_toast":true,"title":"Purple Rain"},"parent":"crafttweaker:special_gateway","requirements":[["endcity"]]}

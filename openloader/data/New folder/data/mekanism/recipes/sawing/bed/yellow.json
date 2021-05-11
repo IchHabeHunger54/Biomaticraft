@@ -1,0 +1,1 @@
+{"input":{"ingredient":{"item":"minecraft:yellow_bed"}},"mainOutput":{"count":6,"item":"thermal:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"count":3,"item":"minecraft:yellow_wool"},"type":"mekanism:sawing"}

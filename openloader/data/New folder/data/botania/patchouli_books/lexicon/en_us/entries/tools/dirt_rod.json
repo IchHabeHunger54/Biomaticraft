@@ -1,0 +1,1 @@
+{"advancement":"botania:main/runic_altar_pickup","category":"botania:tools","icon":"botania:dirt_rod","name":"botania.entry.dirtRod","pages":[{"text":"botania.page.dirtRod0","type":"text"},{"text":"botania.page.dirtRod2","type":"text"},{"recipe":"botania:dirt_rod","text":"botania.page.dirtRod1","type":"crafting"}]}

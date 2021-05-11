@@ -1,0 +1,1 @@
+{"criteria":{"thor_ring":{"conditions":{"items":[{"item":"botania:thor_ring"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Get the Ring of Thor","frame":"task","hidden":false,"icon":{"item":"botania:thor_ring"},"show_toast":true,"title":"Strongest Avenger"},"parent":"crafttweaker:get_dice","requirements":[["thor_ring"]]}

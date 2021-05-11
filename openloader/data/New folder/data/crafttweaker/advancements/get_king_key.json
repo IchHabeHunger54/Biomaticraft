@@ -1,0 +1,1 @@
+{"criteria":{"king_key":{"conditions":{"items":[{"item":"botania:king_key"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Get the Key of the King's Law","frame":"task","hidden":false,"icon":{"item":"botania:king_key"},"show_toast":true,"title":"Boom Boom Boom Boom"},"parent":"crafttweaker:get_dice","requirements":[["king_key"]]}

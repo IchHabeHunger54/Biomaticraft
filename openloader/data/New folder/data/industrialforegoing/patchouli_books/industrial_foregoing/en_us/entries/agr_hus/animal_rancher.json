@@ -1,0 +1,1 @@
+{"category":"agriculture_husbandry","icon":"industrialforegoing:animal_rancher","name":"Animal Rancher","pages":[{"text":"A machine used to $(6)shear$() sheep and $(6)milk$() cows.","type":"text"},{"recipe":"industrialforegoing:animal_rancher","type":"crafting"}],"read_by_default":true,"sortnum":0}

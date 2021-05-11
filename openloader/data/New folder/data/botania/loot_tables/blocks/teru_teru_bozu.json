@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"botania:teru_teru_bozu","type":"minecraft:item"}],"name":"main","rolls":1}],"type":"minecraft:block"}

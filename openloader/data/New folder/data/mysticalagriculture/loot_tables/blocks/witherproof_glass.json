@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"mysticalagriculture:witherproof_glass","type":"minecraft:item"}],"name":"mysticalagriculture:witherproof_glass","rolls":1}],"type":"minecraft:block"}

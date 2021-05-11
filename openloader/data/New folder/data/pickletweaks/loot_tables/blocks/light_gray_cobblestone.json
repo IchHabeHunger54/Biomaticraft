@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"pickletweaks:light_gray_cobblestone","type":"minecraft:item"}],"name":"pickletweaks:light_gray_cobblestone","rolls":1}],"type":"minecraft:block"}

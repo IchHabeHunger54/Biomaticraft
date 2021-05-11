@@ -1,0 +1,1 @@
+{"category":"botania:misc","extra_recipe_mappings":{"botania:cacophonium_block":1},"icon":"botania:cacophonium","name":"botania.entry.cacophonium","pages":[{"text":"botania.page.cacophonium0","type":"text"},{"recipe":"botania:cacophonium","text":"botania.page.cacophonium1","type":"crafting"},{"text":"botania.page.cacophonium2","type":"text"}]}

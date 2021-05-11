@@ -1,0 +1,1 @@
+{"pools":[{"entries":[{"conditions":[{"block":"securitycraft:iron_door_reinforced","condition":"minecraft:block_state_property","properties":{"half":"lower"}},{"condition":"minecraft:survives_explosion"}],"name":"securitycraft:door_indestructible_iron_item","type":"minecraft:item"}],"rolls":1}],"type":"minecraft:block"}

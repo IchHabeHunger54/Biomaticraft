@@ -1,0 +1,1 @@
+{"pools":[{"entries":[{"functions":[{"conditions":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"flags":{"is_on_fire":true}}}],"function":"minecraft:furnace_smelt"},{"count":{"max":1,"min":0},"function":"looting_enchant"}],"name":"quark:frog_leg","type":"item","weight":1}],"name":"main","rolls":1}]}

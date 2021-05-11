@@ -1,0 +1,1 @@
+{"advancement":"botania:main/runic_altar_pickup","category":"botania:tools","icon":"botania:fire_rod","name":"botania.entry.fireRod","pages":[{"text":"botania.page.fireRod0","type":"text"},{"text":"botania.page.fireRod2","type":"text"},{"recipe":"botania:fire_rod","text":"botania.page.fireRod1","type":"crafting"}]}

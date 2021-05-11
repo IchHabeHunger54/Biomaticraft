@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"mysticalagriculture:prudentium_reprocessor","type":"minecraft:item"}],"name":"mysticalagriculture:prudentium_reprocessor","rolls":1}],"type":"minecraft:block"}

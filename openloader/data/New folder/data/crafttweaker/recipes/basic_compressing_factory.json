@@ -1,0 +1,1 @@
+{"key":{"A":{"item":"minecraft:redstone"},"C":{"item":"mekanism:basic_control_circuit"},"I":{"item":"minecraft:iron_ingot"},"P":{"item":"mekanism:osmium_compressor"}},"pattern":["ACA","IPI","ACA"],"result":{"item":"mekanism:basic_compressing_factory"},"type":"mekanism:mek_data"}

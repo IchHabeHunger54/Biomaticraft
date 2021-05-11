@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:glass"},"inputMiddle":{"item":"minecraft:glass"},"inputTop":{"item":"minecraft:glass"},"mix":{"count":10,"fluid":"cyclic:magma"},"result":{"count":3,"item":"minecraft:sand"},"type":"cyclic:solidifier"}

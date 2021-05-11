@@ -1,0 +1,1 @@
+{"conditions":[{"condition":"minecraft:match_tool","predicate":{"enchantments":[{"enchantment":"cyclic:auto_smelt","levels":{"min":1}}]}}],"type":"cyclic:auto_smelt"}

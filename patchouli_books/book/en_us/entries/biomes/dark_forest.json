@@ -1,0 +1,15 @@
+{
+  "category": "patchouli:biomes",
+  "icon": "minecraft:dark_oak_log",
+  "name": "Dark Forest",
+  "pages": [
+    {
+      "text": "The Dark Forest (aka Roofed Forest or Dark Oak Forest) and its hill variant are the main natural source of dark oak wood. If you have silk touch, you will also find a lot of giant $(l:blocks/mushroom)mushrooms$() to mine.$(br2)The usual monsters and animals spawn here, no more, no less. Structures available include $(l:structures/village)villages$(), $(l:structures/outpost)outposts$(), $(l:structures/outpost)mansions$() and $(l:structures/witch_hut)witch huts$().",
+      "type": "text"
+    },
+    {
+      "text": "The dark forest is generally considered more dangerous than other biomes, due to the fact that monsters can stay there the whole day, because the leaves prevent them from burning.",
+      "type": "text"
+    }
+  ]
+}

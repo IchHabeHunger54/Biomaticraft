@@ -1,0 +1,1 @@
+{"criteria":{"breed":{"conditions":{},"trigger":"minecraft:bred_animals"}},"display":{"announce_to_chat":true,"description":"Breed an animal","frame":"task","hidden":false,"icon":{"item":"minecraft:carrot"},"show_toast":true,"title":"One Plus One Makes Three"},"parent":"crafttweaker:get_stone","requirements":[["breed"]]}

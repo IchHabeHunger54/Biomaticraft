@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"elevatorid:elevator_light_blue","type":"minecraft:item"}],"name":"elevator_light_blue","rolls":1}],"type":"minecraft:block"}

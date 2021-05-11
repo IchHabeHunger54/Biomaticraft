@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:honeycomb"},"inputMiddle":{"item":"minecraft:honeycomb"},"inputTop":{"item":"minecraft:honeycomb"},"mix":{"count":100,"fluid":"cyclic:honey"},"result":{"count":1,"item":"minecraft:honeycomb_block"},"type":"cyclic:solidifier"}

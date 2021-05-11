@@ -1,0 +1,1 @@
+{"category":"botania:misc","icon":"botania:white_pavement","name":"botania.entry.pavement","pages":[{"text":"botania.page.pavement0","type":"text"},{"recipes":["botania:white_pavement","botania:black_pavement","botania:blue_pavement","botania:yellow_pavement","botania:red_pavement","botania:green_pavement"],"text":"botania.page.pavement1","type":"botania:crafting_multi"}]}

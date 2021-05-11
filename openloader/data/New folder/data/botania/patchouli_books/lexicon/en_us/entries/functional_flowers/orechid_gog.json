@@ -1,0 +1,1 @@
+{"advancement":"botania:main/pure_daisy_pickup","category":"botania:functional_flowers","flag":"|debug,mod:gardenofglass","icon":"botania:orechid","name":"botania.entry.orechid","pages":[{"text":"botania.page.orechid0","type":"text"},{"recipe":"botania:petal_apothecary/orechid","text":"botania.page.orechid1","type":"botania:petal_apothecary"}],"priority":true}

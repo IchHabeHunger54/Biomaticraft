@@ -1,0 +1,1 @@
+{"input":{"ingredient":[{"item":"minecraft:brown_mushroom_block"},{"item":"minecraft:red_mushroom_block"},{"item":"minecraft:mushroom_stem"},{"item":"quark:glowshroom_block"},{"item":"quark:glowshroom_stem"}]},"output":{"count":9,"item":"mekanism:bio_fuel"},"type":"mekanism:crushing"}

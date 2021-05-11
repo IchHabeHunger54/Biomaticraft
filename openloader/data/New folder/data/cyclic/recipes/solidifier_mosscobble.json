@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:cobblestone"},"inputMiddle":{"item":"minecraft:cobblestone"},"inputTop":{"item":"minecraft:cobblestone"},"mix":{"count":10,"fluid":"cyclic:biomass"},"result":{"count":3,"item":"minecraft:mossy_cobblestone"},"type":"cyclic:solidifier"}

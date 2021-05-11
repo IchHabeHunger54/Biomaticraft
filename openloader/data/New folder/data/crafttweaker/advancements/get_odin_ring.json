@@ -1,0 +1,1 @@
+{"criteria":{"odin_ring":{"conditions":{"items":[{"item":"botania:odin_ring"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Get the Ring of Odin","frame":"task","hidden":false,"icon":{"item":"botania:odin_ring"},"show_toast":true,"title":"Lost Time Memory"},"parent":"crafttweaker:get_dice","requirements":[["odin_ring"]]}

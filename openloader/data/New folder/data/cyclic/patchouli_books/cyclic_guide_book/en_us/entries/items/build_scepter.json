@@ -1,0 +1,1 @@
+{"category":"cyclic:items","icon":"cyclic:build_scepter","name":"item.cyclic.build_scepter","pages":[{"text":"item.cyclic.build_scepter.guide","type":"text"},{"recipe":"cyclic:build_scepter","recipe2":"cyclic:offset_scepter","type":"crafting"},{"recipe":"cyclic:replace_scepter","type":"crafting"},{"text":"item.cyclic.build_scepter.guide0","type":"text"}]}

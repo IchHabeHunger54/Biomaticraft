@@ -1,0 +1,11 @@
+{
+  "category": "patchouli:biomes",
+  "icon": "minecraft:red_mushroom_block",
+  "name": "Mushroom Fields",
+  "pages": [
+    {
+      "text": "The mushroom fields and its coast variant are rare biomes that often spawn as a separated island, therefore they are also known as Mushroom Island. Covered by $(l:blocks/dirt)mycelium$() and both small and big $(l:blocks/mushroom)mushrooms$(), the biome is known for the fact that neither monsters nor animals spawn on the surface. The entire biome is inhabitated by $(l:mobs/cow)mooshrooms$().",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "category": "patchouli:biomes",
+  "icon": "minecraft:oak_log",
+  "name": "Forest",
+  "pages": [
+    {
+      "text": "Forests contain lots of oak trees in various sizes. Sometimes, you might find a birch tree as well. $(l:mobs/spawning)Mob spawning$() is as usual, and there is a hills variant. There is nothing really special about this biome.",
+      "type": "text"
+    }
+  ]
+}

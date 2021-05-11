@@ -1,0 +1,1 @@
+{"pools":[{"entries":[{"children":[{"conditions":[{"condition":"minecraft:match_tool","predicate":{"item":"minecraft:shears"}}],"name":"quark:root","type":"minecraft:item"},{"name":"quark:root_item","type":"minecraft:item"}],"type":"minecraft:alternatives"}],"rolls":1}],"type":"minecraft:block"}

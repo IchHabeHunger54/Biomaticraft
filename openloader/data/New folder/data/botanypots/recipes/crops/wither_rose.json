@@ -1,0 +1,1 @@
+{"categories":["dirt"],"display":{"block":"minecraft:wither_rose"},"growthTicks":1200,"results":[{"chance":0.75,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:wither_rose"}}],"seed":{"item":"minecraft:wither_rose"},"type":"botanypots:crop"}

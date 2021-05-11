@@ -1,0 +1,1 @@
+{"key":{"A":{"item":"minecraft:redstone"},"C":{"item":"mekanism:basic_control_circuit"},"P":{"item":"mekanism:steel_casing"},"_":{"item":"minecraft:cobblestone"}},"pattern":["ACA","_P_","ACA"],"result":{"item":"mekanism:basic_bin"},"type":"minecraft:crafting_shaped"}

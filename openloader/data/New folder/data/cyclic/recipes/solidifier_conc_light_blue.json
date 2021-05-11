@@ -1,0 +1,1 @@
+{"inputBottom":{"item":"minecraft:light_blue_concrete_powder"},"inputMiddle":{"item":"minecraft:light_blue_concrete_powder"},"inputTop":{"item":"minecraft:light_blue_concrete_powder"},"mix":{"count":10,"fluid":"minecraft:water"},"result":{"count":3,"item":"minecraft:light_blue_concrete"},"type":"cyclic:solidifier"}

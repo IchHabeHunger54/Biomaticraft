@@ -1,0 +1,1 @@
+{"criteria":{"end":{"conditions":{"to":"minecraft:the_end"},"trigger":"minecraft:changed_dimension"}},"display":{"announce_to_chat":true,"description":"Enter the end","frame":"task","hidden":false,"icon":{"item":"minecraft:end_portal_frame"},"show_toast":true,"title":"I Tried So Hard And Got So Far"},"parent":"crafttweaker:enter_stronghold","requirements":[["end"]]}

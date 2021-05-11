@@ -1,0 +1,1 @@
+{"advancement":"botania:main/runic_altar_pickup","category":"botania:tools","icon":"botania:water_rod","name":"botania.entry.waterRod","pages":[{"text":"botania.page.waterRod0","type":"text"},{"recipe":"botania:water_rod","text":"botania.page.waterRod1","type":"crafting"}]}

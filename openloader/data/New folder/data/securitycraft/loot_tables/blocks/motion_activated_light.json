@@ -1,0 +1,1 @@
+{"pools":[{"conditions":[{"condition":"minecraft:survives_explosion"}],"entries":[{"name":"securitycraft:motion_activated_light","type":"minecraft:item"}],"rolls":1}],"type":"minecraft:block"}

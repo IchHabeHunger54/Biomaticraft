@@ -1,0 +1,1 @@
+{"categories":["dirt"],"display":{"block":"minecraft:pumpkin"},"growthTicks":2000,"results":[{"chance":0.75,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:pumpkin"}},{"chance":0.05,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:pumpkin_seeds"}}],"seed":{"tag":"forge:seeds/pumpkin"},"type":"botanypots:crop"}

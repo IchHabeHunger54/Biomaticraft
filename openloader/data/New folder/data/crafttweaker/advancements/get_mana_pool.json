@@ -1,0 +1,1 @@
+{"criteria":{"mana_pool":{"conditions":{"items":[{"item":"botania:mana_pool"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Craft a mana pool","frame":"task","hidden":false,"icon":{"item":"botania:mana_pool"},"show_toast":true,"title":"A Swimming Pool?"},"parent":"crafttweaker:get_mystical_flower","requirements":[["mana_pool"]]}
