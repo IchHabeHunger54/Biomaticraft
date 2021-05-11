@@ -1,0 +1,17 @@
+/.idea/
+/.mixin.out/
+/downloads/
+/local/
+/logs/
+/mods/
+/resourcepacks/
+/saves/
+/screenshots/
+/.curseclient
+/BotaniaVars.dat
+/knownkeys.txt
+/minecraftinstance.json
+/patchouli_data.json
+/realms_persistence.json
+/usercache.json
+/usernamecache.json
