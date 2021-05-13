@@ -8,7 +8,7 @@
       "type": "text"
     },
     {
-      "text": "Mob spawning works as usual on islands that are still considered ocean biome. In any ocean, $(l:mobs/squid)squids$(), $(l:mobs/zombie)drowneds$() and variant-dependent $(l:mobs/fish)fish variants$() can spawn, along with $(l:blocks/kelp)kelp plants$() (not in frozen oceans), $(l:blocks/seagrass)seagrass$(), $(l:structures/shipwreck)shipwrecks$() and $(l:structures/ocean_ruin)ocean ruins$(). Additionally, $(l:structures/ocean_monument)ocean monuments$() can spawn in all five deep ocean variants.",
+      "text": "Mob spawning works as usual on islands that are still considered ocean biome. In any ocean, $(l:mobs/squid)squids$(), $(l:mobs/zombie)drowneds$() and variant-dependent $(l:mobs/fish)fish variants$() can spawn, along with $(l:blocks/kelp)kelp plants$() (not in frozen oceans), $(l:blocks/seagrass)seagrass$(), $(l:structures/shipwreck)shipwrecks$() and $(l:structures/ruin)ruins$(). Additionally, $(l:structures/ocean_monument)ocean monuments$() can spawn in all five deep ocean variants.",
       "type": "text"
     },
     {

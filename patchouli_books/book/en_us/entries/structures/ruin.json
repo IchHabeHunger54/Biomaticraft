@@ -1,0 +1,15 @@
+{
+  "category": "patchouli:structures",
+  "icon": "minecraft:light_blue_glazed_terracotta",
+  "name": "Ruin",
+  "pages": [
+    {
+      "text": "Ocean Ruins, or Ruins for short, are small to medium-sized weathered underwater castles built from $(l:blocks/stone)stone bricks and its variants$() (cold and normal oceans) or $(l:blocks/sand)sandstone and its variants$() (lukewarm and warm oceans). They can harbour $(l:items/map)treasure maps$() and some other precious resources. Another notable thing is glazed terracotta appearing on the floor.",
+      "type": "text"
+    },
+    {
+      "text": "Usually, there are a few ruins in a spot, and more ruins means more loot. Beware, however, as several $(l:mobs/zombie)drowneds$() will guard them, and they should not be underestimated when attacking in crowds.",
+      "type": "text"
+    }
+  ]
+}

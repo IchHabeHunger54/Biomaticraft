@@ -1,0 +1,15 @@
+{
+  "category": "patchouli:structures",
+  "icon": "minecraft:oak_trapdoor",
+  "name": "Igloo",
+  "pages": [
+    {
+      "text": "Igloos are small spherical house-like buildings that have a $(l:blocks/bed)bed$(), $(l:blocks/wool)carpets$(), a $(l:blocks/crafting_table)crafting table$() and a $(l:blocks/furnace)furnace$() inside. They come in a $(l:blocks/snow)snow$() variant (in $(l:biomes/taiga)snowy taigas$(), $(l:biomes/plains)tundras$() and $(l:biomes/ice_spikes)ice spikes$() biomes), a $(l:blocks/stone)stone$() variant (in $(l:biomes/mountains)mountain$() environments) and a $(l:blocks/dirt)dirt/grass$() variant (in most other biomes).",
+      "type": "text"
+    },
+    {
+      "text": "Every second igloo contains a secret entrance to an underground lab that contains a $(l:mobs/villager)normal villager$() and a $(l:mobs/zombie)zombie villager$(). The $(l:blocks/chest)chest$() there contains a $(l:items/apple)golden apple$(). If one now were to bring a $(l:items/potion)weakness potion$(), they could heal the zombie villager.",
+      "type": "text"
+    }
+  ]
+}
