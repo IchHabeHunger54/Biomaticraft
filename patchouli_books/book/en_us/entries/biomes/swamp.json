@@ -1,15 +1,1 @@
-{
-  "category": "patchouli:biomes",
-  "icon": "minecraft:vine",
-  "name": "Swamp",
-  "pages": [
-    {
-      "text": "The swamp is a wet biome with many little (sometimes bigger) water spots. $(l:blocks/lily_pad)Lily pads$() grow on the $(l:fluids/water)water$(), while $(l:blocks/vine)vines$() grow from the small $(l:world/tree)oak trees$().$(br2)Swamp-only features include $(l:mobs/frog)frogs$() and a special $(l:mobs/slime)slime$() spawning algorithm: At night, slimes will spawn on the surface. Their amount will vary depending on the moon phase.",
-      "type": "text"
-    },
-    {
-      "text": "Swamps have a hills variant, which is at fairly low altitudes, compared to other hill biomes. Swamp-themed $(l:structures/village)villages$() and $(l:structures/witch_hut)witch huts$() spawn.$(br2)Usually, swamps have green-brown water and a much darker green color, however, this is not the case in this modpack.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:biomes","icon":"minecraft:vine","name":"Swamp","pages":[{"text":"The swamp is a wet biome with many little (sometimes bigger) water spots. $(l:blocks/lily_pad)Lily pads$() grow on the $(l:fluids/water)water$(), while $(l:blocks/vine)vines$() grow from the small $(l:world/tree)oak trees$().$(br2)Swamp-only features include $(l:mobs/frog)frogs$() and a special $(l:mobs/slime)slime$() spawning algorithm: At night, slimes will spawn on the surface. Their amount will vary depending on the moon phase.","type":"text"},{"text":"Swamps have a hills variant, which is at fairly low altitudes, compared to other hill biomes. Swamp-themed $(l:structures/village)villages$() and $(l:structures/witch_hut)witch huts$() spawn.$(br2)Usually, swamps have green-brown water and a much darker green color, however, this is not the case in this modpack.","type":"text"}]}

@@ -1,15 +1,1 @@
-{
-  "category": "patchouli:biomes",
-  "icon": "minecraft:acacia_log",
-  "name": "Savanna",
-  "pages": [
-    {
-      "text": "The savanna is a dry grassland biome. It is home to the $(l:world/tree)acacia tree$(), though oak trees can spawn as well. Rain is not a thing here.$(br2)Special acacia variants of the $(l:structures/village)village$() and the $(l:structures/outpost)outpost$() can spawn. $(br2)The usual monsters and animals spawn.",
-      "type": "text"
-    },
-    {
-      "text": "This biome has four subtypes: normal, hills, modified and modified hills.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:biomes","icon":"minecraft:acacia_log","name":"Savanna","pages":[{"text":"The savanna is a dry grassland biome. It is home to the $(l:world/tree)acacia tree$(), though oak trees can spawn as well. Rain is not a thing here.$(br2)Special acacia variants of the $(l:structures/village)village$() and the $(l:structures/outpost)outpost$() can spawn. $(br2)The usual monsters and animals spawn.","type":"text"},{"text":"This biome has four subtypes: normal, hills, modified and modified hills.","type":"text"}]}

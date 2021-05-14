@@ -1,15 +1,1 @@
-{
-  "category": "patchouli:structures",
-  "icon": "minecraft:dispenser",
-  "name": "Temple",
-  "pages": [
-    {
-      "text": "Jungle Temples, or Temples for short, are large structures made from $(l:blocks/stone)cobblestone$() and mossy cobblestone. They can be found in $(l:biomes/jungle)jungles$() or $(l:biomes/bamboo_jungle)bamboo jungles$(). In their basement is a treasure $(l:blocks/chest)chest$(), protected by a trap. To avoid the trap, you must disable the triggering tripwire.",
-      "type": "text"
-    },
-    {
-      "text": "Another chest can be found behind the staircase puzzle. The staircase puzzle is a $(l:redstone/redstone)redstone$() contraption that can either be solved or broken into.$(br2)If you need mossy cobblestone in masses, this is a good way to get it.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:structures","icon":"minecraft:dispenser","name":"Temple","pages":[{"text":"Jungle Temples, or Temples for short, are large structures made from $(l:blocks/stone)cobblestone$() and mossy cobblestone. They can be found in $(l:biomes/jungle)jungles$() or $(l:biomes/bamboo_jungle)bamboo jungles$(). In their basement is a treasure $(l:blocks/chest)chest$(), protected by a trap. To avoid the trap, you must disable the triggering tripwire.","type":"text"},{"text":"Another chest can be found behind the staircase puzzle. The staircase puzzle is a $(l:redstone/redstone)redstone$() contraption that can either be solved or broken into.$(br2)If you need mossy cobblestone in masses, this is a good way to get it.","type":"text"}]}

@@ -1,11 +1,1 @@
-{
-  "category": "patchouli:structures",
-  "icon": "minecraft:mossy_stone_bricks",
-  "name": "Fortress",
-  "pages": [
-    {
-      "text": "Jungle Fortresses, or Fortresses for short, are large overgrown castle-like structures with precious loot. They can be, but are not necessarily $(l:fluids/water)flooded$(). Most of the structure is a maze of corridors, where occasionally $(l:blocks/chest)chests$() spawn.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:structures","icon":"minecraft:mossy_stone_bricks","name":"Fortress","pages":[{"text":"Jungle Fortresses, or Fortresses for short, are large overgrown castle-like structures with precious loot. They can be, but are not necessarily $(l:fluids/water)flooded$(). Most of the structure is a maze of corridors, where occasionally $(l:blocks/chest)chests$() spawn.","type":"text"}]}

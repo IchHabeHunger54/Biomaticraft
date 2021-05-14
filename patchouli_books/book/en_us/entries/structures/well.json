@@ -1,11 +1,1 @@
-{
-  "category": "patchouli:structures",
-  "icon": "minecraft:sandstone",
-  "name": "Well",
-  "pages": [
-    {
-      "text": "An invention from the $(l:biomes/desert)desert$(), the concept of wells has spread to most of the world - even if they are directly next to a lake.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:structures","icon":"minecraft:sandstone","name":"Well","pages":[{"text":"An invention from the $(l:biomes/desert)desert$(), the concept of wells has spread to most of the world - even if they are directly next to a lake.","type":"text"}]}

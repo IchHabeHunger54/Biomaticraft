@@ -1,15 +1,1 @@
-{
-  "category": "patchouli:biomes",
-  "icon": "minecraft:dandelion",
-  "name": "Flower Forest",
-  "pages": [
-    {
-      "text": "This subtype of the common $(l:biomes/forest)forest$() is known for its wide variation of $(l:blocks/flower)flowers$(). If you need a specific flower and don't have the $(l:items/bone)bone meal$() to get it yourself, this is the place to search for it. You will definitely also cross some $(l:mobs/bee)bees$(), $(l:mobs/cow)mooblooms$() and $(l:mobs/rabbit)rabbits$() there.",
-      "type": "text"
-    },
-    {
-      "text": "For the more technical people: Unlike all other biomes, the flower generation is not random, instead, it is determined by the seed. So if you bone-meal a specific position, you will always get the same flower.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:biomes","icon":"minecraft:dandelion","name":"Flower Forest","pages":[{"text":"This subtype of the common $(l:biomes/forest)forest$() is known for its wide variation of $(l:blocks/flower)flowers$(). If you need a specific flower and don't have the $(l:items/bone)bone meal$() to get it yourself, this is the place to search for it. You will definitely also cross some $(l:mobs/bee)bees$(), $(l:mobs/cow)mooblooms$() and $(l:mobs/rabbit)rabbits$() there.","type":"text"},{"text":"For the more technical people: Unlike all other biomes, the flower generation is not random, instead, it is determined by the seed. So if you bone-meal a specific position, you will always get the same flower.","type":"text"}]}

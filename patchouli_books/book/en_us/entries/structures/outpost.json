@@ -1,15 +1,1 @@
-{
-  "category": "patchouli:structures",
-  "icon": "minecraft:crossbow",
-  "name": "Outpost",
-  "pages": [
-    {
-      "text": "Outposts are illager sanctuaries that act as a supporting base for $(l:mechanics/raid)raids$(). Once you go near them, $(l:mobs/pillager)pillagers$() and $(l:mobs/vindicator)vindicators$() (occasionally) will come out of their cover, attacking you.$(br2)Some outposts have caged iron golems. If they do, free them, as they will provide support in battle.",
-      "type": "text"
-    },
-    {
-      "text": "As soon as you wipe out all illager life near the outpost, reinforcements will appear. It is therefore recommended to decimate the illagers to only one pillager, then loot the outpost and leave.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:structures","icon":"minecraft:crossbow","name":"Outpost","pages":[{"text":"Outposts are illager sanctuaries that act as a supporting base for $(l:mechanics/raid)raids$(). Once you go near them, $(l:mobs/pillager)pillagers$() and $(l:mobs/vindicator)vindicators$() (occasionally) will come out of their cover, attacking you.$(br2)Some outposts have caged iron golems. If they do, free them, as they will provide support in battle.","type":"text"},{"text":"As soon as you wipe out all illager life near the outpost, reinforcements will appear. It is therefore recommended to decimate the illagers to only one pillager, then loot the outpost and leave.","type":"text"}]}

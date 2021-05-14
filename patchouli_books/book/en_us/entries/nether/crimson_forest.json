@@ -1,11 +1,1 @@
-{
-  "category": "patchouli:nether",
-  "icon": "minecraft:crimson_stem",
-  "name": "Crimson Forest",
-  "pages": [
-    {
-      "text": "The bright red crimson forest is probably the most lively nether biome there is. The dense forest of $(l:blocks/nether_wood)grown crimson fungi$() is populated by both $(l:mobs/piglin)piglins$() and $(l:mobs/hoglin)hoglins$(). You should probably not go in there unequipped, as both piglins (if you don't wear $(l:items/gold)golden$() armor) and hoglins can get annoying very quickly.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:nether","icon":"minecraft:crimson_stem","name":"Crimson Forest","pages":[{"text":"The bright red crimson forest is probably the most lively nether biome there is. The dense forest of $(l:blocks/nether_wood)grown crimson fungi$() is populated by both $(l:mobs/piglin)piglins$() and $(l:mobs/hoglin)hoglins$(). You should probably not go in there unequipped, as both piglins (if you don't wear $(l:items/gold)golden$() armor) and hoglins can get annoying very quickly.","type":"text"}]}

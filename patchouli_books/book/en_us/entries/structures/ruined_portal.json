@@ -1,11 +1,1 @@
-{
-  "category": "patchouli:structures",
-  "icon": "quark:crimson_chest",
-  "name": "Ruined Portal",
-  "pages": [
-    {
-      "text": "Anywhere in the world, you can find a ruined portal. When you light one up, it will take you to the $(l:nether/nether)Nether$().$(br2)A nether loot $(l:blocks/chest)chest$() will also await you.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:structures","icon":"quark:crimson_chest","name":"Ruined Portal","pages":[{"text":"Anywhere in the world, you can find a ruined portal. When you light one up, it will take you to the $(l:nether/nether)Nether$().$(br2)A nether loot $(l:blocks/chest)chest$() will also await you.","type":"text"}]}

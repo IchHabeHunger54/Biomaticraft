@@ -1,11 +1,1 @@
-{
-  "category": "patchouli:nether",
-  "icon": "minecraft:basalt",
-  "name": "Basalt Deltas",
-  "pages": [
-    {
-      "text": "$(l:blocks/basalt)Basalt$(), $(l:blocks/blackstone)blackstone$() and many small spots of $(l:fluids/lava)lava$() make the terrain of this amplified-looking biome. It is the only place for $(l:mobs/slime)magma cubes$() to spawn, and they are aided by $(l:mobs/ghast)ghasts$(). The blackstone may contain a gilded variant as a reward.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:nether","icon":"minecraft:basalt","name":"Basalt Deltas","pages":[{"text":"$(l:blocks/basalt)Basalt$(), $(l:blocks/blackstone)blackstone$() and many small spots of $(l:fluids/lava)lava$() make the terrain of this amplified-looking biome. It is the only place for $(l:mobs/slime)magma cubes$() to spawn, and they are aided by $(l:mobs/ghast)ghasts$(). The blackstone may contain a gilded variant as a reward.","type":"text"}]}

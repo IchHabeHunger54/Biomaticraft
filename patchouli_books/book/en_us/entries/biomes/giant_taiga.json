@@ -1,15 +1,1 @@
-{
-  "category": "patchouli:biomes",
-  "icon": "minecraft:podzol",
-  "name": "Giant Taiga",
-  "pages": [
-    {
-      "text": "The Giant Taiga is a variant of the normal $(l:biomes/taiga)taiga$(). Aside from normal $(l:world/tree)spruce trees$(), giant 2x2 spruce trees can spawn here. The ground is mostly $(l:blocks/dirt)podzol$() and coarse dirt. You might also find some $(l:blocks/stone)mossy cobblestone$() blobs there, sometimes with $(l:basics/ores)ores$() enclosed.",
-      "type": "text"
-    },
-    {
-      "text": "The biome has a total of four subtypes. The Giant Tree Taiga is as described. The Giant Spruce Taiga has 2x2 trees only, meaning no normal spruce trees spawn there. Giant Tree Taiga Hills and Giant Spruce Taiga Hills are usual hill biomes.$(br2)In these biomes, special variants of $(l:structures/village)villages$(), $(l:structures/outpost)outposts$() and $(l:structures/witch_hut)witch huts$() and the usual spruce $(l:structures/mansion)mansions$() spawn.",
-      "type": "text"
-    }
-  ]
-}
+{"category":"patchouli:biomes","icon":"minecraft:podzol","name":"Giant Taiga","pages":[{"text":"The Giant Taiga is a variant of the normal $(l:biomes/taiga)taiga$(). Aside from normal $(l:world/tree)spruce trees$(), giant 2x2 spruce trees can spawn here. The ground is mostly $(l:blocks/dirt)podzol$() and coarse dirt. You might also find some $(l:blocks/stone)mossy cobblestone$() blobs there, sometimes with $(l:basics/ores)ores$() enclosed.","type":"text"},{"text":"The biome has a total of four subtypes. The Giant Tree Taiga is as described. The Giant Spruce Taiga has 2x2 trees only, meaning no normal spruce trees spawn there. Giant Tree Taiga Hills and Giant Spruce Taiga Hills are usual hill biomes.$(br2)In these biomes, special variants of $(l:structures/village)villages$(), $(l:structures/outpost)outposts$() and $(l:structures/witch_hut)witch huts$() and the usual spruce $(l:structures/mansion)mansions$() spawn.","type":"text"}]}

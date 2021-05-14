@@ -1,12 +1,1 @@
-{
-  "category": "patchouli:end",
-  "icon": "minecraft:end_portal",
-  "name": "End Portal",
-  "pages": [
-    {
-      "text": "Inside strongholds, end portals can be found. In order to successfully open the portal, you must fill all twelve frames with $(l:items/ender_eye)ender eyes$(), though some might already be filled.",
-      "type": "text"
-    }
-  ],
-  "priority": true
-}
+{"category":"patchouli:end","icon":"minecraft:end_portal","name":"End Portal","pages":[{"text":"Inside strongholds, end portals can be found. In order to successfully open the portal, you must fill all twelve frames with $(l:items/ender_eye)ender eyes$(), though some might already be filled.","type":"text"}],"priority":true}
