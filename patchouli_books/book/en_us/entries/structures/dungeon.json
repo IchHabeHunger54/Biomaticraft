@@ -8,7 +8,7 @@
       "type": "text"
     },
     {
-      "text": "The dungeon is quite small, it is essentially a box of $(l:blocks/stone)cobblestone$() and mossy cobblestone, with a $(l:blocks/spawner)spawner$() at its center. At the edges, a few $(l:blocks/chests)chests$() full of loot await the adventurer.",
+      "text": "The dungeon is quite small, it is essentially a box of $(l:blocks/stone)cobblestone$() and mossy cobblestone, with a $(l:blocks/spawner)spawner$() at its center. At the edges, a few $(l:blocks/chest)chests$() full of loot await the adventurer.",
       "type": "text"
     }
   ]

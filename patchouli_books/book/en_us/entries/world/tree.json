@@ -1,0 +1,46 @@
+{
+  "category": "patchouli:world",
+  "icon": "minecraft:oak_leaves",
+  "name": "Tree",
+  "pages": [
+    {
+      "text": "A tree is a formation of wood, leaves and sometimes some other components that resembles a real-life tree. If you break all logs, the leaves quickly vanish.",
+      "type": "text"
+    },
+    {
+      "text": "Oak trees come in various shapes. Their height varies quite a lot, and the taller ones can have branches extending to the sides. You might also find a $(l:blocks/beehive)beehive$() attached to one.",
+      "title": "Oak Tree",
+      "type": "text"
+    },
+    {
+      "text": "Spruce trees resemble real-life spruce or pine trees. They come in different sizes, and they also have a 2x2 variant, which is even taller.",
+      "title": "Spruce Tree",
+      "type": "text"
+    },
+    {
+      "text": "Birch trees look exactly like the smaller variants of oak trees. Similar to them, they can have beehives attached as well.",
+      "title": "Birch Tree",
+      "type": "text"
+    },
+    {
+      "text": "Jungle trees are somewhat special, but also quite rare. They usually spawn with $(l:blocks/vine)vines$() and $(l:blocks/cocoa_beans)cocoa beans$() attached to them and are the only wood type that the latter can grow on.",
+      "title": "Jungle Tree",
+      "type": "text"
+    },
+    {
+      "text": "Acacia trees usually have two layers of leaves and a curved stem.",
+      "title": "Acacia Tree",
+      "type": "text"
+    },
+    {
+      "text": "Dark oak trees come in various shapes, but all of them have a 2x2 base stem.",
+      "title": "Dark Oak Tree",
+      "type": "text"
+    },
+    {
+      "text": "Giant fungi (not to be confused with giant $(l:blocks/mushroom)mushrooms$()) are crimson and warped \"trees\". Instead of leaves, they have crimson or warped wart blocks, respectively. They also have $(l:blocks/shroomlight)shroomlights$().",
+      "title": "Giant Fungi",
+      "type": "text"
+    }
+  ]
+}

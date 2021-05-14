@@ -8,7 +8,7 @@
       "type": "text"
     },
     {
-      "text": "Mansions are illager sanctuaries, a lot of $(l:mobs/vindicator)vindicators$() and $(l:mobs/evoker)evokers$() populate it. Aside from that, due to the inside being quite dark, regular monsters will assist the illagers as well.$(br2)Raiding a mansion is a challenging and time-consuming task, at least full $(l:items/equipment)iron gear$() is recommended.",
+      "text": "Mansions are illager sanctuaries, a lot of $(l:mobs/vindicator)vindicators$() and $(l:mobs/evoker)evokers$() populate it. Aside from that, due to the inside being quite dark, regular monsters will assist the illagers as well.$(br2)Raiding a mansion is a challenging and time-consuming task, at least full $(l:items/iron)iron$() gear is recommended.",
       "type": "text"
     }
   ]

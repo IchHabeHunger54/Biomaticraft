@@ -1,0 +1,12 @@
+{
+  "category": "patchouli:fluids",
+  "icon": "minecraft:lava_bucket",
+  "name": "Lava",
+  "pages": [
+    {
+      "text": "Lava is the probably second-most present fluid. It appears rarely in the overworld, and very often in the $(l:nether/nether)nether$(). When lava touches $(l:fluids/water)water$(), they solidify. See the water entry for more info.$(br2)Lava flows up to 3 blocks far in the overworld and the $(l:end/end)end$(), and up to 7 blocks far and twice as fast in the nether.",
+      "type": "text"
+    }
+  ],
+  "priority": true
+}

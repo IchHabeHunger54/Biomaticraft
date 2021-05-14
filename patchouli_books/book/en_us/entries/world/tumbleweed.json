@@ -1,0 +1,11 @@
+{
+  "category": "patchouli:world",
+  "icon": "tumbleweed:textures/entity/tumbleweed.png",
+  "name": "Tumbleweed",
+  "pages": [
+    {
+      "text": "Tumbleweeds can be found in $(l:biomes/desert)deserts$() and $(l:biomes/mesa)mesas$(). When punching them, they can give trash or treasures (rarely).",
+      "type": "text"
+    }
+  ]
+}

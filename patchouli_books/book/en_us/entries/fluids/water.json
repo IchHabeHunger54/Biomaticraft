@@ -1,0 +1,16 @@
+{
+  "category": "patchouli:fluids",
+  "icon": "minecraft:water_bucket",
+  "name": "Water",
+  "pages": [
+    {
+      "text": "Water is the probably most present fluid. It makes up $(l:biomes/ocean)oceans$() and $(l:biomes/river)rivers$(), and can be picked up using a $(l:items/bucket)bucket$(). It has a current, pushing entities, and extinguishes anything inside.",
+      "type": "text"
+    },
+    {
+      "text": "When water and $(l:fluids/lava)lava$() touch each other, a block forms, depending on the combination:$(br2)- Water flows onto or at the side of still lava -> $(l:blocks/obsidian)obsidian$()$(br)- Lava flows onto still or flowing water -> $(l:blocks/stone)stone$()$(br)- All other combinations -> cobblestone",
+      "type": "text"
+    }
+  ],
+  "priority": true
+}

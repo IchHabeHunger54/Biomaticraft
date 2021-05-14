@@ -4,7 +4,7 @@
   "name": "Pyramid",
   "pages": [
     {
-      "text": "Pyramids are pyramid-shaped (surprise!) buildings with two towers at the side that harbour a total of four $(l:blocks/chest)chests$(). They consist mostly of different types of $(l:blocks/sand)sandstone$() (in $(l:biomes/desert)deserts$()) or red sandstone (in $(l:biomes/mesa)mesas$()).$(br2)A pattern of $(l:blocks/terracotta)dyed terracotta$() marks where the treasure is. But beware, there is a $(l:blocks/tnt)TNT$() trap guarding it...",
+      "text": "Pyramids are pyramid-shaped (surprise!) buildings with two towers at the side that harbour a total of four $(l:blocks/chest)chests$(). They consist mostly of different types of $(l:blocks/sand)sandstone$() (in $(l:biomes/desert)deserts$()) or red sandstone (in $(l:biomes/mesa)mesas$()).$(br2)A pattern of $(l:blocks/terracotta)dyed terracotta$() marks where the treasure is. But beware, there is a $(l:redstone/tnt)TNT$() trap guarding it...",
       "type": "text"
     },
     {

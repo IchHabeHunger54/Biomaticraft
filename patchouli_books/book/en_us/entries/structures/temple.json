@@ -8,7 +8,7 @@
       "type": "text"
     },
     {
-      "text": "Another chest can be found behind the staircase puzzle. The staircase puzzle is a $(l:mechanics/redstone)redstone$() contraption that can either be solved or broken into.$(br2)If you need mossy cobblestone in masses, this is a good way to get it.",
+      "text": "Another chest can be found behind the staircase puzzle. The staircase puzzle is a $(l:redstone/redstone)redstone$() contraption that can either be solved or broken into.$(br2)If you need mossy cobblestone in masses, this is a good way to get it.",
       "type": "text"
     }
   ]

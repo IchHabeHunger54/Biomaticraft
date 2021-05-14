@@ -8,7 +8,7 @@
       "type": "text"
     },
     {
-      "text": "In a Mineshaft, you will find many ores waiting for you. If you need some $(l:redstone/rail)rails$(), you will find plenty of them here as well. Sometimes, even a $(l:redstone/minecart)chest minecart$() can be found, containing precious loot.$(br2)The bigger challenge, however, is getting rid of the monsters, especially the $(l:mobs/cave_spider)cave spiders$() that sometimes have $(l:blocks/cobweb)cobweb$()-covered $(l:blocks/spawner)spawner$() hideouts here.",
+      "text": "In a Mineshaft, you will find many ores waiting for you. If you need some $(l:redstone/rail)rails$(), you will find plenty of them here as well. Sometimes, even a $(l:redstone/minecart)chest minecart$() can be found, containing precious loot.$(br2)The bigger challenge, however, is getting rid of the monsters, especially the $(l:mobs/spider)cave spiders$() that sometimes have $(l:blocks/cobweb)cobweb$()-covered $(l:blocks/spawner)spawner$() hideouts here.",
       "type": "text"
     }
   ]

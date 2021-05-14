@@ -8,7 +8,7 @@
       "type": "text"
     },
     {
-      "text": "Every second igloo contains a secret entrance to an underground lab that contains a $(l:mobs/villager)normal villager$() and a $(l:mobs/zombie)zombie villager$(). The $(l:blocks/chest)chest$() there contains a $(l:items/apple)golden apple$(). If one now were to bring a $(l:items/potion)weakness potion$(), they could heal the zombie villager.",
+      "text": "Every second igloo contains a secret entrance to an underground lab that contains a $(l:mobs/villager)normal villager$() and a $(l:mobs/zombie)zombie villager$(). The $(l:blocks/chest)chest$() there contains a $(l:items/apple)golden apple$(). If one now were to bring a $(l:effects/potion)weakness potion$(), they could heal the zombie villager.",
       "type": "text"
     }
   ]

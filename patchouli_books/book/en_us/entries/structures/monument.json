@@ -12,7 +12,7 @@
       "type": "text"
     },
     {
-      "text": "After killing the few Guardians outside the Monument, you can enter through an underwater entrance. It is recommended to bring $(l:items/potion)water breathing potions$() or another way of breathing underwater in order to actually beat this. When you enter, you will get an Elder Guardian jumpscare and the $(l:effects/haste)Mining Fatigue$() effect, preventing you from simply breaking your way through the structure.",
+      "text": "After killing the few Guardians outside the Monument, you can enter through an underwater entrance. It is recommended to bring $(l:effects/potion)water breathing potions$() or another way of breathing underwater in order to actually beat this. When you enter, you will get an Elder Guardian jumpscare and the $(l:effects/haste)Mining Fatigue$() effect, preventing you from simply breaking your way through the structure.",
       "title": "Strategy",
       "type": "text"
     },

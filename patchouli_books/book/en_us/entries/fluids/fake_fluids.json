@@ -1,0 +1,17 @@
+{
+  "category": "patchouli:fluids",
+  "icon": "securitycraft:bucket_f_water",
+  "name": "Fake Fluids",
+  "pages": [
+    {
+      "text": "Fake Water looks like $(l:fluids/water)water$(), but acts like $(l:fluids/lava)lava$().$(br)Fake Lava looks like lava, but acts like lava.",
+      "type": "text"
+    },
+    {
+      "recipe": "crafttweaker:bucket_f_water",
+      "recipe2": "crafttweaker:bucket_f_lava",
+      "type": "crafting"
+    }
+  ],
+  "priority": true
+}

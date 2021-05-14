@@ -346,8 +346,8 @@ shapeless("bouncing_betty", <item:securitycraft:bouncing_betty>, [<item:security
 shapeless("brain_sea_lantern", <item:charm:brain_sea_lantern>, [<item:minecraft:sea_lantern>, <item:minecraft:brain_coral>]);
 shapeless("brown_mulch", <item:inspirations:brown_mulch>, [<item:inspirations:plain_mulch>, <item:minecraft:cocoa_beans>]);
 shapeless("bubble_sea_lantern", <item:charm:bubble_sea_lantern>, [<item:minecraft:sea_lantern>, <item:minecraft:bubble_coral>]);
-shapeless("bucket_f_lava", <item:securitycraft:bucket_f_lava>, [<item:minecraft:lava_bucket>, <item:minecraft:spider_eye>]);
-shapeless("bucket_f_water", <item:securitycraft:bucket_f_water>, [<item:minecraft:water_bucket>, <item:minecraft:spider_eye>]);
+shapeless("bucket_f_lava", <item:securitycraft:bucket_f_lava>, [<item:minecraft:lava_bucket>, <item:minecraft:fermented_spider_eye>]);
+shapeless("bucket_f_water", <item:securitycraft:bucket_f_water>, [<item:minecraft:water_bucket>, <item:minecraft:fermented_spider_eye>]);
 shapeless("claymore", <item:securitycraft:claymore>, [<item:securitycraft:bouncing_betty>, <item:minecraft:string>, <item:minecraft:tripwire_hook>]);
 shapeless("cobblestone_mine", <item:securitycraft:cobblestone_mine>, [<item:minecraft:cobblestone>, <item:securitycraft:mine>]);
 shapeless("coral_agglomeratio", <item:mysticalagriculture:coral_agglomeratio>, [<item:minecraft:brain_coral>, <item:minecraft:bubble_coral>, <item:minecraft:fire_coral>, <item:minecraft:horn_coral>, <item:minecraft:tube_coral>]);

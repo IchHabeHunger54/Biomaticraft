@@ -4,15 +4,11 @@
   "name": "Mountains",
   "pages": [
     {
-      "text": "The five mountain types are relatively common, in total. Mountains, in general, are quite steep and due to how world generation works, there are often smaller floating islands, that most of the time only consist of a few blocks.$(br2)In the underground of the mountains, $(l:mobs/silverfish)silverfish blocks$() generate. $(l:blocks/llama)Llamas$() are typical for the mountain surface, they don't spawn anywhere else.",
+      "text": "The five mountain types are relatively common, in total. Mountains, in general, are quite steep and due to how world generation works, there are often smaller floating islands, that most of the time only consist of a few blocks.$(br2)In the underground of the mountains, $(l:mobs/silverfish)silverfish blocks$() generate. $(l:mobs/llama)Llamas$() are typical for the mountain surface, they don't spawn anywhere else.",
       "type": "text"
     },
     {
-      "text": "The Wooded Mountains are basically a $(l:world/tree)forest$() on top of the mountains, while the Snowy Mountains have more snow on top than the other mountains.$(br2)Gravel Mountains and their Modified variant are a subtype of mountains that have their first few surface layers covered with $(l:blocks/gravel)gravel$().",
-      "type": "text"
-    },
-    {
-      "text": "Mountains have special variants of $(l:structures/village)villages$() that spawn there.",
+      "text": "The Wooded Mountains are basically a $(l:world/tree)forest$() on top of the mountains, while the Snowy Mountains have more snow on top than the other mountains.$(br2)Gravel Mountains and their Modified variant are a subtype of mountains that have their first few surface layers covered with $(l:blocks/gravel)gravel$().$(br2)Mountains have special variants of $(l:structures/village)villages$() that spawn there.",
       "type": "text"
     }
   ]
