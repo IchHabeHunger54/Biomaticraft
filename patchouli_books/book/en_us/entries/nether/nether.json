@@ -1,0 +1,28 @@
+{
+  "category": "patchouli:nether",
+  "icon": "minecraft:netherrack",
+  "name": "The Nether",
+  "pages": [
+    {
+      "text": "The nether is a hot dimension, dominated by the color red. $(l:fluids/water)Water$() instantly evaporates, and $(l:mobs/snow_golem)snow golems$() die within seconds of a heat stroke.$(br2)What is $(l:blocks/dirt)dirt$() in the overworld is $(l:blocks/netherrack)netherrack$() here, and what is $(l:blocks/stone)stone$() in the overworld is $(l:blocks/blackstone)blackstone$() here (though netherrack generates more like stone than blackstone does, and is to be mined with a pickaxe as well).",
+      "type": "text"
+    },
+    {
+      "text": "Contrary to the overworld, the nether consists of five biomes that are equally common. All five biomes can spawn $(l:mobs/strider)striders$(), $(l:mobs/foxhound)foxhounds$() and $(l:items/netherite)ancient debris$(). All five biomes also spawn extra ancient debris at the bottom of the world, making y=15 the best height to search for it.$(br2)Below y=32, $(l:fluids/lava)lava$() oceans cover the floor, making the nether quite difficult to conquer.",
+      "type": "text"
+    },
+    {
+      "text": "The nether is the only dimension to have a $(l:blocks/bedrock)bedrock$() roof in addition to the bedrock floor. Since the nether is only 128 blocks tall, but the world height is 256 blocks tall, if one manages to break the nether roof, they could build large farm constructs up there.",
+      "type": "text"
+    },
+    {
+      "text": "$(l:mobs/piglin)Piglins$(), the main population of the nether, have taken concepts from the overworld and adapted them. As a result, you will find nether-themed $(l:structures/dungeon)dungeons$(), $(l:structures/mineshaft)mineshafts$(), $(l:structures/outpost)outposts$(), $(l:structures/pyramid)pyramids$(), $(l:structures/ruin)ruins$(), $(l:structures/ruined_portal)ruined portals$(), $(l:structures/shipwreck)shipwrecks$(), $(l:structures/stronghold)strongholds$(), $(l:structures/temple)temples$(), $(l:structures/village)villages$() and $(l:structures/well)wells$(), as well as a nether version of the $(l:end/city)end city$() here.",
+      "type": "text"
+    },
+    {
+      "text": "But, they also have their own bases. $(l:nether/bastion)Bastions$() and $(l:nether/fortress)fortresses$() (similar to the $(l:structures/fortress)jungle$() ones, but way more complex) are their main lairs and can be found anywhere in the nether, though most of the fortresses have been abandoned and populated by $(l:mobs/blaze)blazes$() and $(l:mobs/wither_skeleton)wither skeletons$() instead.",
+      "type": "text"
+    }
+  ],
+  "priority": true
+}

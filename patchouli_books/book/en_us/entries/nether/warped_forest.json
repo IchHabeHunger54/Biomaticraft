@@ -1,0 +1,11 @@
+{
+  "category": "patchouli:nether",
+  "icon": "minecraft:warped_stem",
+  "name": "Warped Forest",
+  "pages": [
+    {
+      "text": "The cyan warped forest is contrasting with the $(l:nether/crimson_forest)crimson forest$(). It is a quiet and peaceful area, as long as you don't accidentally look into an $(l:mobs/enderman)enderman's$() eyes for too long.",
+      "type": "text"
+    }
+  ]
+}

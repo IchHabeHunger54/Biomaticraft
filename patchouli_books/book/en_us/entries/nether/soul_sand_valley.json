@@ -1,0 +1,11 @@
+{
+  "category": "patchouli:nether",
+  "icon": "minecraft:soul_sand",
+  "name": "Soul Sand Valley",
+  "pages": [
+    {
+      "text": "$(l:blocks/soul_sand)Soul sand$() and soul soil make most part of this biome's underground, making it difficult to cross, partially due to the slowing properties of soul sand, and also due to the large amount of $(l:mobs/wraith)wraiths$() and $(l:mobs/ghast)ghasts$() (whose spawn rate is increased here) getting on your nerves.$(br2)Foxhounds spawned in this biome have a soul fire outfit instead of the regular. Occasionally, one might find some $(l:items/bone)bone block structures$() erected from the ground.",
+      "type": "text"
+    }
+  ]
+}

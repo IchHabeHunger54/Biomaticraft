@@ -1,0 +1,11 @@
+{
+  "category": "patchouli:nether",
+  "icon": "minecraft:nether_bricks",
+  "name": "Fortress",
+  "pages": [
+    {
+      "text": "Nether Fortresses, or just Fortresses, are large buildings of $(l:blocks/netherrack)nether bricks$(), mainly in the shape of bridges and corridors, with pillars extending to the ground, if they are not on the ground already.$(br2)Main loot of fortresses are $(l:mobs/skeleton)wither skeleton$() skulls, $(l:mobs/blaze)blazes$() (which can also appear from spawners) and $(l:blocks/nether_wart)nether warts$().",
+      "type": "text"
+    }
+  ]
+}
