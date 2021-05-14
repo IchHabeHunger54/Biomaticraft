@@ -8,7 +8,11 @@
       "type": "text"
     },
     {
-      "text": "Contrary to the overworld, the nether consists of five biomes that are equally common. All five biomes can spawn $(l:mobs/strider)striders$(), $(l:mobs/foxhound)foxhounds$() and $(l:items/netherite)ancient debris$(). All five biomes also spawn extra ancient debris at the bottom of the world, making y=15 the best height to search for it.$(br2)Below y=32, $(l:fluids/lava)lava$() oceans cover the floor, making the nether quite difficult to conquer.",
+      "text": "Contrary to the overworld, the nether consists of five biomes that are equally common. All five biomes can spawn $(l:mobs/strider)striders$(), $(l:mobs/foxhound)foxhounds$() and $(l:items/netherite)ancient debris$(). All five biomes also spawn extra ancient debris at the bottom of the world, making y=15 the best height to search for it.",
+      "type": "text"
+    },
+    {
+      "text": "Below y=32, $(l:fluids/lava)lava$() oceans cover the floor, making the nether quite difficult to conquer. Sometimes, obsidian spikes come out of the lava. These rarely have a $(l:mobs/blaze)blaze$() $(l:blocks/spawner)spawner$() inside, which is indicated by a $(l:items/blaze_rod)blaze lantern$() near the top of the spike.",
       "type": "text"
     },
     {

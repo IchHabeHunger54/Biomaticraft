@@ -1,0 +1,23 @@
+{
+  "category": "patchouli:end",
+  "icon": "quark:myalite_crystal",
+  "name": "Outer End",
+  "pages": [
+    {
+      "text": "After defeating the $(l:mobs/ender_dragon)Ender Dragon$(), the Outer End can be accessed. This should be done through a gateway, as there are several hundred blocks of void between the $(l:end/main_island)Main Island$() and the Outer End.",
+      "type": "text"
+    },
+    {
+      "text": "The Outer End is made out of four biomes that all look somewhat similar. The probably easist to distinct is the End Islands biome, which is some small $(l:blocks/end_stone)end stone$() islands floating over the void. The other three are the End Barrens (the cliffs of the large landmasses), the End Midlands (the lower areas of the large landmasses) and the End Highlands (the higher areas of the large landmasses).",
+      "type": "text"
+    },
+    {
+      "text": "On said large landmasses, a few things can be found. Besides $(l:end/city)end cities$(), this includes $(l:blocks/chorus_plant)chorus plants and vegetation$(), $(l:blocks/stone_variants)myalite$() piles and $(l:blocks/obsidian)obsidian$() spirals - huge obsidian and crying obsidian spikes with spirals of myalite crystals above them.",
+      "type": "text"
+    },
+    {
+      "text": "Also on the large outer end islands, you can find a few overworld-like structures, similar to the ones found in the $(l:nether/nether)nether$(). These include end-themed $(l:structures/mineshaft)mineshafts$(), $(l:structures/outpost)outposts$(), $(l:structures/pyramid)pyramids$(), $(l:structures/ruined_portal)ruined portals$() and $(l:structures/mineshaft)shipwrecks$().",
+      "type": "text"
+    }
+  ]
+}
