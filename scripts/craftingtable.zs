@@ -26,6 +26,7 @@ dualCycle("magma_bricks", <item:minecraft:magma_block>, <item:quark:magma_bricks
 dualCycle("midori_pillar", <item:quark:midori_block>, <item:quark:midori_pillar>);
 dualCycle("snow_bricks", <item:minecraft:snow_block>, <item:quark:snow_bricks>);
 dye1("basalz_rod", <item:mysticalagriculture:basalz_essence>, air, <item:thermal:basalz_rod> * 4);
+dye1("bit_bag", <tag:items:minecraft:wool>, <item:chiselsandbits:block_bit>, <item:chiselsandbits:bit_bag>);
 dye1("blitz_rod", <item:mysticalagriculture:blitz_essence>, air, <item:thermal:blitz_rod> * 4);
 dye1("blizz_rod", <item:mysticalagriculture:blizz_essence>, air, <item:thermal:blizz_rod> * 4);
 dye1("copper_barrel", <item:mekanism:ingot_copper>, <tag:items:forge:barrels/wooden>, <item:metalbarrels:copper_barrel>);
@@ -58,7 +59,6 @@ dye1("wired_modem_full", <item:mekanism:ingot_steel>, <item:computercraft:cable>
 dye1("wireless_modem_advanced", <item:minecraft:gold_ingot>, <item:minecraft:ender_pearl>, <item:computercraft:wireless_modem_advanced>);
 dye1("wireless_modem_normal", <item:minecraft:iron_ingot>, <item:minecraft:ender_pearl>, <item:computercraft:wireless_modem_normal>);
 dye8("anchor_plate", <item:darkutils:blank_plate>, <tag:items:forge:slimeballs>, <item:darkutils:anchor_plate>);
-dye8("bit_bag", <tag:items:minecraft:wool>, <item:chiselsandbits:block_bit>, <item:chiselsandbits:bit_bag>);
 dye8("blank_skull", <item:minecraft:bone_block>, <item:mysticalagriculture:soulium_dust>, <item:mysticalagriculture:blank_skull>);
 dye8("blue_nether_bricks", <item:minecraft:nether_bricks>, <item:minecraft:warped_wart_block>, <item:quark:blue_nether_bricks>);
 dye8("carrot_ender", <item:minecraft:golden_carrot>, <item:minecraft:ender_pearl>, <item:cyclic:carrot_ender>);

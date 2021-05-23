@@ -242,7 +242,7 @@ shaped("spider_eye", <item:minecraft:spider_eye> * 3, [[<item:mysticalagricultur
 shaped("spruce_log", <item:minecraft:spruce_log> * 8, [[air, air, air], [<item:mysticalagriculture:wood_essence>, <item:mysticalagriculture:wood_essence>, <item:mysticalagriculture:wood_essence>], [air, air, air]]);
 shaped("spruce_sapling", <item:minecraft:spruce_sapling> * 8, [[air, air, air], [<item:mysticalagriculture:wood_essence>, <item:mysticalagriculture:nature_essence>, <item:mysticalagriculture:wood_essence>], [air, air, air]]);
 shaped("stick", <item:minecraft:stick> * 4, [[<tag:items:minecraft:planks>], [<tag:items:minecraft:planks>]]);
-shaped("stone_bricks", <item:minecraft:stone_bricks>, [[<item:minecraft:stone>, <item:minecraft:stone>], [<item:minecraft:stone>, <item:minecraft:stone>]]);
+shaped("stone_bricks", <item:minecraft:stone_bricks> * 4, [[<item:minecraft:stone>, <item:minecraft:stone>], [<item:minecraft:stone>, <item:minecraft:stone>]]);
 shaped("string", <item:minecraft:string> * 3, [[<item:mysticalagriculture:spider_essence>, <item:mysticalagriculture:spider_essence>, <item:mysticalagriculture:spider_essence>]]);
 shaped("tnt", <item:minecraft:tnt>, [[<tag:items:minecraft:sand>, <item:minecraft:gunpowder>], [<item:minecraft:gunpowder>, <tag:items:minecraft:sand>]]);
 shaped("tripwire_hook", <item:minecraft:tripwire_hook>, [[<item:minecraft:iron_ingot>], [<item:minecraft:stick>], [<tag:items:minecraft:planks>]]);
