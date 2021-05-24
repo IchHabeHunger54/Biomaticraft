@@ -1,1 +1,0 @@
-{"category":"thermal:augments","icon":"thermal:rf_coil_augment","name":"Expanded RF Coil","pages":[{"recipe":"thermal:augments/rf_coil_augment","text":"The Expanded RF Coil augment scales RF storage and transfer by 4.","title":"Expanded RF Coil","type":"crafting"}],"read_by_default":true}

@@ -11,7 +11,7 @@
 				[server.server.balancing.server.balancing]
 					#mod.chiselsandbits.config.server.balancing.server.balancing.wrench-uses.comment
 					#Range: > -2147483648
-					wrench-uses = 1888
+					wrench-uses = 2000
 
 					[server.server.balancing.server.balancing.revertible]
 						#mod.chiselsandbits.config.server.balancing.server.balancing.revertible.blocks.comment
@@ -76,7 +76,7 @@
 					[server.server.balancing.server.balancing.saw-uses]
 						#mod.chiselsandbits.config.server.balancing.server.balancing.saw-uses.gold.comment
 						#Range: > -2147483648
-						gold = 500
+						gold = 256
 						#mod.chiselsandbits.config.server.balancing.server.balancing.saw-uses.diamond.comment
 						#Range: > -2147483648
 						diamond = 8192
@@ -92,7 +92,7 @@
 
 					[server.server.balancing.server.balancing.bag-space]
 						#mod.chiselsandbits.config.server.balancing.server.balancing.bag-space.void-excess.comment
-						void-excess = true
+						void-excess = false
 						#mod.chiselsandbits.config.server.balancing.server.balancing.bag-space.required.comment
 						required = true
 

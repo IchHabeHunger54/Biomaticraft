@@ -1,1 +1,0 @@
-{"category":"misc","icon":"industrialforegoing:enchantment_sorter","name":"Enchantment Sorter","pages":[{"text":"This machine will sort items that are enchanted from the ones that aren't.","type":"text"},{"recipe":"industrialforegoing:enchantment_sorter","type":"crafting"}],"read_by_default":true,"sortnum":1}

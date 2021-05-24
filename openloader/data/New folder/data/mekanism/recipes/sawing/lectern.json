@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"item":"minecraft:lectern"}},"mainOutput":{"count":14,"item":"thermal:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"count":3,"item":"minecraft:book"},"type":"mekanism:sawing"}
+{"input":{"ingredient":{"item":"minecraft:lectern"}},"mainOutput":{"count":14,"item":"mekanism:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"count":3,"item":"minecraft:book"},"type":"mekanism:sawing"}

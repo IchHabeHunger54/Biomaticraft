@@ -113,7 +113,6 @@ shapeless("star_sword", <item:botania:star_sword>, [<item:botania:terra_sword>, 
 shapeless("thunder_sword", <item:botania:thunder_sword>, [<item:botania:terra_sword>, <item:botania:mana_diamond>, <item:botania:elementium_ingot>, <item:botania:ender_air_bottle>]);
 sword("soulscribe", <item:botania:mana_pearl>, <item:botania:ender_dagger>, <item:botania:livingwood_twig>);
 pickaxe("glass", <tag:items:forge:glass>, <item:botania:glass_pickaxe>, <item:botania:livingwood_twig>);
-pickaxe("mattock", <item:minecraft:obsidian>, <item:cyclic:mattock>, <item:mekanism:ingot_tin>);
 helm("vision", <item:minecraft:glowstone>, <item:cyclic:glowing_helmet>);
 pickaxe("spell_water", <item:minecraft:lapis_lazuli>, <item:cyclic:spell_water>, <item:mekanism:ingot_steel>);
 pickaxe("spell_ice", <item:minecraft:ice>, <item:cyclic:spell_ice>, <item:mekanism:ingot_steel>);
@@ -272,7 +271,6 @@ shaped("charm_portal", <item:darkutils:charm_portal>, [[<item:minecraft:string>,
 shaped("charm_sleep", <item:darkutils:charm_sleep>, [[<item:minecraft:string>, <item:minecraft:bone_meal>, <item:minecraft:string>], [<item:minecraft:ink_sac>, <item:minecraft:phantom_membrane>, <item:minecraft:glowstone_dust>], [<item:minecraft:string>, <item:minecraft:redstone>, <item:minecraft:string>]]);
 shaped("charm_experience", <item:darkutils:charm_experience>, [[<item:minecraft:string>, <item:minecraft:emerald>, <item:minecraft:string>], [<item:minecraft:emerald>, <item:minecraft:experience_bottle>, <item:minecraft:emerald>], [<item:minecraft:string>, <item:minecraft:emerald>, <item:minecraft:string>]]);
 shaped("charm_gluttony", <item:darkutils:charm_gluttony>, [[<item:minecraft:string>, <item:minecraft:cookie>, <item:minecraft:string>], [<item:minecraft:cookie>, <item:pickletweaks:emerald_apple>, <item:minecraft:cookie>], [<item:minecraft:string>, <item:minecraft:cookie>, <item:minecraft:string>]]);
-shaped("meat_feeder", <item:industrialforegoing:meat_feeder>, [[<tag:items:minecraft:planks>, <item:mekanism:ingot_steel>, <tag:items:minecraft:planks>], [<item:minecraft:glass_bottle>, <item:mekanism:ingot_steel>, <item:minecraft:glass_bottle>], [air, <item:mekanism:ingot_steel>, air]]);
 shaped("binoculars", <item:vanillatweaks:binoculars>, [[<item:vanillatweaks:lens>, <item:mekanism:ingot_steel>, <item:vanillatweaks:lens>]]);
 shaped("mekasuit_helmet", <item:mekanism:mekasuit_helmet>, [[<item:mekanism:ultimate_control_circuit>, <item:mekanism:ingot_refined_obsidian>, <item:mekanism:ultimate_control_circuit>], [<item:mekanism:hdpe_pellet>, <item:minecraft:netherite_helmet>, <item:mekanism:hdpe_pellet>], [<item:mekanism:pellet_polonium>, <item:mekanism:ultimate_induction_cell>, <item:mekanism:pellet_polonium>]]);
 shaped("mekasuit_bodyarmor", <item:mekanism:mekasuit_bodyarmor>, [[<item:mekanism:ultimate_control_circuit>, <item:mekanism:ingot_refined_obsidian>, <item:mekanism:ultimate_control_circuit>], [<item:mekanism:hdpe_pellet>, <item:minecraft:netherite_chestplate>, <item:mekanism:hdpe_pellet>], [<item:mekanism:pellet_polonium>, <item:mekanism:ultimate_induction_cell>, <item:mekanism:pellet_polonium>]]);

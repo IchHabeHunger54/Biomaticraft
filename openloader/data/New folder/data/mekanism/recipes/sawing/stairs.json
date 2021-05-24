@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"minecraft:wooden_stairs"}},"mainOutput":{"item":"thermal:sawdust"},"secondaryChance":0.5,"secondaryOutput":{"item":"thermal:sawdust"},"type":"mekanism:sawing"}
+{"input":{"ingredient":{"tag":"minecraft:wooden_stairs"}},"mainOutput":{"item":"mekanism:sawdust"},"secondaryChance":0.5,"secondaryOutput":{"item":"mekanism:sawdust"},"type":"mekanism:sawing"}

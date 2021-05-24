@@ -31,12 +31,6 @@ for color in ["black", "blue", "brown", "cyan", "gray", "green", "light_blue", "
 	dye8(color + "_smart_dense_cable", <item:appliedenergistics2:fluix_smart_dense_cable>, dye, getItem("appliedenergistics2", color + "_smart_dense_cable"));
 	dye8(color + "_terracotta", <item:minecraft:terracotta>, dye, getItem("minecraft", color + "_terracotta"));
 	dye8(color + "_wool", getTag("minecraft", "wool"), dye, wool);
-	getItem("botanypots", color + "_botany_pot").removeTooltip("pot");
-	getItem("botanypots", "hopper_" + color + "_botany_pot").removeTooltip("pot");
-	getItem("ceramics", color + "_porcelain_cistern").removeTooltip("Same");
-	getItem("ceramics", color + "_terracotta_cistern").removeTooltip("Same");
-	getItem("cookingforblockheads", color + "_kitchen_floor").removeTooltip("Multiblock");
-	getItem("cookingforblockheads", color + "_kitchen_floor").removeTooltip("distance");
 	getItem("inspirations", color + "_carpeted_trapdoor").burnTime = 400;
 	getItem("minecraft", color + "_banner").burnTime = 275;
 	getItem("minecraft", color + "_bed").burnTime = 1200;
@@ -51,7 +45,6 @@ for color in ["black", "blue", "brown", "cyan", "gray", "green", "light_blue", "
 	JEI.hideItem(getItem("securitycraft", "reinforced_" + color + "_wool"));
 	kiln(color + "_concrete", getItem("minecraft", color + "_concrete"), getItem("minecraft", color + "_concrete_powder"));
 	kiln(color + "_glazed_terracotta", getItem("minecraft", color + "_terracotta"), getItem("minecraft", color + "_glazed_terracotta"));
-	kiln(color + "_rockwool", wool, getItem("thermal", color + "_rockwool"));
 	shaped(color + "_banner", getItem("minecraft", color + "_banner"), [[wool], [wool], [stick]]);
 	shaped(color + "_bed", getItem("minecraft", color + "_bed"), [[wool, wool, wool], [planks, planks, planks]]);
 	shaped(color + "_botany_pot", getItem("botanypots", color + "_botany_pot"), [[getItem("minecraft", color + "_terracotta"), air, getItem("minecraft", color + "_terracotta")], [getItem("minecraft", color + "_terracotta"), getItem("minecraft", color + "_terracotta"), getItem("minecraft", color + "_terracotta")]]);
@@ -76,6 +69,7 @@ for color in ["black", "blue", "brown", "cyan", "gray", "green", "light_blue", "
 	shapeless(color + "_petal_shiny", getItem("botania", color + "_petal"), [getItem("botania", color + "_shiny_flower")]);
 	shapeless(color + "_petal_shroom", getItem("botania", color + "_petal"), [getItem("botania", color + "_mushroom")]);
 	shapeless(color + "_quilted_wool_rev", wool, [getItem("quark", color + "_quilted_wool")]);
+	shapeless(color + "_sharestone", getItem("waystones", color + "_sharestone"), [<tag:items:waystones:sharestone>, dye]);
 	shapeless(color + "_shiny_flower", getItem("botania", color + "_shiny_flower"), [getItem("botania", color + "_mystical_flower"), <item:minecraft:glowstone_dust>]);
 	shapeless(color + "_shulker_box", getItem("minecraft", color + "_shulker_box"), [dye, <item:minecraft:purple_shulker_box>]);
 	slab(color + "_plastic_glow_slab", getItem("mekanismadditions", color + "_plastic_glow_slab"), getItem("mekanismadditions", color + "_plastic_glow"));

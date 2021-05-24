@@ -213,7 +213,7 @@ shaped("oak_sapling", <item:minecraft:oak_sapling> * 8, [[<item:mysticalagricult
 shaped("observer", <item:minecraft:observer>, [[<item:minecraft:cobblestone>, <item:minecraft:cobblestone>, <item:minecraft:cobblestone>], [<item:minecraft:redstone>, <tag:items:appliedenergistics2:crystals/nether>, <item:minecraft:redstone>], [<item:minecraft:cobblestone>, <item:minecraft:cobblestone>, <item:minecraft:cobblestone>]]);
 shaped("orange_dye_essence", <item:minecraft:orange_dye>, [[air, <item:mysticalagriculture:dye_essence>, air], [air, air, air], [air, air, air]]);
 shaped("paper", <item:minecraft:paper> * 3, [[<item:minecraft:sugar_cane>, <item:minecraft:sugar_cane>, <item:minecraft:sugar_cane>]]);
-shaped("paper_sawdust", <item:minecraft:paper> * 3, [[<item:thermal:sawdust>, <item:thermal:sawdust>, <item:thermal:sawdust>]]);
+shaped("paper_sawdust", <item:minecraft:paper> * 3, [[<item:mekanism:sawdust>, <item:mekanism:sawdust>, <item:mekanism:sawdust>]]);
 shaped("pink_dye_essence", <item:minecraft:pink_dye>, [[air, air, air], [air, air, air], [air, <item:mysticalagriculture:dye_essence>, air]]);
 shaped("piston", <item:minecraft:piston>, [[<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>], [<item:minecraft:cobblestone>, <item:minecraft:iron_ingot>, <item:minecraft:cobblestone>], [<item:minecraft:cobblestone>, <item:minecraft:redstone>, <item:minecraft:cobblestone>]]);
 shaped("pork", <item:minecraft:porkchop> * 3, [[<item:mysticalagriculture:pig_essence>, <item:mysticalagriculture:pig_essence>, <item:mysticalagriculture:pig_essence>], [air, air, air], [air, air, air]]);
@@ -374,7 +374,7 @@ shapeless("splash_potion_speed", <item:minecraft:splash_potion>.withTag({Potion:
 shapeless("splash_potion_water_breathing", <item:minecraft:splash_potion>.withTag({Potion: "minecraft:long_water_breathing" as string}), [<item:minecraft:potion>.withTag({Potion: "minecraft:long_water_breathing" as string}), <item:minecraft:gunpowder>]);
 shapeless("splash_potion_weakness", <item:minecraft:splash_potion>.withTag({Potion: "minecraft:long_weakness" as string}), [<item:minecraft:potion>.withTag({Potion: "minecraft:long_weakness" as string}), <item:minecraft:gunpowder>]);
 shapeless("sticky_piston", <item:minecraft:sticky_piston>, [<item:minecraft:piston>, <tag:items:forge:slimeballs>]);
-shapeless("stonecutter", <item:minecraft:stonecutter>, [<item:minecraft:stone>, <item:thermal:saw_blade>]);
+shapeless("stonecutter", <item:minecraft:stonecutter>, [<item:minecraft:stone>, <item:mekanism:ingot_steel>]);
 shapeless("sugar", <item:minecraft:sugar>, [<item:minecraft:sugar_cane>]);
 shapeless("sugar_honey", <item:minecraft:sugar> * 3, [<item:minecraft:honey_bottle>]);
 shapeless("tnt_minecart", <item:minecraft:tnt_minecart>, [<item:minecraft:minecart>, <item:minecraft:tnt>]);

@@ -1,1 +1,0 @@
-{"category":"thermal:augments","icon":"thermal:fluid_tank_augment","name":"Expanded Tank Construction","pages":[{"recipe":"thermal:augments/fluid_tank_augment","text":"The Expanded Tank Construction augment scales the size of all fluid storage in a machine, device, dynamo, or tool by 4.","title":"Expanded Tank Const.","type":"crafting"}],"read_by_default":true}

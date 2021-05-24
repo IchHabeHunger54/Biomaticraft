@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"minecraft:wooden_slabs"}},"mainOutput":{"item":"thermal:sawdust"},"type":"mekanism:sawing"}
+{"input":{"ingredient":{"tag":"minecraft:wooden_slabs"}},"mainOutput":{"item":"mekanism:sawdust"},"type":"mekanism:sawing"}

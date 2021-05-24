@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"item":"minecraft:magenta_bed"}},"mainOutput":{"count":6,"item":"thermal:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"count":3,"item":"minecraft:magenta_wool"},"type":"mekanism:sawing"}
+{"input":{"ingredient":{"item":"minecraft:magenta_bed"}},"mainOutput":{"count":6,"item":"mekanism:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"count":3,"item":"minecraft:magenta_wool"},"type":"mekanism:sawing"}

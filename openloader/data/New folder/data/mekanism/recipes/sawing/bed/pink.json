@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"item":"minecraft:pink_bed"}},"mainOutput":{"count":6,"item":"thermal:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"count":3,"item":"minecraft:pink_wool"},"type":"mekanism:sawing"}
+{"input":{"ingredient":{"item":"minecraft:pink_bed"}},"mainOutput":{"count":6,"item":"mekanism:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"count":3,"item":"minecraft:pink_wool"},"type":"mekanism:sawing"}

@@ -1,1 +1,0 @@
-{"advancement":"botania:main/mana_pool_pickup","category":"botania:baubles","icon":"botania:bauble_box","name":"botania.entry.baubleBox","pages":[{"text":"botania.page.baubleBox0","type":"text"},{"recipe":"botania:bauble_box","text":"botania.page.baubleBox1","type":"crafting"}],"priority":true}

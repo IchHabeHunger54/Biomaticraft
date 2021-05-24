@@ -1,1 +1,0 @@
-{"category":"agriculture_husbandry","icon":"industrialforegoing:meat_bucket","name":"Meat (Bucket)","pages":[{"text":"A fluid produced by the $(l:agr_hus/mob_slaughter_factory)Mob Slaughter Factory$().","type":"text"}],"read_by_default":true,"sortnum":10}

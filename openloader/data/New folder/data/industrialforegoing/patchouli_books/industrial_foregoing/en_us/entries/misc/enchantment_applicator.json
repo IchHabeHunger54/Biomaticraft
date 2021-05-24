@@ -1,1 +1,0 @@
-{"category":"misc","icon":"industrialforegoing:enchantment_applicator","name":"Enchantment Applicator","pages":[{"text":"This machine functions the same way as an anvil but instead of experience it uses $(l:agr_husb/essence)Essence$().","type":"text"},{"recipe":"industrialforegoing:enchantment_applicator","type":"crafting"}],"read_by_default":true,"sortnum":3}

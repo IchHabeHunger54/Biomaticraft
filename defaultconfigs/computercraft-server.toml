@@ -126,7 +126,7 @@ command_require_creative = true
 	can_push = true
 	#The fuel limit for Turtles
 	#Range: > 0
-	normal_fuel_limit = 20000
+	normal_fuel_limit = 10000
 
 #Configure the size of various computer's terminals.
 #Larger terminals require more bandwidth, so use with care.

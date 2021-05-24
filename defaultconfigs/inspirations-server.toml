@@ -19,7 +19,7 @@
 	#Enables additional flowers from breaking double flowers with shears.
 	flowers = true
 	#Enables enlightened bushes: bushes with lights.
-	enlightenedBush = true
+	enlightenedBush = false
 	#Enables rope: can be climbed like ladders and extended with additional rope
 	rope = true
 	#Enables rope ladders: right click ropes with sticks to extend the hitbox
@@ -34,13 +34,13 @@
 		#Range: 0.0 ~ 15.0
 		defaultEnchanting = 1.5
 		#Enables colored books: basically colored versions of the vanilla book to decorate bookshelves
-		coloredBooks = true
+		coloredBooks = false
 		#List of keywords for valid books, used to determine valid books in the bookshelf. Separate each by commas.
-		bookKeywords = "almanac, atlas, book, catalogue, concordance, dictionary, directory, encyclopedia, guide, journal, lexicon, manual, thesaurus, tome"
+		bookKeywords = "book"
 		#Enables the bookshelf: a decorative block to display books
-		enable = true
+		enable = false
 		#If true, bookshelves will increase enchanting table power.
-		boostEnchanting = true
+		boostEnchanting = false
 
 [utility]
 	#Enables carpeted trapdoors: a trapdoor which appears to be a carpet when closed
@@ -50,15 +50,15 @@
 	#Enables the torch lever: basically a lever which looks like a torch
 	torchLever = true
 	#Enables the trapped book: will emit redstone power when placed in a bookshelf. Requires bookshelf.
-	redstoneBook = true
+	redstoneBook = false
 	#Enables the collector: extracts items from inventories or the world similar to a hopper, but can face in all 6 directions and cannot place items in inventories
-	collector = true
+	collector = false
 
 	[utility.pipe]
 		#Enables pipes: a more economical hopper that only outputs items, does not pull from inventories. Both cheaper and better for performance.
-		enable = true
+		enable = false
 		#Allows pipes to output upwards. This removes a limitation on not being able to pipe items up without dropper elevators, but should be balanced alongside modded pipes.
-		upwards = true
+		upwards = false
 
 [recipes]
 
@@ -74,11 +74,11 @@
 
 		[recipes.cauldron.potions]
 			#Allows cauldrons to perform brewing recipes.
-			brewing = true
+			brewing = false
 			#Allows cauldrons to be filled with potions and support brewing
-			enable = true
+			enable = false
 			#Allows cauldrons to tip arrows with potions.
-			tippedArrow = true
+			tippedArrow = false
 
 		[recipes.cauldron.fluids]
 			#Allows cauldrons to be filled with any fluid and use them in recipes
@@ -114,17 +114,17 @@
 
 	[tools.waypointCompass]
 		#If true, waypoint compasses can be dyed all vanilla colors
-		dye = true
+		dye = false
 		#Enables the waypoint compass: a compass which points towards a full beacon.
-		enable = true
+		enable = false
 		#If true, waypoint compasses can be crafted using iron and a blaze rod. If false, they are obtained by using a vanilla compass on a beacon.
 		craft = false
 		#If true, waypoint compasses work across dimensions. The coordinates between the overworld and nether will be adjusted, allowing for portal syncing.
-		crossDimension = true
+		crossDimension = false
 		#If true, you can copy the position of one waypoint compass to another in a crafting table, similarly to maps or compasses
-		copy = true
+		copy = false
 		#If true, waypoint compasses show the position target in the advanced item tooltip. Disable for packs that disable coordinates.
-		advTooltip = true
+		advTooltip = false
 
 	[tools.enchantments]
 		#If true, fixes the tooltip on shield items so it looks better with both patterns and enchantments
@@ -138,7 +138,7 @@
 	#Lily pads prevent fall damage, but break in the process
 	lilypadBreakFall = true
 	#Adds stackable recipes to some vanilla or Inspriations items that require unstackable items to craft
-	unstackableRecipeAlts = true
+	unstackableRecipeAlts = false
 	#If true, skeletons will rarely drop their skull for consistency with wither skeletons. Does not affect creeper or zombie heads.
 	skeletonSkull = false
 	#If true, cave spiders will rarely drop webs, giving them an advantage to farm over regular spiders
@@ -151,7 +151,7 @@
 		#Range: 10 ~ 1000
 		chance = 75
 		#Enables heartbeets: a rare drop from beetroots which can be eaten to restore a bit of health
-		enable = true
+		enable = false
 
 	[tweaks.milkCooldown]
 		#Adds a cooldown to milking cows, prevents practically infinite milk in modded worlds where milk is more useful.
@@ -167,7 +167,7 @@
 			#Setting to true means cactus seeds are broken by neighboring blocks, meaning classic cactus farms will drop cactus seeds instead of full cactus.
 			nerfCactusFarms = false
 			#If true, cactus and sugar cane will grow in 2 pixel increments using the block crops
-			smoothGrowth = true
+			smoothGrowth = false
 			#If true, adds seeds for cactus and sugar cane, useful for recipes for the crops
 			enable = false
 			#If true, allows bonemeal to be used to speed block crop growth

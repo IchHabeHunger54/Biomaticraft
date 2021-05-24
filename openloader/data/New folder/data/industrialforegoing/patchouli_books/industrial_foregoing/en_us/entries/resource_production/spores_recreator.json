@@ -1,1 +1,0 @@
-{"category":"resource_production","icon":"industrialforegoing:spores_recreator","name":"Spores Recreator","pages":[{"text":"Duplicates $(6)fungi$().$(br2)Requires $(6)40$()RF/t and $(6)water$() ($(6)500$()mb per operation)","type":"text"},{"recipe":"industrialforegoing:spores_recreator","type":"crafting"}],"read_by_default":true,"sortnum":8}

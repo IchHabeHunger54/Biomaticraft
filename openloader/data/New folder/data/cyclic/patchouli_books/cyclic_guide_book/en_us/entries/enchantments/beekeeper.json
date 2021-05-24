@@ -1,1 +1,0 @@
-{"category":"cyclic:enchantments","icon":"minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:beekeeper\",lvl:2}]}","name":"enchantment.cyclic.beekeeper","pages":[{"text":"enchantment.cyclic.beekeeper.guide","type":"text"},{"item":"minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:beekeeper\",lvl:2}]}","link_recipe":true,"type":"spotlight"}]}

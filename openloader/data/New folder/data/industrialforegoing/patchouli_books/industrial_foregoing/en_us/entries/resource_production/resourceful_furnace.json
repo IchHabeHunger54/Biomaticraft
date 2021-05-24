@@ -1,1 +1,0 @@
-{"category":"resource_production","icon":"industrialforegoing:resourceful_furnace","name":"Resourceful Furnace","pages":[{"text":"3 Furnaces in 1.$(br2)Returns $(6)2$()mb of Essence per item melted. Requires $(6)40$()RF/t.","type":"text"},{"recipe":"industrialforegoing:resourceful_furnace","type":"crafting"}],"read_by_default":true,"sortnum":6}

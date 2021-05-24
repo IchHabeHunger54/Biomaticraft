@@ -1,1 +1,0 @@
-{"category":"thermal:explosives","icon":"thermal:explosive_grenade","name":"Grenade","pages":[{"text":"The grenade is a smaller, throwable version of TNT with a radius of 5 blocks!","type":"text"},{"recipe":"thermal:explosive_grenade_4","type":"crafting"}],"read_by_default":true}

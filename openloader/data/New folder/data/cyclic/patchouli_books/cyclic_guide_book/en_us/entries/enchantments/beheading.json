@@ -1,1 +1,0 @@
-{"category":"cyclic:enchantments","icon":"minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:beheading\",lvl:1}]}","name":"enchantment.cyclic.beheading","pages":[{"text":"enchantment.cyclic.beheading.guide","type":"text"},{"item":"minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:beheading\",lvl:1}]}","link_recipe":true,"type":"spotlight"}]}

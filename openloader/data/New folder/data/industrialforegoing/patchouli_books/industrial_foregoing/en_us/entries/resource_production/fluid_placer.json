@@ -1,1 +1,0 @@
-{"category":"resource_production","icon":"industrialforegoing:fluid_placer","name":"Fluid Placer","pages":[{"text":"It places fluids.$(br2)It will place the fluid from the internal container and use $(6)1000$()RF.","type":"text"},{"recipe":"industrialforegoing:fluid_placer","type":"crafting"}],"read_by_default":true,"sortnum":4}

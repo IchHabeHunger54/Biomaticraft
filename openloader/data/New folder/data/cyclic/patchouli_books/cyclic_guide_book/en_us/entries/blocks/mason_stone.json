@@ -1,1 +1,0 @@
-{"category":"cyclic:blocks","icon":"cyclic:mason_stone","name":"block.cyclic.mason_stone","pages":[{"text":"block.cyclic.mason_stone.guide","type":"text"},{"recipe":"cyclic:mason_cobble","recipe2":"cyclic:mason_stone","type":"crafting"},{"recipe":"cyclic:mason_iron","recipe2":"cyclic:mason_steel","type":"crafting"},{"recipe":"cyclic:mason_plate","type":"crafting"}]}

@@ -1,1 +1,0 @@
-{"category":"thermal:technology","icon":"thermal:lock","name":"Signalum Security Lock","pages":[{"text":"Used to enable the security panel on your machines and dynamos. Make your machines yours!","type":"text"},{"recipe":"thermal:tools/lock","title":"Signalum Security Lock","type":"crafting"}],"read_by_default":true}

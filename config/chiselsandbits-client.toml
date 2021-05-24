@@ -19,7 +19,7 @@
 			[client.settings.radial.menu]
 				#The volume of the radial menu. Higher volume, makes the radial menu bigger.
 				#Range: 4.9E-324 ~ 1.7976931348623157E308
-				volume = 0.10000000149011612
+				volume = 0.1
 
 		[client.settings.undo]
 			#The maximum amount of undo operations that are kept in memory. If more operations are added to the undo list, the oldest operations are removed from the list.

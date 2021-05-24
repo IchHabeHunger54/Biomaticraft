@@ -172,6 +172,7 @@ shapeless("flare_chakram", <item:botania:flare_chakram>, [<item:botania:thorn_ch
 shapeless("fork_light_relay", <item:botania:fork_light_relay>, [<item:botania:light_relay>, <item:minecraft:redstone_torch>]);
 shapeless("gaia_ingot", <item:botania:gaia_ingot>, [<item:botania:terrasteel_ingot>, <item:botania:life_essence>]);
 shapeless("gaia_spreader", <item:botania:gaia_spreader>, [<item:botania:elven_spreader>, <item:botania:life_essence>]);
+shapeless("ghost_rail", <item:botania:ghost_rail>, [<item:minecraft:rail>, <item:botania:spectral_platform>]);
 shapeless("golden_seeds", <item:botania:golden_seeds>, [<item:botania:grass_seeds>, <item:minecraft:wheat>]);
 shapeless("gourmaryllis", <item:botania:floating_gourmaryllis>, [<item:botania:gourmaryllis>, <item:minecraft:dirt>, <item:botania:grass_seeds>]);
 shapeless("green_pavement", <item:botania:green_pavement> * 3, [<item:botania:livingrock>, <item:minecraft:cobblestone>, <item:minecraft:gravel>, <item:quark:cactus_paste>]);
@@ -261,7 +262,6 @@ shapeless("virus_nullodermal", <item:botania:virus_nullodermal>, [<item:botania:
 shapeless("vivid_seeds", <item:botania:vivid_seeds>, [<item:botania:grass_seeds>, <item:quark:cactus_paste>]);
 shapeless("water_rod", <item:botania:water_rod>, [<item:botania:livingwood_twig>, <item:botania:rune_water>, <item:minecraft:water_bucket>]);
 shapeless("white_pavement", <item:botania:white_pavement> * 3, [<item:botania:livingrock>, <item:minecraft:cobblestone>, <item:minecraft:gravel>, <item:minecraft:bone_meal>]);
-shapeless("world_seed", <item:botania:world_seed> * 4, [<item:minecraft:grass_block>, <item:minecraft:wheat_seeds>, <item:botania:dragonstone>]);
 shapeless("yellow_pavement", <item:botania:yellow_pavement> * 3, [<item:botania:livingrock>, <item:minecraft:cobblestone>, <item:minecraft:gravel>, <item:minecraft:glowstone_dust>]);
 shovel("cobble_rod", <item:minecraft:cobblestone>, <item:botania:cobble_rod>, <item:botania:livingwood_twig>);
 shovel("dirt_rod", <item:minecraft:dirt>, <item:botania:dirt_rod>, <item:botania:livingwood_twig>);

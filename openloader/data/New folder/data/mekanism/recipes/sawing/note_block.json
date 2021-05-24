@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"item":"minecraft:note_block"}},"mainOutput":{"count":16,"item":"thermal:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"item":"minecraft:redstone"},"type":"mekanism:sawing"}
+{"input":{"ingredient":{"item":"minecraft:note_block"}},"mainOutput":{"count":16,"item":"mekanism:sawdust"},"secondaryChance":1.0,"secondaryOutput":{"item":"minecraft:redstone"},"type":"mekanism:sawing"}

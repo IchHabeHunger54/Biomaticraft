@@ -1,1 +1,0 @@
-{"advancement":"botania:main/pure_daisy_pickup","category":"botania:devices","icon":"botania:open_crate","name":"botania.entry.openCrate","pages":[{"text":"botania.page.openCrate0","type":"text"},{"text":"botania.page.openCrate1","type":"text"},{"recipe":"botania:open_crate","text":"botania.page.openCrate2","type":"crafting"}],"priority":true}

@@ -1,1 +1,0 @@
-{"advancement":"botania:main/mana_pool_pickup","category":"botania:devices","flag":"|debug,mod:gardenofglass","icon":"botania:cocoon","name":"botania.entry.cocoon","pages":[{"text":"botania.page.cocoon0","type":"text"},{"text":"botania.page.cocoon1","type":"text"},{"recipe":"botania:cocoon","text":"botania.page.cocoon2","type":"crafting"}],"priority":true}

@@ -1,1 +1,0 @@
-{"category":"cyclic:enchantments","icon":"minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:launch\",lvl:1}]}","name":"enchantment.cyclic.launch","pages":[{"text":"enchantment.cyclic.launch.guide","type":"text"},{"item":"minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:launch\",lvl:1}]}","link_recipe":true,"type":"spotlight"}]}

@@ -1,1 +1,0 @@
-{"category":"thermal:augments","icon":"thermal:rf_coil_xfer_augment","name":"High-Flux RF Coil","pages":[{"recipe":"thermal:augments/rf_coil_xfer_augment","text":"The High-Flux RF Coil augment scales the RF storage by 2 and the RF transfer by 6.","title":"High-Flux RF Coil","type":"crafting"}],"read_by_default":true}

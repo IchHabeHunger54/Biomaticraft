@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"minecraft:wooden_trapdoors"}},"mainOutput":{"count":2,"item":"thermal:sawdust"},"type":"mekanism:sawing"}
+{"input":{"ingredient":{"tag":"minecraft:wooden_trapdoors"}},"mainOutput":{"count":2,"item":"mekanism:sawdust"},"type":"mekanism:sawing"}

@@ -1,1 +1,0 @@
-{"category":"agriculture_husbandry","icon":"industrialforegoing:sewer","name":"Sewer","pages":[{"text":"A machine used to collect $(l:agr_hus/sewage)Sewage$() from animals.","type":"text"},{"recipe":"industrialforegoing:sewer","type":"crafting"}],"read_by_default":true,"sortnum":12}

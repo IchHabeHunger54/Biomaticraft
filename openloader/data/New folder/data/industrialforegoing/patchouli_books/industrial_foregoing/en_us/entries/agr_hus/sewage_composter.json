@@ -1,1 +1,0 @@
-{"category":"agriculture_husbandry","icon":"industrialforegoing:sewage_composter","name":"Sewage Composter","pages":[{"text":"When provided with $(l:agr_hus/sewage)Sewage$() this machine will create $(l:agr_hus/fertilizer)Fertilizer$() from it.","type":"text"},{"recipe":"industrialforegoing:sewage_composter","type":"crafting"}],"read_by_default":true,"sortnum":14}

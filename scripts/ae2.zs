@@ -3,7 +3,7 @@ cycle("cable_fluid_interface", <item:appliedenergistics2:fluid_interface>, <item
 cycle("cable_interface", <item:appliedenergistics2:interface>, <item:appliedenergistics2:cable_interface>);
 cycle("inverted_toggle_bus", <item:appliedenergistics2:toggle_bus>, <item:appliedenergistics2:inverted_toggle_bus>);
 dye1("calculation_processor_press", <item:mysticalagriculture:certus_quartz_essence>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:calculation_processor_press>);
-dye1("certus_quartz_crystal", <item:mysticalagriculture:certus_quartz_essence>, air, <item:appliedenergistics2:certus_quartz_crystal>);
+dye1("certus_quartz_crystal", <item:mysticalagriculture:certus_quartz_essence>, air, <item:appliedenergistics2:certus_quartz_crystal> * 4);
 dye1("dense_energy_cell", <item:appliedenergistics2:energy_cell>, <item:appliedenergistics2:calculation_processor>, <item:appliedenergistics2:dense_energy_cell>);
 dye1("engineering_processor_press", <item:mysticalagriculture:certus_quartz_essence>, <item:minecraft:diamond>, <item:appliedenergistics2:engineering_processor_press>);
 dye1("fluix_crystal", <item:mysticalagriculture:fluix_essence>, air, <item:appliedenergistics2:fluix_crystal> * 2);

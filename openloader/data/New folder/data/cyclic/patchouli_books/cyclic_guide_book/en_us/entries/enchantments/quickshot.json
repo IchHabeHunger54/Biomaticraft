@@ -1,1 +1,0 @@
-{"category":"cyclic:enchantments","icon":"minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:quickshot\",lvl:1}]}","name":"enchantment.cyclic.quickshot","pages":[{"text":"enchantment.cyclic.quickshot.guide","type":"text"},{"item":"minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:quickshot\",lvl:1}]}","link_recipe":true,"type":"spotlight"}]}

@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"item":"minecraft:crafting_table"}},"mainOutput":{"count":8,"item":"thermal:sawdust"},"type":"mekanism:sawing"}
+{"input":{"ingredient":{"item":"minecraft:crafting_table"}},"mainOutput":{"count":8,"item":"mekanism:sawdust"},"type":"mekanism:sawing"}
