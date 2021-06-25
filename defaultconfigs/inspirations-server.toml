@@ -33,13 +33,13 @@
 		#Default power for a book for enchanting, can be overridden in the book overrides.
 		#Range: 0.0 ~ 15.0
 		defaultEnchanting = 1.5
-		#Enables colored books: basically colored versions of the vanilla book to decorate bookshelves
+		#Enables colored books: basically colored versions of the vanilla book to decorate shelves
 		coloredBooks = false
-		#List of keywords for valid books, used to determine valid books in the bookshelf. Separate each by commas.
+		#List of keywords for valid books, used to determine books in the shelf (non-books take more space). Separate each by commas.
 		bookKeywords = "book"
-		#Enables the bookshelf: a decorative block to display books
+		#Enables the shelf: a decorative block to display books and other items
 		enable = false
-		#If true, bookshelves will increase enchanting table power.
+		#If true, shelves will increase enchanting table power.
 		boostEnchanting = false
 
 [utility]
@@ -112,23 +112,14 @@
 		#When shearing vines, any supported vines will also be sheared instead of just broken
 		harvestHangingVines = true
 
-	[tools.waypointCompass]
-		#If true, waypoint compasses can be dyed all vanilla colors
-		dye = false
-		#Enables the waypoint compass: a compass which points towards a full beacon.
-		enable = false
-		#If true, waypoint compasses can be crafted using iron and a blaze rod. If false, they are obtained by using a vanilla compass on a beacon.
-		craft = false
-		#If true, waypoint compasses work across dimensions. The coordinates between the overworld and nether will be adjusted, allowing for portal syncing.
-		crossDimension = false
-		#If true, you can copy the position of one waypoint compass to another in a crafting table, similarly to maps or compasses
-		copy = false
-		#If true, waypoint compasses show the position target in the advanced item tooltip. Disable for packs that disable coordinates.
-		advTooltip = false
-
 	[tools.enchantments]
 		#If true, fixes the tooltip on shield items so it looks better with both patterns and enchantments
 		fixShieldTooltip = true
+
+	[tools.dimensionCompass]
+		#Enables the dimension compass: a compass which points towards the place you entered a dimension.
+		#When used on a lodestone, works across dimensions taking nether coordinates into account
+		enable = false
 
 [tweaks]
 	#Allows pigs to be desaddled by shift-right click with an empty hand
@@ -147,9 +138,6 @@
 	[tweaks.heartbeet]
 		#Allows heartbeets to be used as an alternative to ghast tears in making potions of regeneration
 		brewRegeneration = false
-		#Chance of a heartbeet to drop instead of a normal drop. Formula is two 1 in [chance] chances for it to drop each harvest
-		#Range: 10 ~ 1000
-		chance = 75
 		#Enables heartbeets: a rare drop from beetroots which can be eaten to restore a bit of health
 		enable = false
 

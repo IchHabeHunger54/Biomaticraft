@@ -1,1 +1,11 @@
-{"ftbchunks":{"chunks":true},"ftbguilibrary":{"toggle.day":false,"toggle.gamemode":false,"toggle.night":false,"toggle.rain":false}}
+{
+	"ftbguilibrary": {
+		"toggle.gamemode": false,
+		"toggle.rain": false,
+		"toggle.day": false,
+		"toggle.night": false
+	},
+	"ftbchunks": {
+		"chunks": true
+	}
+}

@@ -45,7 +45,7 @@ function blast(name as string, input as IIngredient, output as IItemStack) as vo
 	furnace.addRecipe(name + "_smelt", output, input, 0, 200);
 }
 function kiln(name as string, input as IIngredient, output as IItemStack) as void {
-	<recipetype:ceramics:kiln>.addJSONRecipe(name + "_blast", {result: output, ingredient: input, experience: 0, cookingtime: 100});
+	<recipetype:ceramics:kiln>.addJSONRecipe(name + "_kiln", {result: output, ingredient: input, experience: 0, cookingtime: 100});
 	furnace.addRecipe(name + "_smelt", output, input, 0, 200);
 }
 function bigCompressWithUndo(name as string, small as IItemStack, big as IItemStack) as void {

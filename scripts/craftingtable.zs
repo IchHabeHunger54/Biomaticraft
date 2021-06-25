@@ -230,6 +230,8 @@ shaped("speaker", <item:computercraft:speaker>, [[<item:mekanism:ingot_steel>, <
 shaped("spice_rack", <item:cookingforblockheads:spice_rack>, [[<tag:items:minecraft:wooden_slabs>], [<item:mekanism:nugget_steel>]]);
 shaped("spores_recreator", <item:industrialforegoing:spores_recreator>, [[<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>], [<tag:items:forge:mushrooms>, <item:mekanism:steel_casing>, <tag:items:forge:mushrooms>], [<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>]]);
 shaped("stasis_chamber", <item:industrialforegoing:stasis_chamber>, [[<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>], [<item:minecraft:ghast_tear>, <item:mekanism:steel_casing>, <item:minecraft:ghast_tear>], [<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>]]);
+shaped("stone_brick_lamp", <item:quark:stone_brick_lamp>, [[<item:minecraft:stone_bricks>], [<item:minecraft:torch>], [<item:minecraft:stone_bricks>]]);
+shaped("stone_lamp", <item:quark:stone_lamp>, [[<item:minecraft:stone>], [<item:minecraft:torch>], [<item:minecraft:stone>]]);
 shaped("sturdy_stone", <item:quark:sturdy_stone> * 4, [[<item:minecraft:stone>, <item:minecraft:cobblestone>, <item:minecraft:stone>], [<item:minecraft:cobblestone>, air, <item:minecraft:cobblestone>], [<item:minecraft:stone>, <item:minecraft:cobblestone>, <item:minecraft:stone>]]);
 shaped("tinkering_table", <item:mysticalagriculture:tinkering_table>, [[<item:minecraft:stone>, <item:minecraft:stone>, <item:minecraft:stone>], [<item:mysticalagriculture:soulium_ingot>, <item:minecraft:stone>, <item:mysticalagriculture:soulium_ingot>], [<item:minecraft:stone>, <item:minecraft:stone>, <item:minecraft:stone>]]);
 shaped("toaster", <item:cookingforblockheads:toaster>, [[air, air, <item:minecraft:stone_button>], [<item:mekanism:ingot_steel>, <item:minecraft:iron_trapdoor>, <item:mekanism:ingot_steel>], [<item:mekanism:ingot_steel>, <item:minecraft:lava_bucket>, <item:mekanism:ingot_steel>]]);
@@ -309,6 +311,11 @@ shapeless("inferium_seeds", <item:mysticalagriculture:inferium_seeds>, [<item:my
 shapeless("iron_mine", <item:securitycraft:iron_mine>, [<item:minecraft:iron_ore>, <item:securitycraft:mine>]);
 shapeless("iron_rod", <item:quark:iron_rod>, [<item:minecraft:end_rod>, <item:minecraft:iron_ingot>]);
 shapeless("key", <item:inspirations:key>, [<item:mekanism:ingot_steel>, <item:mekanism:nugget_steel>]);
+shapeless("keycard_lv1_reset", <item:securitycraft:keycard_lv1>, [<item:securitycraft:keycard_lv1>]);
+shapeless("keycard_lv2_reset", <item:securitycraft:keycard_lv2>, [<item:securitycraft:keycard_lv2>]);
+shapeless("keycard_lv3_reset", <item:securitycraft:keycard_lv3>, [<item:securitycraft:keycard_lv3>]);
+shapeless("keycard_lv4_reset", <item:securitycraft:keycard_lv4>, [<item:securitycraft:keycard_lv4>]);
+shapeless("keycard_lv5_reset", <item:securitycraft:keycard_lv5>, [<item:securitycraft:keycard_lv5>]);
 shapeless("keypad", <item:securitycraft:keypad>, [<item:securitycraft:keypad_frame>, <item:securitycraft:keypad_item>]);
 shapeless("keypad_chest", <item:securitycraft:keypad_chest>, [<tag:items:forge:chests/normal>, <item:securitycraft:keypad_item>]);
 shapeless("keypad_furnace", <item:securitycraft:keypad_furnace>, [<item:minecraft:furnace>, <item:securitycraft:keypad_item>]);
@@ -347,6 +354,7 @@ shapeless("pocket_computer_normal_ender", <item:computercraft:pocket_computer_no
 shapeless("pocket_computer_normal_modem", <item:computercraft:pocket_computer_normal>.withTag({Upgrade: "computercraft:wireless_modem_normal" as string}), [<item:computercraft:pocket_computer_normal>, <item:computercraft:wireless_modem_normal>]);
 shapeless("pocket_computer_normal_speaker", <item:computercraft:pocket_computer_normal>.withTag({Upgrade: "computercraft:speaker" as string}), [<item:computercraft:pocket_computer_normal>, <item:computercraft:speaker>]);
 shapeless("portable_radar", <item:securitycraft:portable_radar>, [<item:minecraft:ender_pearl>, <item:minecraft:redstone>, <item:mekanism:ingot_steel>]);
+shapeless("portstone", <item:waystones:portstone>, [<item:minecraft:stone>, <item:minecraft:stone>, <item:waystones:warp_stone>, <item:waystones:warp_dust>]);
 shapeless("positiveprint", <item:chiselsandbits:positiveprint>, [<item:minecraft:lapis_lazuli>, <item:minecraft:paper>]);
 shapeless("positiveprint_clear", <item:chiselsandbits:positiveprint>, [<item:chiselsandbits:positiveprint_written>]);
 shapeless("positiveprint_reset", <item:chiselsandbits:positiveprint>, [<item:chiselsandbits:positiveprint>]);
@@ -370,6 +378,7 @@ shapeless("soul_compass", <item:quark:soul_compass>, [<item:minecraft:compass>, 
 shapeless("soulium_seed_base", <item:mysticalagriculture:soulium_seed_base>, [<item:mysticalagriculture:prosperity_seed_base>, <item:mysticalagriculture:soulium_dust>]);
 shapeless("soundproofing_ghost", <item:cyclic:soundproofing_ghost>, [<item:cyclic:dark_glass>, <item:cyclic:soundproofing>]);
 shapeless("spawner_seeker", <item:cyclic:spawner_seeker>, [<item:minecraft:ender_pearl>, <item:minecraft:chorus_fruit>]);
+shapeless("speed_module", <item:securitycraft:speed_module>, [<item:mekanism:ingot_steel>, <item:minecraft:paper>, <item:minecraft:sugar>]);
 shapeless("splash_bottle", <item:inspirations:splash_bottle> * 3, [<item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>, <item:minecraft:gunpowder>]);
 shapeless("stone_mine", <item:securitycraft:stone_mine>, [<item:minecraft:stone>, <item:securitycraft:mine>]);
 shapeless("storage_module", <item:securitycraft:storage_module>, [<item:mekanism:ingot_steel>, <item:minecraft:paper>, <tag:items:forge:chests>]);

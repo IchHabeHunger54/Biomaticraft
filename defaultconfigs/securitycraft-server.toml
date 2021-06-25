@@ -6,18 +6,6 @@ allowAdminTool = false
 shouldSpawnFire = true
 #Should players be able to break a mine without it exploding?
 ableToBreakMines = true
-#Is the level 1 keycard craftable?
-ableToCraftKeycard1 = false
-#Is the level 2 keycard craftable?
-ableToCraftKeycard2 = false
-#Is the level 3 keycard craftable?
-ableToCraftKeycard3 = false
-#Is the level 4 keycard craftable?
-ableToCraftKeycard4 = false
-#Is the level 5 keycard craftable?
-ableToCraftKeycard5 = false
-#Is the limited use keycard craftable?
-ableToCraftLUKeycard = false
 #Should mines' explosions be smaller than usual.
 smallerMineExplosion = false
 #Should mines explode if broken while in Creative mode?
@@ -35,10 +23,12 @@ maxAlarmRange = 100
 allowBlockClaim = false
 #Should the sentry/inventory scanner/laser block/etc. ignore players and entities that are invisible?
 respect_invisibility = false
-#Should reinforced blocks' textures be slightly darker than their vanilla counterparts?
+#Should reinforced blocks' textures be slightly darker than their vanilla counterparts? This does nothing unless force_reinforced_block_tint is set to true.
 reinforced_block_tint = true
-#Are all mines craftable?
-ableToCraftMines = true
 #Display owner face on retinal scanner?
 retinalScannerFace = true
+#Set this to false if you want mines to not break blocks when they explode.
+mineExplosionsBreakBlocks = true
+#Set this to true if you want to force the setting of reinforced_block_tint for players.
+force_reinforced_block_tint = false
 

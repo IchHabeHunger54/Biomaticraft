@@ -403,7 +403,7 @@
 		refined_obsidianPickaxeDamage = 1.0
 		#Base armor knockback resistance value of refined_obsidian armor.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		refined_obsidianKnockbackResistance = 0.10000000149011612
+		refined_obsidianKnockbackResistance = 0.0
 		#Harvest level of refined_obsidian tools.
 		#Range: > 0
 		refined_obsidianHarvestLevel = 3

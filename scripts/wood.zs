@@ -145,6 +145,10 @@ for wood in ["warped", "crimson"] {
 	stairs(wood + "_stairs", getItem("minecraft", wood + "_stairs"), p);
 	vertSlab(wood + "_vert_slab", getItem("quark", wood + "_vertical_slab"), getItem("minecraft", wood + "_slab"));
 }
+for wood in ["yellow", "red", "lavender", "orange", "pink", "blue"] {
+	shaped(wood + "_blossom_leaf_carpet", getItem("quark", wood + "_blossom_leaf_carpet") * 8, [[getItem("quark", wood + "_blossom_leaves"), getItem("quark", wood + "_blossom_leaves")]]);
+	shapeless(wood + "_hedge", getItem("quark", wood + "_blossom_hedge"), [<item:quark:spruce_post>, getItem("quark", wood + "_blossom_leaves")]);
+}
 for color in ["black", "blue", "brown", "cyan", "gray", "green", "light_blue", "light_gray", "lime", "magenta", "orange", "pink", "purple", "red", "white", "yellow"] {
 	dye8(color + "_planks", <tag:items:minecraft:planks>, getItem("minecraft", color + "_dye"), getItem("quark", color + "_stained_planks"));
 	getItem("quark", "vertical_" + color + "_stained_planks").burnTime = 300;
