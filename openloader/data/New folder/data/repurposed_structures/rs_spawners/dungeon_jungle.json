@@ -1,1 +1,1 @@
-{"mobs":[{"name":"minecraft:zombie","weight":30},{"name":"minecraft:drowned","weight":30},{"name":"minecraft:spider","weight":15},{"name":"minecraft:skeleton","weight":15},{"name":"minecraft:parrot","weight":10}]}
+{"mobs":[{"name":"minecraft:zombie","weight":40},{"name":"minecraft:skeleton","weight":40},{"name":"minecraft:spider","weight":20}]}
