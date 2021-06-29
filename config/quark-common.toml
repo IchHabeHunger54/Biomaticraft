@@ -85,6 +85,7 @@
 		"Delayed Update List" = ["minecraft:dispenser", "minecraft:dropper"]
 		"Movement Blacklist" = ["minecraft:spawner", "minecraft:ender_chest", "minecraft:enchanting_table", "minecraft:trapped_chest", "quark:spruce_trapped_chest", "quark:birch_trapped_chest", "quark:jungle_trapped_chest", "quark:acacia_trapped_chest", "quark:dark_oak_trapped_chest", "quark:oak_trapped_chest"]
 		"Render Blacklist" = ["botania:starfield"]
+		"Enable Chests Moving Together" = true
 
 	[automation.redstone_circuit]
 		"Enable Inductor" = true
@@ -218,6 +219,9 @@
 	[building.celebratory_lamps]
 		"Light Level" = 15
 
+	[building.item_frames]
+		"Glass Item Frames Update Maps" = true
+
 [management]
 	"Chests In Boats" = true
 	"Easy Transfering" = true
@@ -250,6 +254,7 @@
 	"Seed Pouch" = true
 	"Slime In A Bucket" = true
 	Trowel = true
+	Abacus = true
 
 	[tools.ancient_tomes]
 		"Apply Cost" = 30
@@ -362,6 +367,7 @@
 	"Springy Slime" = true
 	"Utility Recipes" = false
 	"Villagers Follow Emeralds" = true
+	"Better Elytra Rocket" = true
 
 	[tweaks.automatic_recipe_unlock]
 		"Disable Recipe Book" = false
@@ -1047,6 +1053,8 @@
 		"Crystal Cluster On Sides Chance" = 0.6
 		#Allowed values: [0,1]
 		"Double Crystal Chance" = 0.2
+		"Enable Beacon Redirection" = true
+		"Enable Collateral Movement" = true
 
 		[world.cave_crystal_underground_biome.biome_settings]
 			#Allowed values: [0,)
