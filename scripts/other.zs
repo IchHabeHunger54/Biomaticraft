@@ -147,7 +147,7 @@ smithing.addRecipe("netherite_chisel", <item:chiselsandbits:chisel_netherite>, <
 smithing.addRecipe("netherite_bitsaw", <item:chiselsandbits:bitsaw_netherite>, <item:chiselsandbits:bitsaw_diamond>, <item:minecraft:netherite_ingot>);
 smithing.addRecipe("netherite_barrel", <item:metalbarrels:netherite_barrel>, <item:metalbarrels:obsidian_barrel>, <item:minecraft:netherite_ingot>);
 smithing.addRecipe("flamerang", <item:quark:flamerang>, <item:quark:pickarang>, <item:minecraft:netherite_ingot>);
-smithing.addRecipe("prosperity_ingot", <item:mysticalagriculture:prosperity_ingot>, <item:mysticalagriculture:prosperity_shard>, <item:mekanism:ingot_copper>);
+smithing.addRecipe("prosperity_ingot", <item:mysticalagriculture:prosperity_ingot>, <item:mysticalagriculture:prosperity_shard>, <item:mekanism:ingot_bronze>);
 smithing.addRecipe("soulium_ingot", <item:mysticalagriculture:soulium_ingot>, <item:mysticalagriculture:soulium_dust>, <item:mysticalagriculture:prosperity_ingot>);
 smithing.addRecipe("mana_ring_greater", <item:botania:mana_ring_greater>, <item:botania:mana_ring>, <item:botania:terrasteel_ingot>);
 smithing.addRecipe("aura_ring_greater", <item:botania:aura_ring_greater>, <item:botania:aura_ring>, <item:botania:terrasteel_ingot>);

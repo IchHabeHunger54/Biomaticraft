@@ -1,12 +1,18 @@
 val air = <item:minecraft:air>;
 bigCompressWithUndo("cage_trap", <item:securitycraft:reinforced_iron_bars>, <item:securitycraft:cage_trap>);
 bigCompressWithUndo("imperium_block", <item:mysticalagriculture:imperium_essence>, <item:mysticalagriculture:imperium_block>);
+bigCompressWithUndo("imperium_ingot_block", <item:mysticalagriculture:imperium_ingot>, <item:mysticalagriculture:imperium_ingot_block>);
 bigCompressWithUndo("inferium_block", <item:mysticalagriculture:inferium_essence>, <item:mysticalagriculture:inferium_block>);
+bigCompressWithUndo("inferium_ingot_block", <item:mysticalagriculture:inferium_ingot>, <item:mysticalagriculture:inferium_ingot_block>);
 bigCompressWithUndo("prosperity_block", <item:mysticalagriculture:prosperity_shard>, <item:mysticalagriculture:prosperity_block>);
+bigCompressWithUndo("prosperity_ingot_block", <item:mysticalagriculture:prosperity_ingot>, <item:mysticalagriculture:prosperity_ingot_block>);
 bigCompressWithUndo("prudentium_block", <item:mysticalagriculture:prudentium_essence>, <item:mysticalagriculture:prudentium_block>);
+bigCompressWithUndo("prudentium_ingot_block", <item:mysticalagriculture:prudentium_ingot>, <item:mysticalagriculture:prudentium_ingot_block>);
 bigCompressWithUndo("reinforced_iron_bars", <item:minecraft:iron_bars>, <item:securitycraft:reinforced_iron_bars>);
 bigCompressWithUndo("soulium_block", <item:mysticalagriculture:soulium_dust>, <item:mysticalagriculture:soulium_block>);
+bigCompressWithUndo("soulium_ingot_block", <item:mysticalagriculture:soulium_ingot>, <item:mysticalagriculture:soulium_ingot_block>);
 bigCompressWithUndo("supremium_block", <item:mysticalagriculture:supremium_essence>, <item:mysticalagriculture:supremium_block>);
+bigCompressWithUndo("supremium_ingot_block", <item:mysticalagriculture:supremium_ingot>, <item:mysticalagriculture:supremium_ingot_block>);
 bigCompressWithUndo("tallow_block", <item:quark:tallow>, <item:quark:tallow_block>);
 bigCompressWithUndo("tertium_block", <item:mysticalagriculture:tertium_essence>, <item:mysticalagriculture:tertium_block>);
 cycle("brimstone_bricks", <item:quark:brimstone>, <item:quark:brimstone_bricks>);
@@ -66,7 +72,6 @@ dye8("emerald_carrot_jump", <item:minecraft:golden_carrot>, <item:minecraft:emer
 dye8("export_plate", <item:darkutils:vector_plate>, <item:minecraft:piston>, <item:darkutils:export_plate>);
 dye8("export_plate_extreme", <item:darkutils:vector_plate_extreme>, <item:minecraft:piston>, <item:darkutils:export_plate_extreme>);
 dye8("export_plate_fast", <item:darkutils:vector_plate_fast>, <item:minecraft:piston>, <item:darkutils:export_plate_fast>);
-dye8("eye_teleport", <item:minecraft:ender_pearl>, <item:minecraft:redstone_block>, <item:cyclic:eye_teleport>);
 dye8("fireplace", <item:minecraft:brick>, <item:minecraft:netherrack>, <item:cyclic:fireplace>);
 dye8("framed_glass", <tag:items:forge:glass>, <item:mekanism:ingot_steel>, <item:quark:framed_glass>);
 dye8("golden_bricks", <item:minecraft:bricks>, <item:minecraft:gold_nugget>, <item:ceramics:golden_bricks>);
@@ -112,6 +117,7 @@ dye8("vector_plate_fast", <item:darkutils:vector_plate>, <item:minecraft:sugar>,
 dye8("weeping_blackstone_bricks", <item:minecraft:polished_blackstone_bricks>, <item:minecraft:weeping_vines>, <item:quark:weeping_blackstone_bricks>);
 dye8("witherproof_block", <item:mysticalagriculture:soulstone>, <item:mysticalagriculture:wither_skeleton_essence>, <item:mysticalagriculture:witherproof_block>);
 dye8("witherproof_glass", <item:mysticalagriculture:soul_glass>, <item:mysticalagriculture:wither_skeleton_essence>, <item:mysticalagriculture:witherproof_glass>);
+shaped("abacus", <item:quark:abacus>, [[<tag:items:minecraft:planks>, <item:minecraft:stick>, <tag:items:minecraft:planks>], [<tag:items:minecraft:planks>, <item:mekanism:ingot_steel>, <tag:items:minecraft:planks>], [<tag:items:minecraft:planks>, <item:minecraft:stick>, <tag:items:minecraft:planks>]]);
 shaped("animal_baby_separator", <item:industrialforegoing:animal_baby_separator>, [[<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>], [<item:minecraft:wheat>, <item:mekanism:steel_casing>, <item:minecraft:wheat>], [<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>]]);
 shaped("animal_feeder", <item:industrialforegoing:animal_feeder>, [[<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>], [<item:minecraft:carrot>, <item:mekanism:steel_casing>, <item:minecraft:carrot>], [<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>]]);
 shaped("animal_rancher", <item:industrialforegoing:animal_rancher>, [[<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>], [<item:minecraft:shears>, <item:mekanism:steel_casing>, <item:minecraft:shears>], [<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>]]);
@@ -212,6 +218,7 @@ shaped("preservation_chamber", <item:cookingforblockheads:preservation_chamber>,
 shaped("printer", <item:computercraft:printer>, [[<item:mekanism:ingot_steel>, <item:mekanism:ingot_steel>, <item:mekanism:ingot_steel>], [<item:mekanism:ingot_steel>, <item:minecraft:redstone>, <item:mekanism:ingot_steel>], [<item:mekanism:ingot_steel>, <tag:items:forge:dyes>, <item:mekanism:ingot_steel>]]);
 shaped("projector", <item:securitycraft:projector>, [[<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:redstone_lamp>, <tag:items:forge:glass>], [<item:minecraft:iron_ingot>, air, <item:minecraft:iron_ingot>]]);
 shaped("randomizer", <item:quark:redstone_randomizer>, [[air, <item:minecraft:redstone_torch>, air], [<item:minecraft:redstone_torch>, <item:quark:biotite>, <item:minecraft:redstone_torch>], [<item:minecraft:smooth_stone_slab>, <item:minecraft:smooth_stone_slab>, <item:minecraft:smooth_stone_slab>]]);
+shaped("receiver", <item:cyclic:wireless_receiver>, [[<item:mekanism:ingot_steel>, <item:minecraft:redstone>, <item:mekanism:ingot_steel>], [<item:minecraft:redstone>, <item:minecraft:redstone_block>, <item:minecraft:redstone>], [<item:mekanism:ingot_steel>, <item:minecraft:redstone>, <item:mekanism:ingot_steel>]]);
 shaped("red_crystal_pane", <item:quark:red_crystal_pane> * 8, [[<item:quark:red_crystal>, <item:quark:red_crystal>], [<item:quark:red_crystal>, <item:quark:red_crystal>]]);
 shaped("red_fertilizer", <item:farmingforblockheads:red_fertilizer>, [[<item:minecraft:redstone>, <item:minecraft:redstone>, <item:minecraft:redstone>], [<item:minecraft:bone_meal>, <item:minecraft:bone_meal>, <item:minecraft:bone_meal>], [<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>]]);
 shaped("remote_access_mine", <item:securitycraft:remote_access_mine>, [[air, <item:minecraft:redstone_torch>, air], [<item:minecraft:gold_ingot>, <item:minecraft:diamond>, <item:minecraft:gold_ingot>], [air, <item:minecraft:stick>, air]]);
@@ -237,6 +244,7 @@ shaped("tinkering_table", <item:mysticalagriculture:tinkering_table>, [[<item:mi
 shaped("toaster", <item:cookingforblockheads:toaster>, [[air, air, <item:minecraft:stone_button>], [<item:mekanism:ingot_steel>, <item:minecraft:iron_trapdoor>, <item:mekanism:ingot_steel>], [<item:mekanism:ingot_steel>, <item:minecraft:lava_bucket>, <item:mekanism:ingot_steel>]]);
 shaped("tool_rack", <item:cookingforblockheads:tool_rack>, [[<tag:items:minecraft:wooden_slabs>, <tag:items:minecraft:wooden_slabs>], [<item:mekanism:nugget_steel>, <item:mekanism:nugget_steel>]]);
 shaped("torch_lever", <item:inspirations:torch_lever>, [[<item:minecraft:torch>], [<item:minecraft:cobblestone>]]);
+shaped("transmitter", <item:cyclic:wireless_transmitter>, [[<item:mekanism:ingot_steel>, <item:minecraft:lapis_lazuli>, <item:mekanism:ingot_steel>], [<item:minecraft:lapis_lazuli>, <item:minecraft:redstone_block>, <item:minecraft:lapis_lazuli>], [<item:mekanism:ingot_steel>, <item:minecraft:lapis_lazuli>, <item:mekanism:ingot_steel>]]);
 shaped("turtle_advanced", <item:computercraft:turtle_advanced>, [[<item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>], [<item:minecraft:gold_ingot>, <item:computercraft:computer_advanced>, <item:minecraft:gold_ingot>], [<item:minecraft:gold_ingot>, <tag:items:forge:chests>, <item:minecraft:gold_ingot>]]);
 shaped("turtle_normal", <item:computercraft:turtle_normal>, [[<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:computercraft:computer_normal>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <tag:items:forge:chests>, <item:minecraft:iron_ingot>]]);
 shaped("unfired_channel", <item:ceramics:unfired_channel>, [[<item:ceramics:unfired_porcelain>, <item:ceramics:unfired_porcelain>, <item:ceramics:unfired_porcelain>], [<item:ceramics:unfired_porcelain>, <item:ceramics:unfired_porcelain>, <item:ceramics:unfired_porcelain>]]);
@@ -254,8 +262,6 @@ shaped("water_condensator", <item:industrialforegoing:water_condensator>, [[<ite
 shaped("watering_can", <item:mysticalagriculture:watering_can>, [[air, <item:minecraft:bone_meal>, <item:mysticalagriculture:prosperity_ingot>], [<item:mysticalagriculture:prosperity_ingot>, <item:minecraft:bowl>, <item:mysticalagriculture:prosperity_ingot>], [air, <item:mysticalagriculture:prosperity_ingot>, air]]);
 shaped("weather_sensor", <item:quark:weather_sensor>, [[<tag:items:forge:glass>, <tag:items:forge:glass>, <tag:items:forge:glass>], [<item:quark:biotite>, <item:quark:biotite>, <item:quark:biotite>], [<item:minecraft:purpur_slab>, <item:minecraft:purpur_slab>, <item:minecraft:purpur_slab>]]);
 shaped("white_crystal_pane", <item:quark:white_crystal_pane> * 8, [[<item:quark:white_crystal>, <item:quark:white_crystal>], [<item:quark:white_crystal>, <item:quark:white_crystal>]]);
-shaped("wireless_receiver", <item:cyclic:wireless_receiver>, [[<item:mekanism:ingot_steel>, <item:minecraft:redstone>, <item:mekanism:ingot_steel>], [<item:minecraft:redstone>, <item:minecraft:redstone_block>, <item:minecraft:redstone>], [<item:mekanism:ingot_steel>, <item:minecraft:redstone>, <item:mekanism:ingot_steel>]]);
-shaped("wireless_transmitter", <item:cyclic:wireless_transmitter>, [[<item:mekanism:ingot_steel>, <item:minecraft:lapis_lazuli>, <item:mekanism:ingot_steel>], [<item:minecraft:lapis_lazuli>, <item:minecraft:redstone_block>, <item:minecraft:lapis_lazuli>], [<item:mekanism:ingot_steel>, <item:minecraft:lapis_lazuli>, <item:mekanism:ingot_steel>]]);
 shaped("wither_builder", <item:industrialforegoing:wither_builder>, [[<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>], [<item:minecraft:soul_sand>, <item:mekanism:steel_casing>, <item:minecraft:soul_sand>], [<item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>, <item:mekanism:ingot_tin>]]);
 shaped("yellow_crystal_pane", <item:quark:yellow_crystal_pane> * 8, [[<item:quark:yellow_crystal>, <item:quark:yellow_crystal>], [<item:quark:yellow_crystal>, <item:quark:yellow_crystal>]]);
 shaped("yellow_fertilizer", <item:farmingforblockheads:yellow_fertilizer>, [[<item:minecraft:glowstone_dust>, <item:minecraft:glowstone_dust>, <item:minecraft:glowstone_dust>], [<item:minecraft:dirt>, <item:minecraft:dirt>, <item:minecraft:dirt>], [<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>]]);
@@ -291,6 +297,7 @@ shapeless("elder_prismarine", <item:quark:elder_prismarine>, [<item:minecraft:pr
 shapeless("elder_sea_lantern", <item:quark:elder_sea_lantern>, [<item:minecraft:sea_lantern>, <item:quark:elder_sea_lantern>]);
 shapeless("emerald_mine", <item:securitycraft:emerald_mine>, [<item:minecraft:emerald_ore>, <item:securitycraft:mine>]);
 shapeless("ender_hopper", <item:darkutils:ender_hopper>, [<item:minecraft:hopper>, <item:minecraft:ender_eye>, <item:minecraft:obsidian>]);
+shapeless("eye_teleport", <item:cyclic:eye_teleport>, [<item:minecraft:redstone_block>, <item:minecraft:ender_pearl>]);
 shapeless("fan", <item:cyclic:fan>, [<item:minecraft:smooth_stone_slab>, <item:mekanismgenerators:turbine_blade>]);
 shapeless("fire_sea_lantern", <item:charm:fire_sea_lantern>, [<item:minecraft:sea_lantern>, <item:minecraft:fire_coral>]);
 shapeless("fridge", <item:cookingforblockheads:fridge>, [<tag:items:forge:chests>, <item:minecraft:iron_door>]);
@@ -364,7 +371,6 @@ shapeless("prosperity_seed_base", <item:mysticalagriculture:prosperity_seed_base
 shapeless("protecto", <item:securitycraft:protecto>, [<item:minecraft:obsidian>, <item:minecraft:daylight_detector>, <item:minecraft:ender_eye>, <item:mekanism:ingot_steel>]);
 shapeless("red_mulch", <item:inspirations:red_mulch>, [<item:inspirations:plain_mulch>, <item:minecraft:redstone>]);
 shapeless("red_slime_block", <item:quark:red_slime_block>, [<tag:items:quark:slime_blocks>, <tag:items:forge:dyes/red>]);
-shapeless("redstone_charger", <item:inspirations:redstone_charger>, [<item:minecraft:gold_ingot>, <item:minecraft:redstone>]);
 shapeless("redstone_mine", <item:securitycraft:redstone_mine>, [<item:minecraft:redstone_ore>, <item:securitycraft:mine>]);
 shapeless("redstone_module", <item:securitycraft:redstone_module>, [<item:mekanism:ingot_steel>, <item:minecraft:paper>, <item:minecraft:redstone>]);
 shapeless("sandy_waystone", <item:waystones:sandy_waystone>, [<item:waystones:waystone>, <tag:items:minecraft:sand>]);

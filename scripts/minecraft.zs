@@ -92,7 +92,7 @@ dye1("zombie_head", <item:mysticalagriculture:zombie_essence>, <item:mysticalagr
 dye8("basalt", <item:mysticalagriculture:nether_essence>, <item:mysticalagriculture:ice_essence>, <item:minecraft:basalt>);
 dye8("blackstone", <item:mysticalagriculture:nether_essence>, <item:mysticalagriculture:stone_essence>, <item:minecraft:blackstone>);
 dye8("charcoal", <item:mysticalagriculture:wood_essence>, <item:mysticalagriculture:coal_essence>, <item:minecraft:charcoal>);
-dye8("clay", <item:mysticalagriculture:dirt_essence>, <item:mysticalagriculture:water_essence>, <item:minecraft:clay_ball>);
+dye8("clay_ball", <item:mysticalagriculture:dirt_essence>, <item:mysticalagriculture:water_essence>, <item:minecraft:clay_ball>);
 dye8("coal", <item:mysticalagriculture:coal_essence>, air, <item:minecraft:coal>);
 dye8("cobblestone", <item:mysticalagriculture:stone_essence>, air, <item:minecraft:cobblestone>);
 dye8("dark_prismarine", <item:minecraft:prismarine>, <item:minecraft:ink_sac>, <item:minecraft:dark_prismarine>);
@@ -147,7 +147,6 @@ shaped("bowl", <item:minecraft:bowl>, [[<tag:items:minecraft:planks>, air, <tag:
 shaped("brain_coral", <item:minecraft:brain_coral> * 4, [[<item:mysticalagriculture:coral_essence>, air, <item:mysticalagriculture:coral_essence>], [air, <item:minecraft:peony>, air], [<item:mysticalagriculture:coral_essence>, air, <item:mysticalagriculture:coral_essence>]]);
 shaped("brain_coral_fan", <item:minecraft:brain_coral_fan> * 4, [[air, <item:mysticalagriculture:coral_essence>, air], [<item:mysticalagriculture:coral_essence>, <item:minecraft:peony>, <item:mysticalagriculture:coral_essence>], [air, <item:mysticalagriculture:coral_essence>, air]]);
 shaped("brown_dye_essence", <item:minecraft:brown_dye> * 2, [[air, air, air], [air, air, air], [air, <item:mysticalagriculture:dye_essence>, <item:mysticalagriculture:dye_essence>]]);
-shaped("brown_mushroom", <item:minecraft:brown_mushroom> * 8, [[<item:mysticalagriculture:nature_essence>, <item:mysticalagriculture:dirt_essence>, <item:mysticalagriculture:nature_essence>]]);
 shaped("bubble_coral", <item:minecraft:bubble_coral> * 4, [[<item:mysticalagriculture:coral_essence>, air, <item:mysticalagriculture:coral_essence>], [air, <item:minecraft:lilac>, air], [<item:mysticalagriculture:coral_essence>, air, <item:mysticalagriculture:coral_essence>]]);
 shaped("bubble_coral_fan", <item:minecraft:bubble_coral_fan> * 4, [[air, <item:mysticalagriculture:coral_essence>, air], [<item:mysticalagriculture:coral_essence>, <item:minecraft:lilac>, <item:mysticalagriculture:coral_essence>], [air, <item:mysticalagriculture:coral_essence>, air]]);
 shaped("bucket", <item:minecraft:bucket>, [[<item:minecraft:iron_ingot>, air, <item:minecraft:iron_ingot>], [air, <item:minecraft:iron_ingot>, air]]);
@@ -204,6 +203,8 @@ shaped("lime_dye_essence", <item:minecraft:lime_dye>, [[air, air, air], [air, ai
 shaped("loom", <item:minecraft:loom>, [[<item:minecraft:string>, <item:minecraft:string>], [<tag:items:minecraft:planks>, <tag:items:minecraft:planks>], [<tag:items:minecraft:planks>, <tag:items:minecraft:planks>]]);
 shaped("magenta_dye_essence", <item:minecraft:magenta_dye>, [[air, air, <item:mysticalagriculture:dye_essence>], [air, air, air], [air, air, air]]);
 shaped("minecart", <item:minecraft:minecart>, [[<item:minecraft:iron_ingot>, air, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>]]);
+shaped("mushroom_brown", <item:minecraft:brown_mushroom> * 8, [[<item:mysticalagriculture:nature_essence>, <item:mysticalagriculture:dirt_essence>, <item:mysticalagriculture:nature_essence>]]);
+shaped("mushroom_red", <item:minecraft:red_mushroom> * 8, [[<item:mysticalagriculture:nature_essence>], [<item:mysticalagriculture:dirt_essence>], [<item:mysticalagriculture:nature_essence>]]);
 shaped("mutton", <item:minecraft:mutton> * 3, [[<item:mysticalagriculture:sheep_essence>, <item:mysticalagriculture:sheep_essence>, <item:mysticalagriculture:sheep_essence>], [air, air, air], [air, air, air]]);
 shaped("nautilus_shell", <item:minecraft:nautilus_shell>, [[<item:mysticalagriculture:prismarine_essence>, <item:mysticalagriculture:fish_essence>, <item:mysticalagriculture:prismarine_essence>], [<item:mysticalagriculture:fish_essence>, <item:mysticalagriculture:prismarine_essence>, <item:mysticalagriculture:fish_essence>], [<item:mysticalagriculture:prismarine_essence>, <item:mysticalagriculture:fish_essence>, <item:mysticalagriculture:prismarine_essence>]]);
 shaped("nether_sprouts", <item:minecraft:nether_sprouts> * 8, [[<item:mysticalagriculture:nether_essence>], [<item:mysticalagriculture:nature_essence>], [<item:mysticalagriculture:nether_essence>]]);
@@ -227,7 +228,6 @@ shaped("rabbit_foot", <item:minecraft:rabbit_foot> * 3, [[air, air, air], [air, 
 shaped("rabbit_hide", <item:minecraft:rabbit_hide> * 3, [[air, air, air], [<item:mysticalagriculture:rabbit_essence>, <item:mysticalagriculture:rabbit_essence>, <item:mysticalagriculture:rabbit_essence>], [air, air, air]]);
 shaped("rail", <item:minecraft:rail> * 6, [[<item:minecraft:iron_ingot>, <item:minecraft:stick>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:stick>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:stick>, <item:minecraft:iron_ingot>]]);
 shaped("red_dye_essence", <item:minecraft:red_dye> * 2, [[air, air, air], [<item:mysticalagriculture:dye_essence>, air, air], [<item:mysticalagriculture:dye_essence>, air, air]]);
-shaped("red_mushroom", <item:minecraft:red_mushroom> * 8, [[<item:mysticalagriculture:nature_essence>], [<item:mysticalagriculture:dirt_essence>], [<item:mysticalagriculture:nature_essence>]]);
 shaped("red_sand", <item:minecraft:red_sand> * 2, [[<item:mysticalagriculture:dirt_essence>], [<item:mysticalagriculture:fire_essence>]]);
 shaped("repeater", <item:minecraft:repeater>, [[<item:minecraft:redstone_torch>, <item:minecraft:redstone>, <item:minecraft:redstone_torch>], [<item:minecraft:smooth_stone_slab>, <item:minecraft:smooth_stone_slab>, <item:minecraft:smooth_stone_slab>]]);
 shaped("respawn_anchor", <item:minecraft:respawn_anchor>, [[<item:minecraft:crying_obsidian>, <item:minecraft:crying_obsidian>, <item:minecraft:crying_obsidian>], [<item:minecraft:glowstone>, <item:minecraft:glowstone>, <item:minecraft:glowstone>], [<item:minecraft:crying_obsidian>, <item:minecraft:crying_obsidian>, <item:minecraft:crying_obsidian>]]);

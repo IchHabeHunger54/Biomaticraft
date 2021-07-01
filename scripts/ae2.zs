@@ -117,7 +117,7 @@ shapeless("level_emitter", <item:appliedenergistics2:level_emitter>, [<item:appl
 shapeless("light_detector", <item:appliedenergistics2:light_detector>, [<tag:items:appliedenergistics2:crystals/nether>, <item:mekanism:ingot_steel>]);
 shapeless("monitor_bright", <item:appliedenergistics2:monitor>, [<item:appliedenergistics2:dark_monitor>]);
 shapeless("monitor_dark", <item:appliedenergistics2:dark_monitor>, [<item:appliedenergistics2:semi_dark_monitor>]);
-shapeless("monitor_normal", <item:appliedenergistics2:semi_dark_monitor>, [<item:appliedenergistics2:monitor>]);
+shapeless("monitor", <item:appliedenergistics2:semi_dark_monitor>, [<item:appliedenergistics2:monitor>]);
 shapeless("network_tool", <item:appliedenergistics2:network_tool>, [<item:appliedenergistics2:terminal>, <tag:items:forge:chests>, <tag:items:appliedenergistics2:quartz_wrench>]);
 shapeless("pattern_terminal", <item:appliedenergistics2:pattern_terminal>, [<item:appliedenergistics2:terminal>, <item:appliedenergistics2:fluix_pearl>]);
 shapeless("quartz_fixture", <item:appliedenergistics2:quartz_fixture>, [<item:appliedenergistics2:charged_certus_quartz_crystal>, <item:mekanism:ingot_steel>]);

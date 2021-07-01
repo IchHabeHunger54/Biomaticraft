@@ -49,7 +49,7 @@ dye1("apothecary_taiga", <item:botania:metamorphic_taiga_cobblestone>, <item:bot
 dye1("bellows", <item:botania:livingwood>, <item:minecraft:leather>, <item:botania:bellows>);
 dye1("cocoon", <item:botania:mana_string>, <item:botania:fel_pumpkin>, <item:botania:cocoon>);
 dye1("elementium_ingot", <item:mysticalagriculture:elementium_essence>, air, <item:botania:elementium_ingot> * 2);
-dye1("mana_pool", <item:botania:livingrock>, <item:botania:mana_pearl>, <item:botania:mana_tablet>);
+dye1("mana_tablet", <item:botania:livingrock>, <item:botania:mana_pearl>, <item:botania:mana_tablet>);
 dye1("manasteel_ingot", <item:mysticalagriculture:manasteel_essence>, air, <item:botania:manasteel_ingot>);
 dye1("pattern_donut", <item:botania:placeholder>, <item:minecraft:redstone>, <item:botania:pattern_donut>);
 dye1("terrasteel", <item:mysticalagriculture:terrasteel_essence>, air, <item:botania:terrasteel_ingot>);

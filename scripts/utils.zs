@@ -105,7 +105,7 @@ function stonecutter(ingredients as IItemStack[]) as void {
 	for first in ingredients {
 		for second in ingredients {
 			if(!first.matches(second)) {
-				stoneCutter.addRecipe(first.registryName.getPath() + "_to_" + second.registryName.getPath(), first, second);
+				stoneCutter.addRecipe(first.registryName.getNamespace() + first.registryName.getPath() + "_to_" + second.registryName.getNamespace() + second.registryName.getPath(), first, second);
 			}
 		}
 	}
@@ -114,7 +114,7 @@ function woodcutter(ingredients as IItemStack[]) as void {
 	for first in ingredients {
 		for second in ingredients {
 			if(!first.matches(second)) {
-				<recipetype:charm:woodcutting>.addJSONRecipe(first.registryName.getPath() + "_to_" + second.registryName.getPath(), {ingredient: first, result: second.registryName, count: 1});
+				<recipetype:charm:woodcutting>.addJSONRecipe(first.registryName.getNamespace() + first.registryName.getPath() + "_to_" + second.registryName.getNamespace() + second.registryName.getPath(), {ingredient: first, result: second.registryName, count: 1});
 			}
 		}
 	}
