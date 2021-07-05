@@ -283,6 +283,7 @@ shapeless("bubble_sea_lantern", <item:charm:bubble_sea_lantern>, [<item:minecraf
 shapeless("bucket_f_lava", <item:securitycraft:bucket_f_lava>, [<item:minecraft:lava_bucket>, <item:minecraft:fermented_spider_eye>]);
 shapeless("bucket_f_water", <item:securitycraft:bucket_f_water>, [<item:minecraft:water_bucket>, <item:minecraft:fermented_spider_eye>]);
 shapeless("claymore", <item:securitycraft:claymore>, [<item:securitycraft:bouncing_betty>, <item:minecraft:string>, <item:minecraft:tripwire_hook>]);
+shapeless("coal_mine", <item:securitycraft:coal_mine>, [<item:minecraft:coal_ore>, <item:securitycraft:mine>]);
 shapeless("cobblestone_mine", <item:securitycraft:cobblestone_mine>, [<item:minecraft:cobblestone>, <item:securitycraft:mine>]);
 shapeless("coral_agglomeratio", <item:mysticalagriculture:coral_agglomeratio>, [<item:minecraft:brain_coral>, <item:minecraft:bubble_coral>, <item:minecraft:fire_coral>, <item:minecraft:horn_coral>, <item:minecraft:tube_coral>]);
 shapeless("crafting_book", <item:cookingforblockheads:crafting_book>, [<item:cookingforblockheads:recipe_book>, <item:minecraft:crafting_table>]);
@@ -307,7 +308,6 @@ shapeless("glowball", <item:charm:glowball>, [<item:minecraft:snowball>, <item:m
 shapeless("glowing_glass_item_frame", <item:quark:glowing_glass_item_frame>, [<item:quark:glass_item_frame>, <item:minecraft:glowstone_dust>]);
 shapeless("gold_mine", <item:securitycraft:gold_mine>, [<item:minecraft:gold_ore>, <item:securitycraft:mine>]);
 shapeless("gravel_mine", <item:securitycraft:gravel_mine>, [<item:minecraft:gravel>, <item:securitycraft:mine>]);
-shapeless("guide_book", <item:patchouli:guide_book>.withTag({"patchouli:book": "patchouli:book" as string}), [<item:minecraft:book>, <item:minecraft:dirt>]);
 shapeless("harming_module", <item:securitycraft:harming_module>, [<item:mekanism:ingot_steel>, <item:minecraft:paper>, <tag:items:minecraft:arrows>]);
 shapeless("heart", <item:cyclic:heart>, [<item:minecraft:diamond>, <item:minecraft:emerald>, <item:minecraft:gold_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:redstone>, <item:minecraft:lapis_lazuli>, <item:minecraft:cake>, <item:pickletweaks:emerald_apple>, <item:minecraft:crying_obsidian>]);
 shapeless("heart_empty", <item:cyclic:heart_empty>, [<item:minecraft:rotten_flesh>, <item:minecraft:spider_eye>, <item:minecraft:egg>, <item:minecraft:rabbit_foot>, <item:minecraft:poisonous_potato>, <item:minecraft:cooked_cod>, <item:minecraft:cooked_salmon>, <item:minecraft:pufferfish>, <item:minecraft:tropical_fish>]);
@@ -369,6 +369,7 @@ shapeless("potato_soup", <item:inspirations:potato_soup>, [<item:minecraft:baked
 shapeless("prismarine_agglomeratio", <item:mysticalagriculture:prismarine_agglomeratio>, [<item:minecraft:prismarine_shard>, <item:minecraft:prismarine_crystals>]);
 shapeless("prosperity_seed_base", <item:mysticalagriculture:prosperity_seed_base>, [<item:minecraft:wheat_seeds>, <item:mysticalagriculture:prosperity_shard>]);
 shapeless("protecto", <item:securitycraft:protecto>, [<item:minecraft:obsidian>, <item:minecraft:daylight_detector>, <item:minecraft:ender_eye>, <item:mekanism:ingot_steel>]);
+shapeless("quartz_mine", <item:securitycraft:quartz_mine>, [<item:minecraft:nether_quartz_ore>, <item:securitycraft:mine>]);
 shapeless("red_mulch", <item:inspirations:red_mulch>, [<item:inspirations:plain_mulch>, <item:minecraft:redstone>]);
 shapeless("red_slime_block", <item:quark:red_slime_block>, [<tag:items:quark:slime_blocks>, <tag:items:forge:dyes/red>]);
 shapeless("redstone_mine", <item:securitycraft:redstone_mine>, [<item:minecraft:redstone_ore>, <item:securitycraft:mine>]);
