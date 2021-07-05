@@ -369,9 +369,9 @@ for item in game.items {
 	if item.owner == "mekanism" || item.owner == "mekanismgenerators" {
 	    item.removeTooltip(" for a description.");
 	}
-	if item.maxDamage > 0 && item.owner != "mekanismtools" {
+	if item.maxDamage > 0 {
         item.anyDamage().modifyTooltip((stack, tooltip, advanced) => {
-	        tooltip.add("Durability: " + (stack.maxDamage - stack.damage));
+	        tooltip.add("Durability: " + (stack.maxDamage - stack.damage) + " / " + stack.maxDamage);
 	    });
 	}
 }

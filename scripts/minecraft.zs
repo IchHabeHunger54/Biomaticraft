@@ -30,7 +30,7 @@ bigCompressWithUndo("iron_nugget", <item:minecraft:iron_nugget>, <item:minecraft
 bigCompressWithUndo("lapis_block", <item:minecraft:lapis_lazuli>, <item:minecraft:lapis_block>);
 bigCompressWithUndo("magma_block", <item:minecraft:magma_cream>, <item:minecraft:magma_block>);
 bigCompressWithUndo("melon", <item:minecraft:melon_slice>, <item:minecraft:melon>);
-bigCompressWithUndo("nether_wart_block", <item:minecraft:sugar_cane>, <item:quark:sugar_cane_block>);
+bigCompressWithUndo("nether_wart_sack", <item:minecraft:nether_wart>, <item:quark:nether_wart_sack>);
 bigCompressWithUndo("netherite_block", <item:minecraft:netherite_ingot>, <item:minecraft:netherite_block>);
 bigCompressWithUndo("packed_ice", <item:minecraft:ice>, <item:minecraft:packed_ice>);
 bigCompressWithUndo("potato_crate", <item:minecraft:potato>, <item:quark:potato_crate>);
