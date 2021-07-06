@@ -30,7 +30,7 @@
 	#Color of energy in item durability display.
 	energyColor = 3997338
 	#How far (in blocks) from the player radiation particles can spawn.
-	radiationParticleRadius = 30
+	radiationParticleRadius = 32
 	#Align HUD (text) with left (if true) or right (if false)
 	alignHUDLeft = true
 	#How much light to produce if ambient lighting is enabled.
@@ -66,7 +66,7 @@
 		hudOpacity = 0.4
 		#Visual jitter of MekaSuit HUD, seen when moving the player's head. Bigger value = more jitter.
 		#Range: 1.0 ~ 100.0
-		hudJitter = 6.0
+		hudJitter = 4.0
 		#Color of warning HUD elements used by MekaSuit.
 		hudWarningColor = 16768335
 		#Color of danger HUD elements used by MekaSuit.

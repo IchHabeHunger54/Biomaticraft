@@ -213,8 +213,6 @@ shaped("oak_log", <item:minecraft:oak_log> * 8, [[<item:mysticalagriculture:wood
 shaped("oak_sapling", <item:minecraft:oak_sapling> * 8, [[<item:mysticalagriculture:wood_essence>, <item:mysticalagriculture:nature_essence>, <item:mysticalagriculture:wood_essence>], [air, air, air], [air, air, air]]);
 shaped("observer", <item:minecraft:observer>, [[<item:minecraft:cobblestone>, <item:minecraft:cobblestone>, <item:minecraft:cobblestone>], [<item:minecraft:redstone>, <tag:items:appliedenergistics2:crystals/nether>, <item:minecraft:redstone>], [<item:minecraft:cobblestone>, <item:minecraft:cobblestone>, <item:minecraft:cobblestone>]]);
 shaped("orange_dye_essence", <item:minecraft:orange_dye>, [[air, <item:mysticalagriculture:dye_essence>, air], [air, air, air], [air, air, air]]);
-shaped("paper", <item:minecraft:paper> * 3, [[<item:minecraft:sugar_cane>, <item:minecraft:sugar_cane>, <item:minecraft:sugar_cane>]]);
-shaped("paper_sawdust", <item:minecraft:paper> * 3, [[<item:mekanism:sawdust>, <item:mekanism:sawdust>, <item:mekanism:sawdust>]]);
 shaped("pink_dye_essence", <item:minecraft:pink_dye>, [[air, air, air], [air, air, air], [air, <item:mysticalagriculture:dye_essence>, air]]);
 shaped("piston", <item:minecraft:piston>, [[<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>], [<item:minecraft:cobblestone>, <item:minecraft:iron_ingot>, <item:minecraft:cobblestone>], [<item:minecraft:cobblestone>, <item:minecraft:redstone>, <item:minecraft:cobblestone>]]);
 shaped("pork", <item:minecraft:porkchop> * 3, [[<item:mysticalagriculture:pig_essence>, <item:mysticalagriculture:pig_essence>, <item:mysticalagriculture:pig_essence>], [air, air, air], [air, air, air]]);
@@ -335,6 +333,8 @@ shapeless("name_tag", <item:minecraft:name_tag>, [<item:minecraft:string>, <item
 shapeless("netherite_ingot", <item:minecraft:netherite_ingot>, [<item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:netherite_scrap>, <item:minecraft:netherite_scrap>, <item:minecraft:netherite_scrap>, <item:minecraft:netherite_scrap>]);
 shapeless("orange_dye", <item:minecraft:orange_dye>, [<item:minecraft:orange_tulip>]);
 shapeless("orange_dye_dye", <item:minecraft:orange_dye> * 2, [<item:minecraft:red_dye>, <item:minecraft:yellow_dye>]);
+shapeless("paper", <item:minecraft:paper> * 3, [<item:minecraft:sugar_cane>, <item:minecraft:sugar_cane>, <item:minecraft:sugar_cane>]);
+shapeless("paper_sawdust", <item:minecraft:paper> * 3, [<item:mekanism:sawdust>, <item:mekanism:sawdust>, <item:mekanism:sawdust>]);
 shapeless("pink_dye", <item:minecraft:pink_dye>, [<item:inspirations:paeonia>]);
 shapeless("pink_dye_coral", <item:minecraft:pink_dye>, [<item:minecraft:bubble_coral>]);
 shapeless("pink_dye_dye", <item:minecraft:pink_dye> * 2, [<item:minecraft:red_dye>, <item:minecraft:white_dye>]);
