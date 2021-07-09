@@ -1,0 +1,94 @@
+
+[general]
+	disable_mod = false
+	space_modules = false
+	shadow_text = true
+	animations = true
+	animationSpeed = 1.0
+	background_color = 1061109567
+
+[[modules_left]]
+	name = "minecraft"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		minecraft = true
+
+[[modules_left]]
+	name = "fps"
+	color_high = 5635925
+	color_med = 16777045
+	color_low = 16733525
+	enabled = true
+
+	[modules_left.lines]
+		fps = true
+
+[[modules_left]]
+	name = "graphics"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		render_distance = true
+		graphics = true
+		clouds = true
+		biome_blend_radius = true
+		shader = true
+
+[[modules_left]]
+	name = "server"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		server_tick = true
+		packets_sent = true
+		packets_received = true
+
+[[modules_left]]
+	name = "entity"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		particles = true
+		entities = true
+		monster = true
+		creature = true
+		ambient = true
+		water_creature = true
+		water_ambient = true
+		misc = true
+
+[[modules_left]]
+	name = "sound"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		sounds = true
+		ambient_sounds = true
+
+[[modules_right]]
+	name = "system"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_right.lines]
+		java_version = true
+		memory_usage = true
+		allocated_memory = true
+		cpu = true
+		display = true
+		gpu = true
+		opengl_version = true
+		gpu_driver = true
+

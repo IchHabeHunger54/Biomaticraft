@@ -88,6 +88,15 @@
 			#Range: 1 ~ 20
 			frequency = 5
 
+		#Sprinkler settings
+		[cyclic.blocks.sprinkler]
+			#Water consumption
+			#Range: 0 ~ 1000
+			water = 5
+			#Tick rate.  20 will fire one block per second
+			#Range: 1 ~ 20
+			ticks = 20
+
 	#####################################################################################
 	# Logging related configs
 	#####################################################################################
@@ -138,6 +147,18 @@
 			#Weapon damage
 			#Range: 0.10000000149011612 ~ 99.0
 			damage = 4.5
+			#Damage Reduction
+			#Range: 1 ~ 99
+			boots = 4
+			#Damage Reduction
+			#Range: 1 ~ 99
+			helm = 4
+			#Damage Reduction
+			#Range: 1 ~ 99
+			chest = 9
+			#Damage Reduction
+			#Range: 1 ~ 99
+			leg = 7
 
 		#####################################################################################
 		# Obsidian gear settings
@@ -149,6 +170,26 @@
 			#Weapon damage
 			#Range: 0.10000000149011612 ~ 99.0
 			damage = 10.5
+			#Damage Reduction
+			#Range: 1 ~ 99
+			boots = 7
+			#Damage Reduction
+			#Range: 1 ~ 99
+			helm = 7
+			#Damage Reduction
+			#Range: 1 ~ 99
+			chest = 11
+			#Damage Reduction
+			#Range: 1 ~ 99
+			leg = 10
+
+		#####################################################################################
+		# Edible chorus settings
+		#####################################################################################
+		[cyclic.items.chorus]
+			#Seconds of noClip per chorus_spectral
+			#Range: 1 ~ 20000
+			ticks = 600
 
 	#####################################################################################
 	# Edit the permissions of all commands added by the mod.  false means anyone can use, true means only OP players can use  
@@ -164,8 +205,6 @@
 		pingnether = false
 		#True means only players with OP can use this /cyclic command
 		gethome = false
-		#True means only players with OP can use this /cyclic command
-		worldspawn = true
 		#True means only players with OP can use this /cyclic command
 		home = true
 		#True means only players with OP can use this /cyclic command
