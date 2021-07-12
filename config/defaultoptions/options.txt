@@ -35,7 +35,7 @@ biomeBlendRadius:2
 renderClouds:false
 resourcePacks:["vanilla","mod_resources","inspirations:config_resources","openloader/resources/New folder","quark:emote_resources"]
 incompatibleResourcePacks:["inspirations:config_resources","quark:emote_resources"]
-lastServer:192.168.0.20
+lastServer:
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -65,7 +65,7 @@ glDebugVerbosity:1
 skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:true
-syncChunkWrites:true
+syncChunkWrites:false
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
