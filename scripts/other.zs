@@ -1,19 +1,30 @@
+import crafttweaker.api.entity.MCEntityClassification;
+import crafttweaker.api.events.CTEventManager;
+import crafttweaker.api.event.entity.living.MCLivingExperienceDropEvent;
 import crafttweaker.api.food.MCFood;
+import crafttweaker.api.player.MCPlayerEntity;
 stoneCutter.removeAll();
-<recipetype:charm:woodcutting>.removeAll();
 <recipetype:appliedenergistics2:grinder>.removeAll();
 <recipetype:botania:brew>.removeAll();
-<recipetype:charm:firing>.removeAll();
-<recipetype:cyclic:melter>.removeAll();
-<recipetype:cyclic:solidifier>.removeAll();
-<recipetype:industrialforegoing:crusher>.removeAll();
-<recipetype:industrialforegoing:dissolution_chamber>.removeAll();
-<recipetype:industrialforegoing:fluid_extractor>.removeAll();
-<recipetype:industrialforegoing:laser_drill_fluid>.removeAll();
-<recipetype:industrialforegoing:laser_drill_ore>.removeAll();
-<recipetype:industrialforegoing:stonework_generate>.removeAll();
 <recipetype:mysticalagriculture:reprocessor>.removeAll();
 <recipetype:mysticalagriculture:soul_extraction>.removeAll();
+craftingTable.removeByModid("archers_paradox");
+craftingTable.removeByModid("botanypots");
+craftingTable.removeByModid("cofh_core");
+craftingTable.removeByModid("darkutils");
+craftingTable.removeByModid("elevatorid");
+craftingTable.removeByModid("farmingforblockheads");
+craftingTable.removeByModid("ironchest");
+craftingTable.removeByModid("mekanismadditions");
+craftingTable.removeByModid("theoneprobe");
+recipes.removeByModid("charm");
+recipes.removeByModid("cookingforblockheads");
+recipes.removeByModid("cyclic");
+recipes.removeByModid("industrialforegoing");
+recipes.removeByModid("mekanismtools");
+recipes.removeByModid("metalbarrels");
+recipes.removeByModid("securitycraft");
+recipes.removeByModid("vanillatweaks");
 stonecutter([<item:minecraft:andesite>, <item:minecraft:polished_andesite>, <item:quark:andesite_bricks>, <item:quark:chiseled_andesite_bricks>, <item:quark:andesite_pavement>, <item:quark:andesite_pillar>]);
 stonecutter([<item:minecraft:diorite>, <item:minecraft:polished_diorite>, <item:quark:diorite_bricks>, <item:quark:chiseled_diorite_bricks>, <item:quark:diorite_pavement>, <item:quark:diorite_pillar>]);
 stonecutter([<item:minecraft:granite>, <item:minecraft:polished_granite>, <item:quark:granite_bricks>, <item:quark:chiseled_granite_bricks>, <item:quark:granite_pavement>, <item:quark:granite_pillar>]);
@@ -395,3 +406,45 @@ for item in game.items {
 <item:mekanism:upgrade_gas>.removeTooltip("details");
 <item:mekanism:upgrade_muffling>.removeTooltip("details");
 <item:mekanism:upgrade_speed>.removeTooltip("details");
+CTEventManager.register<crafttweaker.api.event.block.MCBlockBreakEvent>((event) => {
+    var b = event.getBlockState().block;
+    event.setExpToDrop(0);
+    if b == <block:minecraft:coal_ore> {
+        event.setExpToDrop(1);
+    } else if b == <block:mysticalagriculture:inferium_ore> || b == <block:mysticalagriculture:prosperity_ore> {
+        event.setExpToDrop(2);
+    } else if b == <block:appliedenergistics2:quartz_ore> || b == <block:appliedenergistics2:charged_quartz_ore> {
+        event.setExpToDrop(3);
+    } else if b == <block:minecraft:lapis_ore> || b == <block:minecraft:redstone_ore> {
+        event.setExpToDrop(4);
+    } else if b == <block:minecraft:diamond_ore> || b == <block:minecraft:emerald_ore> {
+        event.setExpToDrop(5);
+    } else if b == <block:minecraft:nether_gold_ore> || b == <block:minecraft:nether_quartz_ore> {
+        event.setExpToDrop(6);
+    } else if b == <block:mekanism:fluorite_ore> {
+        event.setExpToDrop(7);
+    } else if b == <block:quark:biotite_ore> {
+        event.setExpToDrop(8);
+    } else if b == <block:minecraft:spawner> {
+        event.setExpToDrop(24);
+    }
+});
+CTEventManager.register<MCLivingExperienceDropEvent>((event) => {
+    var e = event.getEntityLiving();
+    if e is MCPlayerEntity {
+        event.droppedExperience = event.originalExperiencePoints / 2;
+    } else if e.type != <entitytype:minecraft:ender_dragon> && e.type != <entitytype:minecraft:wither> && e.type != <entitytype:botania:doppleganger> && e.type != <entitytype:botania:pixie> {
+        var d = 0 as float;
+        if e.type != <entitytype:minecraft:iron_golem> && e.type != <entitytype:minecraft:snow_golem> && e.type != <entitytype:minecraft:villager> && e.type != <entitytype:minecraft:wandering_trader> {
+            d = e.getMaxHealth() / 4;
+            if e.isChild() {
+                if e.type.classification == MCEntityClassification.MONSTER {
+                    d = e.getMaxHealth() / 2;
+                } else {
+                    d = 0;
+                }
+            }
+        }
+        event.droppedExperience = d as int;
+    }
+});

@@ -1,1 +1,0 @@
-{"inputBottom":{"item":"minecraft:stone_bricks"},"inputMiddle":{"item":"minecraft:stone_bricks"},"inputTop":{"item":"minecraft:stone_bricks"},"mix":{"count":10,"fluid":"cyclic:biomass"},"result":{"count":3,"item":"minecraft:mossy_stone_bricks"},"type":"cyclic:solidifier"}

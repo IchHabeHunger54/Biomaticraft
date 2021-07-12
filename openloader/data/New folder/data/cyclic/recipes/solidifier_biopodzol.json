@@ -1,1 +1,0 @@
-{"inputBottom":{"item":"minecraft:grass_block"},"inputMiddle":{"item":"minecraft:dirt"},"inputTop":{"item":"minecraft:grass_block"},"mix":{"count":200,"fluid":"cyclic:biomass"},"result":{"count":3,"item":"minecraft:podzol"},"type":"cyclic:solidifier"}

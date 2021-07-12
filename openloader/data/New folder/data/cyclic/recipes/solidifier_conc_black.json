@@ -1,1 +1,0 @@
-{"inputBottom":{"item":"minecraft:black_concrete_powder"},"inputMiddle":{"item":"minecraft:black_concrete_powder"},"inputTop":{"item":"minecraft:black_concrete_powder"},"mix":{"count":10,"fluid":"minecraft:water"},"result":{"count":3,"item":"minecraft:black_concrete"},"type":"cyclic:solidifier"}

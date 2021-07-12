@@ -1,1 +1,0 @@
-{"inputBottom":{"item":"minecraft:dead_bubble_coral"},"inputMiddle":{"item":"minecraft:bubble_coral"},"inputTop":{"item":"minecraft:dead_bubble_coral"},"mix":{"count":100,"fluid":"minecraft:water"},"result":{"count":3,"item":"minecraft:bubble_coral"},"type":"cyclic:solidifier"}

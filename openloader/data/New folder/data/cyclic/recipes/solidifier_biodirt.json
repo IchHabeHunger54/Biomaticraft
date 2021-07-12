@@ -1,1 +1,0 @@
-{"inputBottom":{"item":"minecraft:dirt"},"inputMiddle":{"item":"minecraft:dirt"},"inputTop":{"item":"minecraft:dirt"},"mix":{"count":200,"fluid":"cyclic:biomass"},"result":{"count":3,"item":"minecraft:grass_block"},"type":"cyclic:solidifier"}

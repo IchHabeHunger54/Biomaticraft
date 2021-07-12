@@ -1,1 +1,0 @@
-{"inputBottom":{"item":"minecraft:yellow_concrete_powder"},"inputMiddle":{"item":"minecraft:yellow_concrete_powder"},"inputTop":{"item":"minecraft:yellow_concrete_powder"},"mix":{"count":10,"fluid":"minecraft:water"},"result":{"count":3,"item":"minecraft:yellow_concrete"},"type":"cyclic:solidifier"}

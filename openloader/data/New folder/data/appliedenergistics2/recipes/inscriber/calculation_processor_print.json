@@ -1,1 +1,1 @@
-{"ingredients":{"middle":{"item":"appliedenergistics2:purified_certus_quartz_crystal"},"top":{"item":"appliedenergistics2:calculation_processor_press"}},"mode":"inscribe","result":{"item":"appliedenergistics2:printed_calculation_processor"},"type":"appliedenergistics2:inscriber"}
+{"ingredients":{"middle":{"tag":"appliedenergistics2:crystals/certus"},"top":{"item":"appliedenergistics2:calculation_processor_press"}},"mode":"inscribe","result":{"item":"appliedenergistics2:printed_calculation_processor"},"type":"appliedenergistics2:inscriber"}

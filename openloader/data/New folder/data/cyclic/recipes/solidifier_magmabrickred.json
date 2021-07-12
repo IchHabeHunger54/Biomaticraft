@@ -1,1 +1,0 @@
-{"inputBottom":{"item":"minecraft:nether_brick"},"inputMiddle":{"item":"minecraft:nether_wart"},"inputTop":{"item":"minecraft:nether_brick"},"mix":{"count":10,"fluid":"cyclic:magma"},"result":{"count":1,"item":"minecraft:red_nether_bricks"},"type":"cyclic:solidifier"}

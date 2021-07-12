@@ -105,7 +105,7 @@ function stonecutter(ingredients as IItemStack[]) as void {
 	for first in ingredients {
 		for second in ingredients {
 			if(!first.matches(second)) {
-				stoneCutter.addRecipe(first.registryName.getNamespace() + first.registryName.getPath() + "_to_" + second.registryName.getNamespace() + second.registryName.getPath(), first, second);
+				stoneCutter.addRecipe(first.registryName.getNamespace() + "_" + first.registryName.getPath() + "_to_" + second.registryName.getNamespace() + "_" + second.registryName.getPath(), first, second);
 			}
 		}
 	}
@@ -114,7 +114,7 @@ function woodcutter(ingredients as IItemStack[]) as void {
 	for first in ingredients {
 		for second in ingredients {
 			if(!first.matches(second)) {
-				<recipetype:charm:woodcutting>.addJSONRecipe(first.registryName.getNamespace() + first.registryName.getPath() + "_to_" + second.registryName.getNamespace() + second.registryName.getPath(), {ingredient: first, result: second.registryName, count: 1});
+				<recipetype:charm:woodcutting>.addJSONRecipe(first.registryName.getNamespace() + "_" + first.registryName.getPath() + "_to_" + second.registryName.getNamespace() + "_" + second.registryName.getPath(), {ingredient: first, result: second.registryName, count: 1});
 			}
 		}
 	}
@@ -133,24 +133,3 @@ function dualCycle(name as string, first as IItemStack, second as IItemStack) as
 	craftingTable.addShapeless(name, second * 2, [first, first]);
 	craftingTable.addShapeless(name + "_rev", first, [second]);
 }
-/*
-function simpleFood(item as IItemStack, hunger as int, saturation as int, type as int) as void {
-	var food = new crafttweaker.api.food.MCFood(hunger, saturation / 8 as float);
-	food.setCanEatWhenFull(true);
-	if(type == 1) {
-		food.setMeat(true);
-	}
-	if(type == 2) {
-		food.setFastEating(true);
-	}
-	item.food = food;
-}
-function food(item as IItemStack, hunger as int, saturation as int, effects as MCPotionEffectInstance[]) as void {
-	var food = new crafttweaker.api.food.MCFood(hunger, saturation / 8 as float);
-	food.setCanEatWhenFull(true);
-	for effect in effects {
-		food.addEffect(effect as MCPotionEffectInstance, 1.0);
-	}
-	item.food = food;
-}
-*/

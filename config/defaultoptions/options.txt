@@ -29,7 +29,7 @@ guiScale:3
 particles:0
 maxFps:260
 difficulty:2
-graphicsMode:1
+graphicsMode:2
 ao:2
 biomeBlendRadius:2
 renderClouds:false
@@ -43,7 +43,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:false
 overrideWidth:0
 overrideHeight:0
@@ -66,7 +66,7 @@ skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:true
 syncChunkWrites:true
-soundCategory_master:0.10093897
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.0

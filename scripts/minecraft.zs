@@ -78,7 +78,6 @@ dye1("netherite", <item:mysticalagriculture:netherite_essence>, air, <item:minec
 dye1("note_block", <tag:items:minecraft:planks>, <item:minecraft:redstone>, <item:minecraft:note_block>);
 dye1("obsidian", <item:mysticalagriculture:obsidian_essence>, air, <item:minecraft:obsidian> * 4);
 dye1("painting", <item:minecraft:stick>, <tag:items:minecraft:wool>, <item:minecraft:painting>);
-dye1("pure_quartz_block", <item:appliedenergistics2:purified_nether_quartz_crystal>, air, <item:minecraft:quartz_block>);
 dye1("quartz", <item:mysticalagriculture:nether_quartz_essence>, air, <item:minecraft:quartz> * 4);
 dye1("redstone", <item:mysticalagriculture:redstone_essence>, air, <item:minecraft:redstone> * 4);
 dye1("redstone_lamp", <item:minecraft:redstone>, <item:minecraft:glowstone>, <item:minecraft:redstone_lamp>);
