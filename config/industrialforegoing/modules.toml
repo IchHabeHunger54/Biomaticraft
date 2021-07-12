@@ -203,7 +203,13 @@
 			enabled = false
 
 		[modules.tools.infinity_backpack]
-			enabled = true
+			enabled = false
+
+		[modules.tools.infinity_launcher]
+			enabled = false
+
+		[modules.tools.infinity_nuke]
+			enabled = false
 
 	[modules.resource_production]
 		enabled = true

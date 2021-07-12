@@ -407,7 +407,7 @@
 		"Afk Time" = 2400
 		"Enable Afk" = true
 		#Allowed values: (0,1]
-		"Percent Req" = 1.0
+		"Percent Req" = 0.6
 
 	[tweaks.infinity_bucket]
 		#Set this to false to prevent dispensers from using infinite water buckets
