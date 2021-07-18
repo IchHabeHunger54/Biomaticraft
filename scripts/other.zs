@@ -9,23 +9,7 @@ stoneCutter.removeAll();
 <recipetype:botania:brew>.removeAll();
 <recipetype:mysticalagriculture:reprocessor>.removeAll();
 <recipetype:mysticalagriculture:soul_extraction>.removeAll();
-craftingTable.removeByModid("archers_paradox");
-craftingTable.removeByModid("botanypots");
-craftingTable.removeByModid("cofh_core");
-craftingTable.removeByModid("darkutils");
-craftingTable.removeByModid("elevatorid");
-craftingTable.removeByModid("farmingforblockheads");
-craftingTable.removeByModid("ironchest");
-craftingTable.removeByModid("mekanismadditions");
-craftingTable.removeByModid("theoneprobe");
-recipes.removeByModid("charm");
-recipes.removeByModid("cookingforblockheads");
-recipes.removeByModid("cyclic");
-recipes.removeByModid("industrialforegoing");
-recipes.removeByModid("mekanismtools");
-recipes.removeByModid("metalbarrels");
-recipes.removeByModid("securitycraft");
-recipes.removeByModid("vanillatweaks");
+<recipetype:titanium:test_serializer>.removeAll();
 stonecutter([<item:minecraft:andesite>, <item:minecraft:polished_andesite>, <item:quark:andesite_bricks>, <item:quark:chiseled_andesite_bricks>, <item:quark:andesite_pavement>, <item:quark:andesite_pillar>]);
 stonecutter([<item:minecraft:diorite>, <item:minecraft:polished_diorite>, <item:quark:diorite_bricks>, <item:quark:chiseled_diorite_bricks>, <item:quark:diorite_pavement>, <item:quark:diorite_pillar>]);
 stonecutter([<item:minecraft:granite>, <item:minecraft:polished_granite>, <item:quark:granite_bricks>, <item:quark:chiseled_granite_bricks>, <item:quark:granite_pavement>, <item:quark:granite_pillar>]);
@@ -392,6 +376,17 @@ for item in game.items {
 <item:farmingforblockheads:red_fertilizer>.removeTooltip("Speeds up growth");
 <item:farmingforblockheads:yellow_fertilizer>.removeTooltip("Prevents trampling");
 <item:industrialforegoing:water_condensator>.removeTooltip("Optional");
+for mod in loadedMods.mods {
+    if mod.modid != "crafttweaker" {
+        craftingTable.removeByModid(mod.modid);
+        furnace.removeByModid(mod.modid);
+        smoker.removeByModid(mod.modid);
+        blastFurnace.removeByModid(mod.modid);
+        campfire.removeByModid(mod.modid);
+        stoneCutter.removeByModid(mod.modid);
+        smithing.removeByModid(mod.modid);
+    }
+}
 CTEventManager.register<MCBlockBreakEvent>((event) => {
     var b = event.getBlockState().block;
     event.setExpToDrop(0);
@@ -410,7 +405,7 @@ CTEventManager.register<MCBlockBreakEvent>((event) => {
     } else if b == <block:mekanism:fluorite_ore> {
         event.setExpToDrop(7);
     } else if b == <block:minecraft:spawner> {
-        event.setExpToDrop(24);
+        event.setExpToDrop(8);
     }
 });
 CTEventManager.register<MCLivingExperienceDropEvent>((event) => {

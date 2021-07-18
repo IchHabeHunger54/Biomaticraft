@@ -188,7 +188,7 @@ shapeless("incense_plate", <item:botania:incense_plate>, [<item:botania:livingwo
 shapeless("infused_seeds", <item:botania:infused_seeds>, [<item:botania:grass_seeds>, <item:minecraft:prismarine_shard>]);
 shapeless("jaded_amaranthus", <item:botania:floating_jaded_amaranthus>, [<item:botania:jaded_amaranthus>, <item:minecraft:dirt>, <item:botania:grass_seeds>]);
 shapeless("jiyuulia", <item:botania:floating_jiyuulia>, [<item:botania:jiyuulia>, <item:minecraft:dirt>, <item:botania:grass_seeds>]);
-shapeless("keep_ivy", <item:botania:keep_ivy>, [<item:botania:pixie_dust>, <item:minecraft:vine>, <item:botania:ender_air_bottle>]);
+shapeless("keep_ivy_craft", <item:botania:keep_ivy>, [<item:botania:pixie_dust>, <item:minecraft:vine>, <item:botania:ender_air_bottle>]);
 shapeless("kekimurus", <item:botania:floating_kekimurus>, [<item:botania:kekimurus>, <item:minecraft:dirt>, <item:botania:grass_seeds>]);
 shapeless("lens_bounce", <item:botania:lens_bounce>, [<item:botania:lens_normal>, <item:botania:rune_summer>]);
 shapeless("lens_damage", <item:botania:lens_damage>, [<item:botania:lens_normal>, <item:botania:rune_wrath>]);
