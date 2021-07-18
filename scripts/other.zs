@@ -1,5 +1,6 @@
 import crafttweaker.api.entity.MCEntityClassification;
 import crafttweaker.api.events.CTEventManager;
+import crafttweaker.api.event.block.MCBlockBreakEvent;
 import crafttweaker.api.event.entity.living.MCLivingExperienceDropEvent;
 import crafttweaker.api.food.MCFood;
 import crafttweaker.api.player.MCPlayerEntity;
@@ -89,47 +90,22 @@ smithing.addRecipe("netherite_helmet", <item:minecraft:netherite_helmet>, <item:
 smithing.addRecipe("netherite_chestplate", <item:minecraft:netherite_chestplate>, <item:minecraft:diamond_chestplate>, <item:minecraft:netherite_ingot>);
 smithing.addRecipe("netherite_leggings", <item:minecraft:netherite_leggings>, <item:minecraft:diamond_leggings>, <item:minecraft:netherite_ingot>);
 smithing.addRecipe("netherite_boots", <item:minecraft:netherite_boots>, <item:minecraft:diamond_boots>, <item:minecraft:netherite_ingot>);
-//smithing.addRecipe("inferium_sword", <item:mysticalagriculture:inferium_sword>, <item:minecraft:diamond_sword>, <item:mysticalagriculture:inferium_ingot>);
-//smithing.addRecipe("inferium_pickaxe", <item:mysticalagriculture:inferium_pickaxe>, <item:minecraft:diamond_pickaxe>, <item:mysticalagriculture:inferium_ingot>);
-//smithing.addRecipe("inferium_axe", <item:mysticalagriculture:inferium_axe>, <item:minecraft:diamond_axe>, <item:mysticalagriculture:inferium_ingot>);
-//smithing.addRecipe("inferium_shovel", <item:mysticalagriculture:inferium_shovel>, <item:minecraft:diamond_shovel>, <item:mysticalagriculture:inferium_ingot>);
-//smithing.addRecipe("inferium_hoe", <item:mysticalagriculture:inferium_hoe>, <item:minecraft:diamond_hoe>, <item:mysticalagriculture:inferium_ingot>);
 smithing.addRecipe("inferium_helmet", <item:mysticalagriculture:inferium_helmet>, <item:minecraft:diamond_helmet>, <item:mysticalagriculture:inferium_ingot>);
 smithing.addRecipe("inferium_chestplate", <item:mysticalagriculture:inferium_chestplate>, <item:minecraft:diamond_chestplate>, <item:mysticalagriculture:inferium_ingot>);
 smithing.addRecipe("inferium_leggings", <item:mysticalagriculture:inferium_leggings>, <item:minecraft:diamond_leggings>, <item:mysticalagriculture:inferium_ingot>);
 smithing.addRecipe("inferium_boots", <item:mysticalagriculture:inferium_boots>, <item:minecraft:diamond_boots>, <item:mysticalagriculture:inferium_ingot>);
-//smithing.addRecipe("prudentium_sword", <item:mysticalagriculture:prudentium_sword>, <item:mysticalagriculture:inferium_sword>, <item:mysticalagriculture:prudentium_ingot>);
-//smithing.addRecipe("prudentium_pickaxe", <item:mysticalagriculture:prudentium_pickaxe>, <item:mysticalagriculture:inferium_pickaxe>, <item:mysticalagriculture:prudentium_ingot>);
-//smithing.addRecipe("prudentium_axe", <item:mysticalagriculture:prudentium_axe>, <item:mysticalagriculture:inferium_axe>, <item:mysticalagriculture:prudentium_ingot>);
-//smithing.addRecipe("prudentium_shovel", <item:mysticalagriculture:prudentium_shovel>, <item:mysticalagriculture:inferium_shovel>, <item:mysticalagriculture:prudentium_ingot>);
-//smithing.addRecipe("prudentium_hoe", <item:mysticalagriculture:prudentium_hoe>, <item:mysticalagriculture:inferium_hoe>, <item:mysticalagriculture:prudentium_ingot>);
 smithing.addRecipe("prudentium_helmet", <item:mysticalagriculture:prudentium_helmet>, <item:mysticalagriculture:inferium_helmet>, <item:mysticalagriculture:prudentium_ingot>);
 smithing.addRecipe("prudentium_chestplate", <item:mysticalagriculture:prudentium_chestplate>, <item:mysticalagriculture:inferium_chestplate>, <item:mysticalagriculture:prudentium_ingot>);
 smithing.addRecipe("prudentium_leggings", <item:mysticalagriculture:prudentium_leggings>, <item:mysticalagriculture:inferium_leggings>, <item:mysticalagriculture:prudentium_ingot>);
 smithing.addRecipe("prudentium_boots", <item:mysticalagriculture:prudentium_boots>, <item:mysticalagriculture:inferium_boots>, <item:mysticalagriculture:prudentium_ingot>);
-//smithing.addRecipe("tertium_sword", <item:mysticalagriculture:tertium_sword>, <item:mysticalagriculture:prudentium_sword>, <item:mysticalagriculture:tertium_ingot>);
-//smithing.addRecipe("tertium_pickaxe", <item:mysticalagriculture:tertium_pickaxe>, <item:mysticalagriculture:prudentium_pickaxe>, <item:mysticalagriculture:tertium_ingot>);
-//smithing.addRecipe("tertium_axe", <item:mysticalagriculture:tertium_axe>, <item:mysticalagriculture:prudentium_axe>, <item:mysticalagriculture:tertium_ingot>);
-//smithing.addRecipe("tertium_shovel", <item:mysticalagriculture:tertium_shovel>, <item:mysticalagriculture:prudentium_shovel>, <item:mysticalagriculture:tertium_ingot>);
-//smithing.addRecipe("tertium_hoe", <item:mysticalagriculture:tertium_hoe>, <item:mysticalagriculture:prudentium_hoe>, <item:mysticalagriculture:tertium_ingot>);
 smithing.addRecipe("tertium_helmet", <item:mysticalagriculture:tertium_helmet>, <item:mysticalagriculture:prudentium_helmet>, <item:mysticalagriculture:tertium_ingot>);
 smithing.addRecipe("tertium_chestplate", <item:mysticalagriculture:tertium_chestplate>, <item:mysticalagriculture:prudentium_chestplate>, <item:mysticalagriculture:tertium_ingot>);
 smithing.addRecipe("tertium_leggings", <item:mysticalagriculture:tertium_leggings>, <item:mysticalagriculture:prudentium_leggings>, <item:mysticalagriculture:tertium_ingot>);
 smithing.addRecipe("tertium_boots", <item:mysticalagriculture:tertium_boots>, <item:mysticalagriculture:prudentium_boots>, <item:mysticalagriculture:tertium_ingot>);
-//smithing.addRecipe("imperium_sword", <item:mysticalagriculture:imperium_sword>, <item:mysticalagriculture:tertium_sword>, <item:mysticalagriculture:imperium_ingot>);
-//smithing.addRecipe("imperium_pickaxe", <item:mysticalagriculture:imperium_pickaxe>, <item:mysticalagriculture:tertium_pickaxe>, <item:mysticalagriculture:imperium_ingot>);
-//smithing.addRecipe("imperium_axe", <item:mysticalagriculture:imperium_axe>, <item:mysticalagriculture:tertium_axe>, <item:mysticalagriculture:imperium_ingot>);
-//smithing.addRecipe("imperium_shovel", <item:mysticalagriculture:imperium_shovel>, <item:mysticalagriculture:tertium_shovel>, <item:mysticalagriculture:imperium_ingot>);
-//smithing.addRecipe("imperium_hoe", <item:mysticalagriculture:imperium_hoe>, <item:mysticalagriculture:tertium_hoe>, <item:mysticalagriculture:imperium_ingot>);
 smithing.addRecipe("imperium_helmet", <item:mysticalagriculture:imperium_helmet>, <item:mysticalagriculture:tertium_helmet>, <item:mysticalagriculture:imperium_ingot>);
 smithing.addRecipe("imperium_chestplate", <item:mysticalagriculture:imperium_chestplate>, <item:mysticalagriculture:tertium_chestplate>, <item:mysticalagriculture:imperium_ingot>);
 smithing.addRecipe("imperium_leggings", <item:mysticalagriculture:imperium_leggings>, <item:mysticalagriculture:tertium_leggings>, <item:mysticalagriculture:imperium_ingot>);
 smithing.addRecipe("imperium_boots", <item:mysticalagriculture:imperium_boots>, <item:mysticalagriculture:tertium_boots>, <item:mysticalagriculture:imperium_ingot>);
-//smithing.addRecipe("supremium_sword", <item:mysticalagriculture:supremium_sword>, <item:mysticalagriculture:imperium_sword>, <item:mysticalagriculture:supremium_ingot>);
-//smithing.addRecipe("supremium_pickaxe", <item:mysticalagriculture:supremium_pickaxe>, <item:mysticalagriculture:imperium_pickaxe>, <item:mysticalagriculture:supremium_ingot>);
-//smithing.addRecipe("supremium_axe", <item:mysticalagriculture:supremium_axe>, <item:mysticalagriculture:imperium_axe>, <item:mysticalagriculture:supremium_ingot>);
-//smithing.addRecipe("supremium_shovel", <item:mysticalagriculture:supremium_shovel>, <item:mysticalagriculture:imperium_shovel>, <item:mysticalagriculture:supremium_ingot>);
-//smithing.addRecipe("supremium_hoe", <item:mysticalagriculture:supremium_hoe>, <item:mysticalagriculture:imperium_hoe>, <item:mysticalagriculture:supremium_ingot>);
 smithing.addRecipe("supremium_helmet", <item:mysticalagriculture:supremium_helmet>, <item:mysticalagriculture:imperium_helmet>, <item:mysticalagriculture:supremium_ingot>);
 smithing.addRecipe("supremium_chestplate", <item:mysticalagriculture:supremium_chestplate>, <item:mysticalagriculture:imperium_chestplate>, <item:mysticalagriculture:supremium_ingot>);
 smithing.addRecipe("supremium_leggings", <item:mysticalagriculture:supremium_leggings>, <item:mysticalagriculture:imperium_leggings>, <item:mysticalagriculture:supremium_ingot>);
@@ -415,14 +391,8 @@ for item in game.items {
 <item:farmingforblockheads:green_fertilizer>.removeTooltip("Increases crop output");
 <item:farmingforblockheads:red_fertilizer>.removeTooltip("Speeds up growth");
 <item:farmingforblockheads:yellow_fertilizer>.removeTooltip("Prevents trampling");
-<item:industrialforegoing:water_condensator>.removeTooltip("Power Optional");
-<item:mekanism:upgrade_anchor>.removeTooltip("details");
-<item:mekanism:upgrade_energy>.removeTooltip("details");
-<item:mekanism:upgrade_filter>.removeTooltip("details");
-<item:mekanism:upgrade_gas>.removeTooltip("details");
-<item:mekanism:upgrade_muffling>.removeTooltip("details");
-<item:mekanism:upgrade_speed>.removeTooltip("details");
-CTEventManager.register<crafttweaker.api.event.block.MCBlockBreakEvent>((event) => {
+<item:industrialforegoing:water_condensator>.removeTooltip("Optional");
+CTEventManager.register<MCBlockBreakEvent>((event) => {
     var b = event.getBlockState().block;
     event.setExpToDrop(0);
     if b == <block:minecraft:coal_ore> {
@@ -435,12 +405,10 @@ CTEventManager.register<crafttweaker.api.event.block.MCBlockBreakEvent>((event) 
         event.setExpToDrop(4);
     } else if b == <block:minecraft:diamond_ore> || b == <block:minecraft:emerald_ore> {
         event.setExpToDrop(5);
-    } else if b == <block:minecraft:nether_gold_ore> || b == <block:minecraft:nether_quartz_ore> {
+    } else if b == <block:quark:biotite_ore> || b == <block:minecraft:nether_quartz_ore> {
         event.setExpToDrop(6);
     } else if b == <block:mekanism:fluorite_ore> {
         event.setExpToDrop(7);
-    } else if b == <block:quark:biotite_ore> {
-        event.setExpToDrop(8);
     } else if b == <block:minecraft:spawner> {
         event.setExpToDrop(24);
     }

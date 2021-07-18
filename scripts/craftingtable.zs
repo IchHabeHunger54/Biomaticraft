@@ -52,6 +52,7 @@ dye1("keypad_item", <item:minecraft:stone_button>, <item:minecraft:heavy_weighte
 dye1("mob_imprisonment_tool", <item:mekanism:ingot_steel>, <item:minecraft:ghast_tear>, <item:industrialforegoing:mob_imprisonment_tool>);
 dye1("obsidian_barrel", <item:minecraft:obsidian>, <item:metalbarrels:diamond_barrel>, <item:metalbarrels:obsidian_barrel>);
 dye1("obsidian_chest", <item:minecraft:obsidian>, <item:ironchest:diamond_chest>, <item:ironchest:obsidian_chest>);
+dye1("oven", <item:mekanism:ingot_steel>, <item:minecraft:furnace>, <item:cookingforblockheads:oven>);
 dye1("redstone_lantern", <item:minecraft:iron_nugget>, <item:minecraft:redstone_torch>, <item:charm:redstone_lantern>);
 dye1("redstone_sand", <item:minecraft:redstone>, <tag:items:minecraft:sand>, <item:charm:redstone_sand>);
 dye1("silver_barrel", <item:mekanism:ingot_tin>, <item:metalbarrels:iron_barrel>, <item:metalbarrels:silver_barrel>);
@@ -88,7 +89,6 @@ dye8("lapis_carrot_variant", <item:minecraft:golden_carrot>, <item:minecraft:lap
 dye8("lava_bricks", <item:minecraft:bricks>, <item:minecraft:magma_cream>, <item:ceramics:lava_bricks>);
 dye8("marine_bricks", <item:minecraft:bricks>, <item:minecraft:prismarine_shard>, <item:ceramics:marine_bricks>);
 dye8("monochrome_bricks", <item:minecraft:bricks>, <item:minecraft:ink_sac>, <item:ceramics:monochrome_bricks>);
-dye8("oven", <item:mekanism:ingot_steel>, <item:minecraft:furnace>, <item:cookingforblockheads:oven>);
 dye8("porcelain_gauge", <item:ceramics:white_porcelain>, <tag:items:forge:glass>, <item:ceramics:porcelain_gauge>);
 dye8("redstone_carrot_speed", <item:minecraft:golden_carrot>, <item:minecraft:redstone>, <item:cyclic:redstone_carrot_speed>);
 dye8("rune_blindness", <item:darkutils:blank_plate>, <item:minecraft:ink_sac>, <item:darkutils:rune_blindness>);
@@ -345,7 +345,7 @@ shapeless("keypad_chest", <item:securitycraft:keypad_chest>, [<tag:items:forge:c
 shapeless("keypad_furnace", <item:securitycraft:keypad_furnace>, [<item:minecraft:furnace>, <item:securitycraft:keypad_item>]);
 shapeless("lapis_mine", <item:securitycraft:lapis_mine>, [<item:minecraft:lapis_ore>, <item:securitycraft:mine>]);
 shapeless("laser_creator", <item:cyclic:laser>, [<tag:items:forge:glass>, <item:minecraft:redstone_block>]);
-shapeless("lens", <item:vanillatweaks:lens>, [<tag:items:forge:glass>, <item:mekanism:ingot_steel>, <item:mekanism:ingot_steel>]);
+shapeless("lens", <item:vanillatweaks:lens>, [<tag:items:forge:glass>, <item:mekanism:ingot_steel>]);
 shapeless("lever_remote", <item:cyclic:lever_remote>, [<item:minecraft:heavy_weighted_pressure_plate>, <item:minecraft:lever>]);
 shapeless("light_camo", <item:cyclic:light_camo>, [<item:cyclic:dark_glass>, <item:minecraft:glowstone>]);
 shapeless("lingering_bottle", <item:inspirations:lingering_bottle> * 3, [<item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>, <item:minecraft:dragon_breath>]);
