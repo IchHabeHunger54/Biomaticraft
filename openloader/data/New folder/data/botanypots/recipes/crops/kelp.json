@@ -1,1 +1,1 @@
-{"categories":["water"],"display":{"block":"minecraft:kelp_plant","renderFluid":false},"growthTicks":1000,"results":[{"chance":0.75,"maxRolls":3,"minRolls":1,"output":{"item":"minecraft:kelp"}}],"seed":{"item":"minecraft:kelp"},"type":"botanypots:crop"}
+{"categories":["water"],"display":{"block":"minecraft:kelp_plant","renderFluid":false},"growthTicks":600,"results":[{"chance":0.75,"maxRolls":3,"minRolls":1,"output":{"item":"minecraft:kelp"}}],"seed":{"item":"minecraft:kelp"},"type":"botanypots:crop"}

@@ -1,1 +1,1 @@
-{"categories":["dirt"],"display":{"block":"minecraft:azure_bluet"},"growthTicks":1200,"results":[{"chance":0.75,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:azure_bluet"}}],"seed":{"item":"minecraft:azure_bluet"},"type":"botanypots:crop"}
+{"categories":["dirt"],"display":{"block":"minecraft:azure_bluet"},"growthTicks":1800,"results":[{"chance":0.75,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:azure_bluet"}}],"seed":{"item":"minecraft:azure_bluet"},"type":"botanypots:crop"}

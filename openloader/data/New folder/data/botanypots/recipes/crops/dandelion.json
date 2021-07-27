@@ -1,1 +1,1 @@
-{"categories":["dirt"],"display":{"block":"minecraft:allium"},"growthTicks":1200,"results":[{"chance":0.75,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:allium"}}],"seed":{"item":"minecraft:allium"},"type":"botanypots:crop"}
+{"categories":["dirt"],"display":{"block":"minecraft:allium"},"growthTicks":1800,"results":[{"chance":0.75,"maxRolls":1,"minRolls":1,"output":{"item":"minecraft:allium"}}],"seed":{"item":"minecraft:allium"},"type":"botanypots:crop"}
