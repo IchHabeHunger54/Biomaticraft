@@ -1,1 +1,1 @@
-{"key":{"#":{"item":"mekanism:basic_energy_cube"},"C":{"item":"mekanism:basic_control_circuit"},"L":{"item":"mekanism:dust_lithium"}},"pattern":["LCL","C#C","LCL"],"result":{"item":"mekanism:basic_induction_provider"},"type":"minecraft:crafting_shaped"}
+{"key":{"#":{"item":"mekanism:basic_energy_cube"},"C":{"item":"mekanism:basic_control_circuit"},"L":{"item":"mekanism:dust_lithium"}},"pattern":["CLC","L#L","CLC"],"result":{"item":"mekanism:basic_induction_provider"},"type":"minecraft:crafting_shaped"}
