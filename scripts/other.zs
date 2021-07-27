@@ -5,9 +5,22 @@ import crafttweaker.api.event.entity.living.MCLivingExperienceDropEvent;
 import crafttweaker.api.food.MCFood;
 import crafttweaker.api.player.MCPlayerEntity;
 import mods.mysticalagriculture.InfusionCrafting;
+for mod in loadedMods.mods {
+    if mod.modid != "crafttweaker" {
+        craftingTable.removeByModid(mod.modid);
+        furnace.removeByModid(mod.modid);
+        smoker.removeByModid(mod.modid);
+        blastFurnace.removeByModid(mod.modid);
+        campfire.removeByModid(mod.modid);
+        stoneCutter.removeByModid(mod.modid);
+        smithing.removeByModid(mod.modid);
+    }
+}
 stoneCutter.removeAll();
 <recipetype:appliedenergistics2:grinder>.removeAll();
 <recipetype:botania:brew>.removeAll();
+<recipetype:ceramics:kiln>.removeAll();
+<recipetype:charm:firing>.removeAll();
 <recipetype:charm:woodcutting>.removeAll();
 <recipetype:cyclic:melter>.removeAll();
 <recipetype:cyclic:solidifier>.removeAll();
@@ -404,17 +417,6 @@ for item in game.items {
 <item:farmingforblockheads:red_fertilizer>.removeTooltip("Speeds up growth");
 <item:farmingforblockheads:yellow_fertilizer>.removeTooltip("Prevents trampling");
 <item:industrialforegoing:water_condensator>.removeTooltip("Optional");
-for mod in loadedMods.mods {
-    if mod.modid != "crafttweaker" {
-        craftingTable.removeByModid(mod.modid);
-        furnace.removeByModid(mod.modid);
-        smoker.removeByModid(mod.modid);
-        blastFurnace.removeByModid(mod.modid);
-        campfire.removeByModid(mod.modid);
-        stoneCutter.removeByModid(mod.modid);
-        smithing.removeByModid(mod.modid);
-    }
-}
 CTEventManager.register<MCBlockBreakEvent>((event) => {
     var b = event.getBlockState().block;
     event.setExpToDrop(0);

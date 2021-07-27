@@ -4,10 +4,13 @@ bigCompressWithUndo("bronze_nugget", <item:mekanism:nugget_bronze>, <item:mekani
 bigCompressWithUndo("copper_block", <item:mekanism:ingot_copper>, <item:mekanism:block_copper>);
 bigCompressWithUndo("copper_nugget", <item:mekanism:nugget_copper>, <item:mekanism:ingot_copper>);
 bigCompressWithUndo("lead_block", <item:mekanism:ingot_lead>, <item:mekanism:block_lead>);
+bigCompressWithUndo("lead_nugget", <item:mekanism:nugget_lead>, <item:mekanism:ingot_lead>);
 bigCompressWithUndo("osmium_block", <item:mekanism:ingot_osmium>, <item:mekanism:block_osmium>);
 bigCompressWithUndo("osmium_nugget", <item:mekanism:nugget_osmium>, <item:mekanism:ingot_osmium>);
 bigCompressWithUndo("refined_glowstone_block", <item:mekanism:ingot_refined_glowstone>, <item:mekanism:block_refined_glowstone>);
+bigCompressWithUndo("refined_glowstone_nugget", <item:mekanism:nugget_refined_glowstone>, <item:mekanism:ingot_refined_glowstone>);
 bigCompressWithUndo("refined_obsidian_block", <item:mekanism:ingot_refined_obsidian>, <item:mekanism:block_refined_obsidian>);
+bigCompressWithUndo("refined_obsidian_nugget", <item:mekanism:nugget_refined_obsidian>, <item:mekanism:ingot_refined_obsidian>);
 bigCompressWithUndo("steel_block", <item:mekanism:ingot_steel>, <item:mekanism:block_steel>);
 bigCompressWithUndo("steel_nugget", <item:mekanism:nugget_steel>, <item:mekanism:ingot_steel>);
 bigCompressWithUndo("tin_block", <item:mekanism:ingot_tin>, <item:mekanism:block_tin>);

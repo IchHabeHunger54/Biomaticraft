@@ -49,6 +49,7 @@ dye1("golden_frog_leg", <item:minecraft:gold_nugget>, <item:quark:cooked_frog_le
 dye1("iron_barrel", <item:minecraft:iron_ingot>, <item:metalbarrels:copper_barrel>, <item:metalbarrels:iron_barrel>);
 dye1("iron_chest", <item:minecraft:iron_ingot>, <item:ironchest:copper_chest>, <item:ironchest:iron_chest>);
 dye1("keypad_item", <item:minecraft:stone_button>, <item:minecraft:heavy_weighted_pressure_plate>, <item:securitycraft:keypad_item>);
+dye1("kiln", <item:minecraft:brick>, <item:minecraft:furnace>, <item:ceramics:kiln>);
 dye1("mob_imprisonment_tool", <item:mekanism:ingot_steel>, <item:minecraft:ghast_tear>, <item:industrialforegoing:mob_imprisonment_tool>);
 dye1("obsidian_barrel", <item:minecraft:obsidian>, <item:metalbarrels:diamond_barrel>, <item:metalbarrels:obsidian_barrel>);
 dye1("obsidian_chest", <item:minecraft:obsidian>, <item:ironchest:diamond_chest>, <item:ironchest:obsidian_chest>);
@@ -84,7 +85,6 @@ dye8("import_plate", <item:darkutils:vector_plate>, <item:minecraft:sticky_pisto
 dye8("import_plate_extreme", <item:darkutils:vector_plate_extreme>, <item:minecraft:sticky_piston>, <item:darkutils:import_plate_extreme>);
 dye8("import_plate_fast", <item:darkutils:vector_plate_fast>, <item:minecraft:sticky_piston>, <item:darkutils:import_plate_fast>);
 dye8("iron_plate", <item:minecraft:iron_ingot>, air, <item:quark:iron_plate>);
-dye8("kiln", <item:minecraft:brick>, <item:minecraft:furnace>, <item:ceramics:kiln>);
 dye8("lapis_carrot_variant", <item:minecraft:golden_carrot>, <item:minecraft:lapis_lazuli>, <item:cyclic:lapis_carrot_variant>);
 dye8("lava_bricks", <item:minecraft:bricks>, <item:minecraft:magma_cream>, <item:ceramics:lava_bricks>);
 dye8("marine_bricks", <item:minecraft:bricks>, <item:minecraft:prismarine_shard>, <item:ceramics:marine_bricks>);
