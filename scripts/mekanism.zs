@@ -62,6 +62,7 @@ dye8("induction_casing", <item:mekanism:ingot_steel>, <item:mekanism:energy_tabl
 dye8("reactor_glass", <tag:items:forge:glass>, <item:mekanism:ingot_lead>, <item:mekanismgenerators:reactor_glass>);
 dye8("sps_casing", <item:mekanism:hdpe_pellet>, <item:mekanism:pellet_polonium>, <item:mekanism:sps_casing>);
 dye8("structural_glass", <item:mekanism:ingot_steel>, <tag:items:forge:glass>, <item:mekanism:structural_glass>);
+dye8("sulfur_dust", <item:mysticalagriculture:sulfur_essence>, air, <item:mekanism:dust_sulfur>);
 dye8("teleporter_frame", <item:mekanism:ingot_refined_obsidian>, <item:mekanism:ingot_refined_glowstone>, <item:mekanism:teleporter_frame>);
 dye8("thermal_evaporation_block", <item:mekanism:ingot_copper>, <item:minecraft:iron_ingot>, <item:mekanism:thermal_evaporation_block>);
 dye8("turbine_casing", <item:mekanism:ingot_osmium>, <item:mekanism:ingot_steel>, <item:mekanismgenerators:turbine_casing>);

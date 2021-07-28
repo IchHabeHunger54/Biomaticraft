@@ -153,6 +153,7 @@ shaped("counter", <item:cookingforblockheads:counter>, [[<item:minecraft:stone>,
 shaped("deposit_upgrade", <item:sophisticatedbackpacks:deposit_upgrade>, [[<item:minecraft:piston>], [<item:sophisticatedbackpacks:upgrade_base>], [<item:minecraft:piston>]]);
 shaped("detector_entity", <item:cyclic:detector_entity>, [[<item:minecraft:diamond>, <item:minecraft:observer>, <item:minecraft:diamond>], [air, <item:minecraft:quartz>, air], [<item:minecraft:redstone>, air, <item:minecraft:redstone>]]);
 shaped("detector_item", <item:cyclic:detector_item>, [[<item:minecraft:lapis_lazuli>, <item:minecraft:observer>, <item:minecraft:lapis_lazuli>], [air, <item:minecraft:quartz>, air], [<item:minecraft:redstone>, air, <item:minecraft:redstone>]]);
+shaped("detector_moon", <item:cyclic:detector_moon>, [[<tag:items:forge:glass>, <tag:items:forge:glass>, <tag:items:forge:glass>], [<item:quark:biotite>, <item:quark:biotite>, <item:quark:biotite>], [<item:minecraft:lapis_lazuli>, <item:minecraft:lapis_lazuli>, <item:minecraft:lapis_lazuli>]]);
 shaped("dirty_glass", <item:quark:dirty_glass>, [[<tag:items:quark:shards>, <tag:items:quark:shards>], [<tag:items:quark:shards>, <tag:items:quark:shards>]]);
 shaped("dirty_glass_pane", <item:quark:dirty_glass_pane> * 8, [[<item:quark:dirty_glass>, <item:quark:dirty_glass>], [<item:quark:dirty_glass>, <item:quark:dirty_glass>]]);
 shaped("disk_drive", <item:computercraft:disk_drive>, [[<item:mekanism:ingot_steel>, <item:mekanism:ingot_steel>, <item:mekanism:ingot_steel>], [<item:mekanism:ingot_steel>, <item:minecraft:redstone>, <item:mekanism:ingot_steel>], [<item:mekanism:ingot_steel>, <item:minecraft:redstone>, <item:mekanism:ingot_steel>]]);
@@ -271,6 +272,7 @@ shaped("upgrade_base", <item:sophisticatedbackpacks:upgrade_base>, [[<item:minec
 shaped("username_logger", <item:securitycraft:username_logger>, [[<item:minecraft:cobblestone>, <item:minecraft:cobblestone>, <item:minecraft:cobblestone>], [<item:minecraft:cobblestone>, <item:securitycraft:portable_radar>, <item:minecraft:cobblestone>], [<item:minecraft:cobblestone>, <item:minecraft:redstone>, <item:minecraft:cobblestone>]]);
 shaped("vine_rope", <item:inspirations:vine> * 3, [[<item:minecraft:vine>], [<item:minecraft:vine>], [<item:minecraft:vine>]]);
 shaped("violet_crystal_pane", <item:quark:violet_crystal_pane> * 8, [[<item:quark:violet_crystal>, <item:quark:violet_crystal>], [<item:quark:violet_crystal>, <item:quark:violet_crystal>]]);
+shaped("void_anvil", <item:cyclic:anvil_void>, [[<item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>], [air, <item:mekanism:ingot_steel>, air], [<item:mekanism:ingot_steel>, <item:mekanism:ingot_steel>, <item:mekanism:ingot_steel>]]);
 shaped("void_upgrade", <item:sophisticatedbackpacks:void_upgrade>, [[<item:minecraft:end_stone>], [<item:sophisticatedbackpacks:upgrade_base>], [<item:minecraft:end_stone>]]);
 shaped("warp_plate", <item:waystones:warp_plate>, [[<item:minecraft:stone>, <item:waystones:warp_dust>, <item:minecraft:stone>], [<item:waystones:warp_dust>, <item:minecraft:obsidian>, <item:waystones:warp_dust>], [<item:minecraft:stone>, <item:waystones:warp_dust>, <item:minecraft:stone>]]);
 shaped("warp_scroll", <item:waystones:warp_scroll>, [[<item:minecraft:paper>, <item:minecraft:paper>, <item:minecraft:paper>], [<item:minecraft:gold_ingot>, <item:minecraft:ender_eye>, <item:minecraft:gold_ingot>], [<item:minecraft:paper>, <item:minecraft:paper>, <item:minecraft:paper>]]);
@@ -396,6 +398,7 @@ shapeless("screen", <item:cyclic:screen>, [<item:mekanism:ingot_steel>, <item:mi
 shapeless("sentry", <item:securitycraft:sentry>, [<item:mekanism:ingot_steel>, <item:securitycraft:portable_radar>, <item:minecraft:dispenser>]);
 shapeless("settings_data_rev", <item:cyclic:settings_data>, [<item:cyclic:settings_data>]);
 shapeless("shape_data_rev", <item:cyclic:shape_data>, [<item:cyclic:shape_data>]);
+shapeless("shearing", <item:cyclic:shearing>, [<item:minecraft:obsidian>, <item:minecraft:shears>, <item:minecraft:redstone>]);
 shapeless("shielded_redstone", <item:darkutils:shielded_redstone>, [<item:minecraft:cobblestone>, <item:minecraft:redstone_block>]);
 shapeless("smart_module", <item:securitycraft:smart_module>, [<item:mekanism:ingot_steel>, <item:minecraft:paper>, <item:minecraft:ender_pearl>]);
 shapeless("soul_compass", <item:quark:soul_compass>, [<item:minecraft:compass>, <item:quark:soul_bead>]);

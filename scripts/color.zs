@@ -69,6 +69,7 @@ for color in ["black", "blue", "brown", "cyan", "gray", "green", "light_blue", "
 	shapeless(color + "_petal_shiny", getItem("botania", color + "_petal"), [getItem("botania", color + "_shiny_flower")]);
 	shapeless(color + "_petal_shroom", getItem("botania", color + "_petal"), [getItem("botania", color + "_mushroom")]);
 	shapeless(color + "_quilted_wool_rev", wool, [getItem("quark", color + "_quilted_wool")]);
+	shapeless(color + "_rune", getItem("quark", color + "_rune"), [<tag:items:quark:runes>, dye]);
 	shapeless(color + "_sharestone", getItem("waystones", color + "_sharestone"), [<tag:items:waystones:sharestone>, dye]);
 	shapeless(color + "_shiny_flower", getItem("botania", color + "_shiny_flower"), [getItem("botania", color + "_mystical_flower"), <item:minecraft:glowstone_dust>]);
 	shapeless(color + "_shulker_box", getItem("minecraft", color + "_shulker_box"), [dye, <item:minecraft:purple_shulker_box>]);

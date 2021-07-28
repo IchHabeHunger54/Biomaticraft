@@ -18,6 +18,7 @@ slab("certus_slab", <item:appliedenergistics2:quartz_slab>, <item:appliedenergis
 slab("charred_nether_brick_slab", <item:quark:charred_nether_bricks_slab>, <item:quark:charred_nether_bricks>);
 slab("chiseled_certus_slab", <item:appliedenergistics2:chiseled_quartz_slab>, <item:appliedenergistics2:chiseled_quartz_block>);
 slab("cobbedstone_slab", <item:quark:cobbedstone_slab>, <item:quark:cobbedstone>);
+slab("cobbled_deepslate_slab", <item:quark:cobbled_deepslate_slab>, <item:quark:cobbled_deepslate>);
 slab("cobblestone_brick_slab", <item:quark:cobblestone_bricks_slab>, <item:quark:cobblestone_bricks>);
 slab("cobblestone_slab", <item:minecraft:cobblestone_slab>, <item:minecraft:cobblestone>);
 slab("corporea_brick_slab", <item:botania:corporea_brick_slab>, <item:botania:corporea_brick>);
@@ -30,6 +31,8 @@ slab("dark_bricks_slab", <item:ceramics:dark_bricks_slab>, <item:ceramics:dark_b
 slab("dark_elder_prismarine_slab", <item:quark:dark_elder_prismarine_slab>, <item:quark:dark_elder_prismarine>);
 slab("dark_prismarine_slab", <item:minecraft:dark_prismarine_slab>, <item:minecraft:dark_prismarine>);
 slab("dark_quartz_slab", <item:botania:dark_quartz_slab>, <item:botania:dark_quartz>);
+slab("deepslate_bricks_slab", <item:quark:deepslate_bricks_slab>, <item:quark:deepslate_bricks>);
+slab("deepslate_tiles_slab", <item:quark:deepslate_tiles_slab>, <item:quark:deepslate_tiles>);
 slab("desert_brick_slab", <item:botania:metamorphic_desert_bricks_slab>, <item:botania:metamorphic_desert_bricks>);
 slab("desert_cobblestone_slab", <item:botania:metamorphic_desert_cobblestone_slab>, <item:botania:metamorphic_desert_cobblestone>);
 slab("desert_stone_slab", <item:botania:metamorphic_desert_stone_slab>, <item:botania:metamorphic_desert_stone>);
@@ -92,6 +95,7 @@ slab("polished_andesite_slab", <item:minecraft:polished_andesite_slab>, <item:mi
 slab("polished_basalt_slab", <item:quark:polished_basalt_slab>, <item:quark:polished_basalt>);
 slab("polished_blackstone_brick_slab", <item:minecraft:polished_blackstone_brick_slab>, <item:minecraft:polished_blackstone_bricks>);
 slab("polished_blackstone_slab", <item:minecraft:polished_blackstone_slab>, <item:minecraft:polished_blackstone>);
+slab("polished_deepslate_slab", <item:quark:polished_deepslate_slab>, <item:quark:polished_deepslate>);
 slab("polished_diorite_slab", <item:minecraft:polished_diorite_slab>, <item:minecraft:polished_diorite>);
 slab("polished_granite_slab", <item:minecraft:polished_granite_slab>, <item:minecraft:polished_granite>);
 slab("polished_jasper_slab", <item:quark:polished_jasper_slab>, <item:quark:polished_jasper>);
@@ -122,6 +126,7 @@ slab("sky_stone_slab", <item:appliedenergistics2:sky_stone_slab>, <item:appliede
 slab("sky_stone_small_brick_slab", <item:appliedenergistics2:sky_stone_small_brick_slab>, <item:appliedenergistics2:sky_stone_small_brick>);
 slab("slate_brick_slab", <item:quark:slate_bricks_slab>, <item:quark:slate_bricks>);
 slab("slate_slab", <item:quark:slate_slab>, <item:quark:slate>);
+slab("smooth_basalt_slab", <item:quark:smooth_basalt_slab>, <item:quark:smooth_basalt>);
 slab("smooth_biotite_slab", <item:quark:smooth_biotite_slab>, <item:quark:smooth_biotite>);
 slab("smooth_quartz_slab", <item:minecraft:smooth_quartz_slab>, <item:minecraft:smooth_quartz>);
 slab("smooth_red_sandstone_slab", <item:minecraft:smooth_red_sandstone_slab>, <item:minecraft:smooth_red_sandstone>);
@@ -168,6 +173,7 @@ stairs("certus_stairs", <item:appliedenergistics2:quartz_stairs>, <item:appliede
 stairs("charred_nether_brick_stairs", <item:quark:charred_nether_bricks_stairs>, <item:quark:charred_nether_bricks>);
 stairs("chiseled_certus_stairs", <item:appliedenergistics2:chiseled_quartz_stairs>, <item:appliedenergistics2:chiseled_quartz_block>);
 stairs("cobbedstone_stairs", <item:quark:cobbedstone_stairs>, <item:quark:cobbedstone>);
+stairs("cobbled_deepslate_stairs", <item:quark:cobbled_deepslate_stairs>, <item:quark:cobbled_deepslate>);
 stairs("cobblestone_brick_stairs", <item:quark:cobblestone_bricks_stairs>, <item:quark:cobblestone_bricks>);
 stairs("cobblestone_stairs", <item:minecraft:cobblestone_stairs>, <item:minecraft:cobblestone>);
 stairs("corporea_brick_stairs", <item:botania:corporea_brick_stairs>, <item:botania:corporea_brick>);
@@ -177,6 +183,8 @@ stairs("dark_bricks_stairs", <item:ceramics:dark_bricks_stairs>, <item:ceramics:
 stairs("dark_elder_prismarine_stairs", <item:quark:dark_elder_prismarine_stairs>, <item:quark:dark_elder_prismarine>);
 stairs("dark_prismarine_stairs", <item:minecraft:dark_prismarine_stairs>, <item:minecraft:dark_prismarine>);
 stairs("dark_quartz_stairs", <item:botania:dark_quartz_stairs>, <item:botania:dark_quartz>);
+stairs("deepslate_bricks_stairs", <item:quark:deepslate_bricks_stairs>, <item:quark:deepslate_bricks>);
+stairs("deepslate_tiles_stairs", <item:quark:deepslate_tiles_stairs>, <item:quark:deepslate_tiles>);
 stairs("desert_brick_stairs", <item:botania:metamorphic_desert_bricks_stairs>, <item:botania:metamorphic_desert_bricks>);
 stairs("desert_cobblestone_stairs", <item:botania:metamorphic_desert_cobblestone_stairs>, <item:botania:metamorphic_desert_cobblestone>);
 stairs("desert_stone_stairs", <item:botania:metamorphic_desert_stone_stairs>, <item:botania:metamorphic_desert_stone>);
@@ -239,6 +247,7 @@ stairs("polished_andesite_stairs", <item:minecraft:polished_andesite_stairs>, <i
 stairs("polished_basalt_stairs", <item:quark:polished_basalt_stairs>, <item:quark:polished_basalt>);
 stairs("polished_blackstone_brick_stairs", <item:minecraft:polished_blackstone_brick_stairs>, <item:minecraft:polished_blackstone_bricks>);
 stairs("polished_blackstone_stairs", <item:minecraft:polished_blackstone_stairs>, <item:minecraft:polished_blackstone>);
+stairs("polished_deepslate_stairs", <item:quark:polished_deepslate_stairs>, <item:quark:polished_deepslate>);
 stairs("polished_diorite_stairs", <item:minecraft:polished_diorite_stairs>, <item:minecraft:polished_diorite>);
 stairs("polished_granite_stairs", <item:minecraft:polished_granite_stairs>, <item:minecraft:polished_granite>);
 stairs("polished_jasper_stairs", <item:quark:polished_jasper_stairs>, <item:quark:polished_jasper>);
@@ -269,6 +278,7 @@ stairs("sky_stone_small_brick_stairs", <item:appliedenergistics2:sky_stone_small
 stairs("sky_stone_stairs", <item:appliedenergistics2:sky_stone_stairs>, <item:appliedenergistics2:sky_stone_block>);
 stairs("slate_brick_stairs", <item:quark:slate_bricks_stairs>, <item:quark:slate_bricks>);
 stairs("slate_stairs", <item:quark:slate_stairs>, <item:quark:slate>);
+stairs("smooth_basalt_stairs", <item:quark:smooth_basalt_stairs>, <item:quark:smooth_basalt>);
 stairs("smooth_biotite_stairs", <item:quark:smooth_biotite_stairs>, <item:quark:smooth_biotite>);
 stairs("smooth_quartz_stairs", <item:minecraft:smooth_quartz_stairs>, <item:minecraft:smooth_quartz>);
 stairs("smooth_red_sandstone_stairs", <item:minecraft:smooth_red_sandstone_stairs>, <item:minecraft:smooth_red_sandstone>);
@@ -307,6 +317,7 @@ vertSlab("brimstone_bricks_vert_slab", <item:quark:brimstone_bricks_vertical_sla
 vertSlab("brimstone_vert_slab", <item:quark:brimstone_vertical_slab>, <item:quark:brimstone_slab>);
 vertSlab("charred_nether_brick_vert_slab", <item:quark:charred_nether_bricks_vertical_slab>, <item:quark:charred_nether_bricks_slab>);
 vertSlab("cobbedstone_vert_slab", <item:quark:cobbedstone_vertical_slab>, <item:quark:cobbedstone_slab>);
+vertSlab("cobbled_deepslate_vert_slab", <item:quark:cobbled_deepslate_vertical_slab>, <item:quark:cobbled_deepslate_slab>);
 vertSlab("cobblestone_brick_vert_slab", <item:quark:cobblestone_bricks_vertical_slab>, <item:quark:cobblestone_bricks_slab>);
 vertSlab("cobblestone_vert_slab", <item:quark:cobblestone_vertical_slab>, <item:minecraft:cobblestone_slab>);
 vertSlab("cut_red_sandstone_vert_slab", <item:quark:cut_red_sandstone_vertical_slab>, <item:minecraft:cut_red_sandstone_slab>);
@@ -314,6 +325,8 @@ vertSlab("cut_sandstone_vert_slab", <item:quark:cut_sandstone_vertical_slab>, <i
 vertSlab("cut_soul_sandstone_vert_slab", <item:quark:cut_soul_sandstone_vertical_slab>, <item:quark:cut_soul_sandstone_slab>);
 vertSlab("dark_elder_prismarine_vert_slab", <item:quark:dark_elder_prismarine_vertical_slab>, <item:quark:dark_elder_prismarine_slab>);
 vertSlab("dark_prismarine_vert_slab", <item:quark:dark_prismarine_vertical_slab>, <item:minecraft:dark_prismarine_slab>);
+vertSlab("deepslate_bricks_vert_slab", <item:quark:deepslate_bricks_vertical_slab>, <item:quark:deepslate_bricks_slab>);
+vertSlab("deepslate_tiles_vert_slab", <item:quark:deepslate_tiles_vertical_slab>, <item:quark:deepslate_tiles_slab>);
 vertSlab("diorite_brick_vert_slab", <item:quark:diorite_bricks_vertical_slab>, <item:quark:diorite_bricks_slab>);
 vertSlab("diorite_vert_slab", <item:quark:diorite_vertical_slab>, <item:minecraft:diorite_slab>);
 vertSlab("dirt_brick_vert_slab", <item:quark:dirt_bricks_vertical_slab>, <item:quark:dirt_bricks_slab>);
@@ -345,6 +358,7 @@ vertSlab("polished_andesite_vert_slab", <item:quark:polished_andesite_vertical_s
 vertSlab("polished_basalt_vert_slab", <item:quark:polished_basalt_vertical_slab>, <item:quark:polished_basalt_slab>);
 vertSlab("polished_blackstone_brick_vert_slab", <item:quark:polished_blackstone_brick_vertical_slab>, <item:minecraft:polished_blackstone_brick_slab>);
 vertSlab("polished_blackstone_vert_slab", <item:quark:polished_blackstone_vertical_slab>, <item:minecraft:polished_blackstone_slab>);
+vertSlab("polished_deepslate_vert_slab", <item:quark:polished_deepslate_vertical_slab>, <item:quark:polished_deepslate_slab>);
 vertSlab("polished_diorite_vert_slab", <item:quark:polished_diorite_vertical_slab>, <item:minecraft:polished_diorite_slab>);
 vertSlab("polished_granite_vert_slab", <item:quark:polished_granite_vertical_slab>, <item:minecraft:polished_granite_slab>);
 vertSlab("polished_jasper_vert_slab", <item:quark:polished_jasper_vertical_slab>, <item:quark:polished_jasper_slab>);
@@ -366,6 +380,7 @@ vertSlab("sandy_bricks_vert_slab", <item:quark:sandy_bricks_vertical_slab>, <ite
 vertSlab("shingles_vert_slab", <item:quark:shingles_vertical_slab>, <item:quark:shingles_slab>);
 vertSlab("slate_brick_vert_slab", <item:quark:slate_bricks_vertical_slab>, <item:quark:slate_bricks_slab>);
 vertSlab("slate_vert_slab", <item:quark:slate_vertical_slab>, <item:quark:slate_slab>);
+vertSlab("smooth_basalt_vert_slab", <item:quark:smooth_basalt_vertical_slab>, <item:quark:smooth_basalt_slab>);
 vertSlab("smooth_biotite_vert_slab", <item:quark:smooth_biotite_vertical_slab>, <item:quark:smooth_biotite_slab>);
 vertSlab("smooth_quartz_vert_slab", <item:quark:smooth_quartz_vertical_slab>, <item:minecraft:smooth_quartz_slab>);
 vertSlab("smooth_red_sandstone_vert_slab", <item:quark:smooth_red_sandstone_vertical_slab>, <item:minecraft:smooth_red_sandstone_slab>);
@@ -389,12 +404,18 @@ wall("blue_nether_brick_wall", <item:quark:blue_nether_bricks_wall>, <item:quark
 wall("brick_wall", <item:minecraft:brick_wall>, <item:minecraft:bricks>);
 wall("brimstone_bricks_wall", <item:quark:brimstone_bricks_wall>, <item:quark:brimstone_bricks>);
 wall("brimstone_wall", <item:quark:brimstone_wall>, <item:quark:brimstone>);
+wall("certus_pillar_wall", <item:appliedenergistics2:quartz_pillar_wall>, <item:appliedenergistics2:quartz_pillar>);
+wall("certus_wall", <item:appliedenergistics2:quartz_wall>, <item:appliedenergistics2:quartz_block>);
 wall("charred_nether_brick_wall", <item:quark:charred_nether_bricks_wall>, <item:quark:charred_nether_bricks>);
+wall("chiseled_certus_wall", <item:appliedenergistics2:chiseled_quartz_wall>, <item:appliedenergistics2:chiseled_quartz_block>);
 wall("cobbedstone_wall", <item:quark:cobbedstone_wall>, <item:quark:cobbedstone>);
+wall("cobbled_deepslate_wall", <item:quark:cobbled_deepslate_wall>, <item:quark:cobbled_deepslate>);
 wall("cobblestone_brick_wall", <item:quark:cobblestone_bricks_wall>, <item:quark:cobblestone_bricks>);
 wall("cobblestone_wall", <item:minecraft:cobblestone_wall>, <item:minecraft:cobblestone>);
 wall("corporea_brick_wall", <item:botania:corporea_brick_wall>, <item:botania:corporea_brick>);
 wall("dark_bricks_wall", <item:ceramics:dark_bricks_wall>, <item:ceramics:dark_bricks>);
+wall("deepslate_bricks_wall", <item:quark:deepslate_bricks_wall>, <item:quark:deepslate_bricks>);
+wall("deepslate_tiles_wall", <item:quark:deepslate_tiles_wall>, <item:quark:deepslate_tiles>);
 wall("desert_brick_wall", <item:botania:metamorphic_desert_bricks_wall>, <item:botania:metamorphic_desert_bricks>);
 wall("desert_cobblestone_wall", <item:botania:metamorphic_desert_cobblestone_wall>, <item:botania:metamorphic_desert_cobblestone>);
 wall("diorite_brick_wall", <item:quark:diorite_bricks_wall>, <item:quark:diorite_bricks>);
@@ -403,6 +424,7 @@ wall("dirt_brick_wall", <item:quark:dirt_bricks_wall>, <item:quark:dirt_bricks>)
 wall("dragon_bricks_wall", <item:ceramics:dragon_bricks_wall>, <item:ceramics:dragon_bricks>);
 wall("elder_prismarine_wall", <item:quark:elder_prismarine_wall>, <item:quark:elder_prismarine>);
 wall("end_stone_brick_wall", <item:minecraft:end_stone_brick_wall>, <item:minecraft:end_stone_bricks>);
+wall("fluix_wall", <item:appliedenergistics2:fluix_wall>, <item:appliedenergistics2:fluix_block>);
 wall("forest_brick_wall", <item:botania:metamorphic_forest_bricks_wall>, <item:botania:metamorphic_forest_bricks>);
 wall("forest_cobblestone_wall", <item:botania:metamorphic_forest_cobblestone_wall>, <item:botania:metamorphic_forest_cobblestone>);
 wall("fungal_brick_wall", <item:botania:metamorphic_fungal_bricks_wall>, <item:botania:metamorphic_fungal_bricks>);
@@ -440,6 +462,7 @@ wall("plains_brick_wall", <item:botania:metamorphic_plains_bricks_wall>, <item:b
 wall("plains_cobblestone_wall", <item:botania:metamorphic_plains_cobblestone_wall>, <item:botania:metamorphic_plains_cobblestone>);
 wall("polished_blackstone_brick_wall", <item:minecraft:polished_blackstone_brick_wall>, <item:minecraft:polished_blackstone_bricks>);
 wall("polished_blackstone_wall", <item:minecraft:polished_blackstone_wall>, <item:minecraft:polished_blackstone>);
+wall("polished_deepslate_wall", <item:quark:polished_deepslate_wall>, <item:quark:polished_deepslate>);
 wall("porcelain_bricks_wall", <item:ceramics:porcelain_bricks_wall>, <item:ceramics:porcelain_bricks>);
 wall("prismarine_wall", <item:minecraft:prismarine_wall>, <item:minecraft:prismarine>);
 wall("rainbow_bricks_wall", <item:ceramics:rainbow_bricks_wall>, <item:ceramics:rainbow_bricks>);
@@ -450,8 +473,13 @@ wall("refined_obsidian_wall", <item:charm:refined_obsidian_wall>, <item:charm:re
 wall("sandstone_brick_wall", <item:quark:sandstone_bricks_wall>, <item:quark:sandstone_bricks>);
 wall("sandstone_wall", <item:minecraft:sandstone_wall>, <item:minecraft:sandstone>);
 wall("sandy_bricks_wall", <item:quark:sandy_bricks_wall>, <item:quark:sandy_bricks>);
+wall("sky_stone_brick_wall", <item:appliedenergistics2:sky_stone_brick_wall>, <item:appliedenergistics2:sky_stone_brick>);
+wall("sky_stone_small_brick_wall", <item:appliedenergistics2:sky_stone_small_brick_wall>, <item:appliedenergistics2:sky_stone_small_brick>);
+wall("sky_stone_wall", <item:appliedenergistics2:sky_stone_wall>, <item:appliedenergistics2:sky_stone_block>);
 wall("slate_brick_wall", <item:quark:slate_bricks_wall>, <item:quark:slate_bricks>);
 wall("slate_wall", <item:quark:slate_wall>, <item:quark:slate>);
+wall("smooth_basalt_wall", <item:quark:smooth_basalt_wall>, <item:quark:smooth_basalt>);
+wall("smooth_sky_stone_wall", <item:appliedenergistics2:smooth_sky_stone_wall>, <item:appliedenergistics2:smooth_sky_stone_block>);
 wall("snow_bricks_wall", <item:quark:snow_bricks_wall>, <item:quark:snow_bricks>);
 wall("soul_sandstone_brick_wall", <item:quark:soul_sandstone_bricks_wall>, <item:quark:soul_sandstone_bricks>);
 wall("soul_sandstone_wall", <item:quark:soul_sandstone_wall>, <item:quark:soul_sandstone>);

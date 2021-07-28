@@ -1,4 +1,5 @@
 val air = <item:minecraft:air>;
+cycle("cable_energy_acceptor", <item:appliedenergistics2:energy_acceptor>, <item:appliedenergistics2:cable_energy_acceptor>);
 cycle("cable_fluid_interface", <item:appliedenergistics2:fluid_interface>, <item:appliedenergistics2:cable_fluid_interface>);
 cycle("cable_interface", <item:appliedenergistics2:interface>, <item:appliedenergistics2:cable_interface>);
 cycle("inverted_toggle_bus", <item:appliedenergistics2:toggle_bus>, <item:appliedenergistics2:inverted_toggle_bus>);
