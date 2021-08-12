@@ -447,9 +447,9 @@ CTEventManager.register<MCLivingExperienceDropEvent>((event) => {
     var e = event.getEntityLiving();
     if e is MCPlayerEntity {
         event.droppedExperience = event.originalExperiencePoints / 2;
-    } else if e.type != <entitytype:minecraft:ender_dragon> && e.type != <entitytype:minecraft:wither> && e.type != <entitytype:botania:doppleganger> && e.type != <entitytype:botania:pixie> {
+    } else {
         var d = 0 as float;
-        if e.type != <entitytype:minecraft:iron_golem> && e.type != <entitytype:minecraft:snow_golem> && e.type != <entitytype:minecraft:villager> && e.type != <entitytype:minecraft:wandering_trader> {
+        if e.type != <entitytype:minecraft:iron_golem> && e.type != <entitytype:minecraft:snow_golem> && e.type != <entitytype:minecraft:villager> && e.type != <entitytype:minecraft:wandering_trader> && e.type != <entitytype:botania:doppleganger> && e.type != <entitytype:botania:pixie> {
             d = e.getMaxHealth() / 4;
             if e.isChild() {
                 if e.type.classification == MCEntityClassification.MONSTER {
