@@ -9,173 +9,176 @@
 			enabled = true
 
 		[modules.agriculture.crop_farming]
-			enabled = true
+			enabled = false
 
 		[modules.agriculture.plant_fertilizer]
-			enabled = true
+			enabled = false
 
 		[modules.agriculture.animal_feeder]
 			enabled = true
 
 		[modules.agriculture.mob_crusher]
-			enabled = true
+			enabled = false
 
 		[modules.agriculture.mob_slaughter_factory]
-			enabled = true
+			enabled = false
 
 		[modules.agriculture.sewage]
-			enabled = true
+			enabled = false
 
 		[modules.agriculture.animal_baby_separator]
 			enabled = true
 
 		[modules.agriculture.hydroponic_bed]
-			enabled = true
+			enabled = false
 
 		[modules.agriculture.mob_duplicator]
-			enabled = true
+			enabled = false
 
 		[modules.agriculture.wither_builder]
 			enabled = true
 
 	#Module for all the Industrial Foregoing basic features
 	[modules.core]
-		enabled = true
+		enabled = false
 
 		[modules.core.range_addons]
-			enabled = true
+			enabled = false
 
 		[modules.core.sludge]
-			enabled = true
+			enabled = false
 
 		[modules.core.ether]
-			enabled = true
+			enabled = false
 
 		[modules.core.biofuel]
-			enabled = true
+			enabled = false
 
 		[modules.core.essence]
-			enabled = true
+			enabled = false
 
 		[modules.core.milk]
-			enabled = true
+			enabled = false
 
 		[modules.core.dark_glass]
-			enabled = true
+			enabled = false
 
 		[modules.core.straw]
-			enabled = true
+			enabled = false
 
 		[modules.core.pink_slime]
-			enabled = true
+			enabled = false
 
 		[modules.core.tier_2_production]
-			enabled = true
+			enabled = false
 
 		[modules.core.efficiency_addons]
-			enabled = true
+			enabled = false
 
 		[modules.core.plastic_generation]
-			enabled = true
+			enabled = false
 
 		[modules.core.fertilizer]
-			enabled = true
+			enabled = false
 
 		[modules.core.laser_lens]
-			enabled = true
+			enabled = false
 
 		[modules.core.plastic]
-			enabled = true
+			enabled = false
 
 		#If enabled the minecraft bucket item will be replaced with bucket that contains IF milk
 		[modules.core.milk_bucket_replacement]
 			enabled = false
 
 		[modules.core.meat]
-			enabled = true
+			enabled = false
 
 		[modules.core.speed_addons]
-			enabled = true
+			enabled = false
 
 		[modules.core.machine_frames]
-			enabled = true
+			enabled = false
 
 		[modules.core.sewage]
-			enabled = true
+			enabled = false
 
 		[modules.core.ore_meat]
-			enabled = true
+			enabled = false
+
+		[modules.core.processing_addons]
+			enabled = false
 
 	#All machines that generate power
 	[modules.generator]
-		enabled = true
+		enabled = false
 
 		[modules.generator.pitiful_generator]
-			enabled = true
+			enabled = false
 
 		[modules.generator.mycelial_reactor]
-			enabled = true
+			enabled = false
 
 		[modules.generator.biofuel_generator]
-			enabled = true
+			enabled = false
 
 		[modules.generator.mycelial_generators]
-			enabled = true
+			enabled = false
 
 		[modules.generator.bioreactor]
-			enabled = true
+			enabled = false
 
 	#All the Industrial Foregoing tools that allow of transport of things
 	[modules.transport]
-		enabled = true
+		enabled = false
 
 		[modules.transport.conveyor]
-			enabled = true
+			enabled = false
 
 		[modules.transport.conveyor_upgrades]
-			enabled = true
+			enabled = false
 
 		[modules.transport.advanced_black_hole_unit]
-			enabled = true
+			enabled = false
 
 		[modules.transport.supreme_black_hole_unit]
-			enabled = true
+			enabled = false
 
 		[modules.transport.common_black_hole_tank]
-			enabled = true
+			enabled = false
 
 		[modules.transport.black_hole_controller]
-			enabled = true
+			enabled = false
 
 		[modules.transport.advanced_black_hole_tank]
-			enabled = true
+			enabled = false
 
 		[modules.transport.simple_black_hole_tank]
-			enabled = true
+			enabled = false
 
 		[modules.transport.pity_black_hole_unit]
-			enabled = true
+			enabled = false
 
 		[modules.transport.common_black_hole_unit]
-			enabled = true
+			enabled = false
 
 		[modules.transport.pity_black_hole_tank]
-			enabled = true
+			enabled = false
 
 		[modules.transport.simple_black_hole_unit]
-			enabled = true
+			enabled = false
 
 		[modules.transport.supreme_black_hole_tank]
-			enabled = true
+			enabled = false
 
 		[modules.transport.black_hole_units]
-			enabled = true
+			enabled = false
 
 		[modules.transport.black_hole_tanks]
-			enabled = true
+			enabled = false
 
 		[modules.transport.transporters]
-			enabled = true
+			enabled = false
 
 	#A collection of Industrial Foregoing tools
 	[modules.tools]
@@ -185,7 +188,7 @@
 			enabled = false
 
 		[modules.tools.meat_feeder]
-			enabled = true
+			enabled = false
 
 		[modules.tools.infinity_drill]
 			enabled = false
@@ -194,7 +197,7 @@
 			enabled = true
 
 		[modules.tools.mob_essence_tool]
-			enabled = true
+			enabled = false
 
 		[modules.tools.infinity_saw]
 			enabled = false
@@ -215,10 +218,10 @@
 		enabled = true
 
 		[modules.resource_production.material_stonework_factory]
-			enabled = true
+			enabled = false
 
 		[modules.resource_production.mechanical_dirt]
-			enabled = true
+			enabled = false
 
 		[modules.resource_production.block_breaker]
 			enabled = true
@@ -233,10 +236,10 @@
 			enabled = true
 
 		[modules.resource_production.resourceful_furnace]
-			enabled = true
+			enabled = false
 
 		[modules.resource_production.ore_laser_base]
-			enabled = true
+			enabled = false
 
 		[modules.resource_production.fluid_collector]
 			enabled = true
@@ -245,10 +248,10 @@
 			enabled = true
 
 		[modules.resource_production.potion_brewer]
-			enabled = true
+			enabled = false
 
 		[modules.resource_production.sludge_refiner]
-			enabled = true
+			enabled = false
 
 		[modules.resource_production.water_condensator]
 			enabled = true
@@ -257,41 +260,41 @@
 			enabled = true
 
 		[modules.resource_production.laser_drill]
-			enabled = true
+			enabled = false
 
 		[modules.resource_production.fluid_laser_base]
-			enabled = true
+			enabled = false
 
 		[modules.resource_production.washing_factory]
-			enabled = true
+			enabled = false
 
 		[modules.resource_production.fluid_sieving_machine]
-			enabled = true
+			enabled = false
 
 		[modules.resource_production.fermentation_station]
-			enabled = true
+			enabled = false
 
 	#Random things that don't fit
 	[modules.misc]
 		enabled = true
 
 		[modules.misc.enchantment_factory]
-			enabled = true
+			enabled = false
 
 		[modules.misc.infinity_charger]
-			enabled = true
+			enabled = false
 
 		[modules.misc.enchantment_sorter]
 			enabled = true
 
 		[modules.misc.enchantment_applicator]
-			enabled = true
+			enabled = false
 
 		[modules.misc.stasis_chamber]
 			enabled = true
 
 		[modules.misc.enchantment_extractor]
-			enabled = true
+			enabled = false
 
 		[modules.misc.mob_detector]
 			enabled = true

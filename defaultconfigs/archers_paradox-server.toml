@@ -1,3 +1,5 @@
+#If TRUE, trades will be added to Fletcher Villagers.
+"Enable Fletcher Trades" = false
 
 [Arrows]
 

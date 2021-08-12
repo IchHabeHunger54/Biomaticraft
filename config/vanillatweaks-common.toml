@@ -22,7 +22,7 @@
 	[VanillaTweaks.world]
 		#Want seeds to auto-plant themselves when broken?
 		selfPlanting = true
-		#How long a plant should take to despawn (and attempt to plant) Default Minecraft is 6000.
+		#How long a plant item should take to despawn (and attempt to plant) Default Minecraft is 6000.
 		#Range: > 0
 		despawnTime = 6000
 		#Percentage chance to plant
@@ -54,7 +54,7 @@
 	[VanillaTweaks.tweaks]
 		#Want to see the no of bees or the honey level of an beehive?
 		enableBeehiveTooltips = true
-		#Want a way to clear text in signs?
+		#Want a way to change text in signs without breaking them?
 		enableSignEditing = true
 		#Want to shear nametag of named entities?
 		shearOffNameTag = true

@@ -38,6 +38,8 @@
 		maxProgress = 100
 		#Max Essence [mb] - Default: [64000 mb]
 		tankSize = 8000
+		#Ignore max level for enchanting
+		ignoreEnchantMaxLevels = false
 
 	[MachineMiscConfig.EnchantmentExtractorConfig]
 		#Amount of Power Consumed per Tick - Default: [40FE]

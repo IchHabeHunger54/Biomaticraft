@@ -44,7 +44,7 @@
 		growth = true
 		#Set false to disable enchantment
 		step = true
-		#Set false to disable enchantment
+		#Set false to disable Multi Jump enchantment
 		launch = true
 
 	#####################################################################################
@@ -96,6 +96,15 @@
 			#Tick rate.  20 will fire one block per second
 			#Range: 1 ~ 20
 			ticks = 20
+
+		#Ender shelf settings
+		[cyclic.blocks.ender_shelf]
+			#Each shelf has five rows.  Set the number of books stored per row here
+			#Range: 1 ~ 64
+			books_per_row = 64
+			#Controller Max distance to search (using manhattan distance)
+			#Range: 1 ~ 256
+			controller_distance = 64
 
 	#####################################################################################
 	# Logging related configs
@@ -210,19 +219,17 @@
 	#####################################################################################
 	[cyclic.command]
 		#True means only players with OP can use this /cyclic command
-		help = false
-		#True means only players with OP can use this /cyclic command
-		nbtprint = true
-		#True means only players with OP can use this /cyclic command
 		health = true
-		#True means only players with OP can use this /cyclic command
-		pingnether = false
 		#True means only players with OP can use this /cyclic command
 		gethome = false
 		#True means only players with OP can use this /cyclic command
 		home = true
 		#True means only players with OP can use this /cyclic command
 		hunger = true
+		#True means only players with OP can use this /cyclic command
+		dev = true
+		#True means only players with OP can use this /cyclic command
+		ping = false
 
 	#####################################################################################
 	# Energy related configs for machines and items
@@ -296,4 +303,18 @@
 	[cyclic.worldgen]
 		#Does this generate in the world
 		flower_cyan = false
+
+	#####################################################################################
+	#Fluid cost for various machines
+	#####################################################################################
+	[cyclic.fluid]
+		#Cost of magma fluid per action
+		#Range: 1 ~ 64000
+		anvil_magma = 100
+		#Cost of (or payment for if negative) per enchanted book generated
+		#Range: -1000 ~ 16000
+		disenchanter = 100
+		#Payment per void action, if not zero
+		#Range: 0 ~ 16000
+		void_anvil = 0
 
