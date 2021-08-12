@@ -1,0 +1,1 @@
+{"criteria":{"apothecary":{"conditions":{"items":[{"item":"botania:apothecary_default"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Craft an apothecary","frame":"task","hidden":false,"icon":{"item":"botania:apothecary_default"},"show_toast":true,"title":"Maybe Throw In A Coin?"},"parent":"crafttweaker:get_mystical_flower"}

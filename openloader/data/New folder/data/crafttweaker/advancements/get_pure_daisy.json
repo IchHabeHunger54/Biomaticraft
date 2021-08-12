@@ -1,0 +1,1 @@
+{"criteria":{"pure_daisy":{"conditions":{"items":[{"item":"botania:pure_daisy"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Craft a pure daisy","frame":"task","hidden":false,"icon":{"item":"botania:pure_daisy"},"show_toast":true,"title":"No More Oxeyes"},"parent":"crafttweaker:get_apothecary"}

@@ -1,0 +1,1 @@
+{"criteria":{"hdpe_pellet":{"conditions":{"items":[{"item":"mekanism:hdpe_pellet"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Make a plastic pellet","frame":"task","hidden":false,"icon":{"item":"mekanism:hdpe_pellet"},"show_toast":true,"title":"Destroying The Environment 101"},"parent":"crafttweaker:get_purification_chamber"}

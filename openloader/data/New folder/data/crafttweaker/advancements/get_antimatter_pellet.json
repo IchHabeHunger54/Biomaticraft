@@ -1,0 +1,1 @@
+{"criteria":{"pellet_antimatter":{"conditions":{"items":[{"item":"mekanism:pellet_antimatter"}]},"trigger":"minecraft:inventory_changed"}},"display":{"announce_to_chat":true,"description":"Make an antimatter pellet","frame":"task","hidden":false,"icon":{"item":"mekanism:pellet_antimatter"},"show_toast":true,"title":"Otherworldly"},"parent":"crafttweaker:get_polonium_pellet"}

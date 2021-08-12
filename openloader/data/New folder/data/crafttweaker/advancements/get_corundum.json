@@ -1,0 +1,106 @@
+{
+  "criteria": {
+    "red": {
+      "conditions": {
+        "items": [
+          {
+            "item": "quark:red_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "orange": {
+      "conditions": {
+        "items": [
+          {
+            "item": "quark:orange_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "yellow": {
+      "conditions": {
+        "items": [
+          {
+            "item": "quark:yellow_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "green": {
+      "conditions": {
+        "items": [
+          {
+            "item": "quark:green_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "blue": {
+      "conditions": {
+        "items": [
+          {
+            "item": "quark:blue_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "indigo": {
+      "conditions": {
+        "items": [
+          {
+            "item": "quark:indigo_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "violet": {
+      "conditions": {
+        "items": [
+          {
+            "item": "quark:violet_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "white": {
+      "conditions": {
+        "items": [
+          {
+            "item": "quark:white_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "black": {
+      "conditions": {
+        "items": [
+          {
+            "item": "quark:black_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": "Get all nine corundum variants",
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "quark:red_crystal"
+    },
+    "show_toast": true,
+    "title": "Caves & Cliffs Preview"
+  },
+  "parent": "crafttweaker:get_stone"
+}

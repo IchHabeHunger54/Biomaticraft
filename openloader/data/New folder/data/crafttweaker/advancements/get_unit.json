@@ -1,0 +1,216 @@
+{
+  "criteria": {
+    "nutritional_injection": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_nutritional_injection_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "jetpack": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_jetpack_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "vision_enhancement": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_vision_enhancement_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "solar_recharging": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_solar_recharging_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "attack_amplification": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_attack_amplification_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hydraulic_propulsion": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_hydraulic_propulsion_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "locomotive_boosting": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_locomotive_boosting_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "dosimeter": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_dosimeter_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "excavation_escalation": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_excavation_escalation_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "electrolytic_breathing": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_electrolytic_breathing_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "gravitational_modulating": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_gravitational_modulating_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "vein_mining": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_vein_mining_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "farming": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_farming_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "teleportation": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_teleportation_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "charge_distribution": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_charge_distribution_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "energy": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_energy_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "silk_touch": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_silk_touch_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "radiation_shielding": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_radiation_shielding_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "magnetic_attraction": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_magnetic_attraction_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "inhalation_purification": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:module_inhalation_purification_unit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": "Craft all Mekasuit and Mekatool units",
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "mekanism:module_nutritional_injection_unit"
+    },
+    "show_toast": true,
+    "title": "Modular Powersuit"
+  },
+  "parent": "crafttweaker:get_meka_suit"
+}
