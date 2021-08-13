@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:dusts/fluorite"}},"output":{"item":"mekanism:fluorite_gem"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:dust_fluorite"}},"output":{"item":"mekanism:fluorite_gem"},"type":"mekanism:enriching"}

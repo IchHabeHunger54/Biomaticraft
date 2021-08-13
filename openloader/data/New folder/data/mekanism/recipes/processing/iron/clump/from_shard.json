@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"gas":"mekanism:oxygen"},"itemInput":{"ingredient":{"tag":"mekanism:shards/iron"}},"output":{"item":"mekanism:clump_iron"},"type":"mekanism:purifying"}
+{"gasInput":{"amount":1,"gas":"mekanism:oxygen"},"itemInput":{"ingredient":{"item":"mekanism:shard_iron"}},"output":{"item":"mekanism:clump_iron"},"type":"mekanism:purifying"}

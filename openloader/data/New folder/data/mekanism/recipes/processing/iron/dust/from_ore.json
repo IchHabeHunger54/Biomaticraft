@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:ores/iron"}},"output":{"count":2,"item":"appliedenergistics2:iron_dust"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"minecraft:iron_ore"}},"output":{"count":2,"item":"appliedenergistics2:iron_dust"},"type":"mekanism:enriching"}

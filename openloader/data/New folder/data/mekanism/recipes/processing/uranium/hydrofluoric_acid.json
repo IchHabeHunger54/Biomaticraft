@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"gas":"mekanism:sulfuric_acid"},"itemInput":{"ingredient":{"tag":"forge:gems/fluorite"}},"output":{"amount":1000,"chemicalType":"gas","gas":"mekanism:hydrofluoric_acid"},"type":"mekanism:dissolution"}
+{"gasInput":{"amount":1,"gas":"mekanism:sulfuric_acid"},"itemInput":{"ingredient":{"item":"mekanism:fluorite_gem"}},"output":{"amount":1000,"chemicalType":"gas","gas":"mekanism:hydrofluoric_acid"},"type":"mekanism:dissolution"}

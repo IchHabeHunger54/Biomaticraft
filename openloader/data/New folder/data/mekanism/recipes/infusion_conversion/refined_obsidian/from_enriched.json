@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"mekanism:enriched/obsidian"}},"output":{"amount":80,"infuse_type":"mekanism:refined_obsidian"},"type":"mekanism:infusion_conversion"}
+{"input":{"ingredient":{"item":"mekanism:enriched_obsidian"}},"output":{"amount":80,"infuse_type":"mekanism:refined_obsidian"},"type":"mekanism:infusion_conversion"}

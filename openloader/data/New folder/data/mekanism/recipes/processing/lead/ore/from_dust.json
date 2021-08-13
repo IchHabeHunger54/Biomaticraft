@@ -1,1 +1,1 @@
-{"extraInput":{"ingredient":{"tag":"forge:cobblestone"}},"mainInput":{"amount":8,"ingredient":{"tag":"forge:dusts/lead"}},"output":{"item":"mekanism:lead_ore"},"type":"mekanism:combining"}
+{"extraInput":{"ingredient":{"item":"minecraft:cobblestone"}},"mainInput":{"amount":8,"ingredient":{"item":"mekanism:dust_lead"}},"output":{"item":"mekanism:lead_ore"},"type":"mekanism:combining"}

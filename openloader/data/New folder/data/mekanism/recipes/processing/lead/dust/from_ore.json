@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:ores/lead"}},"output":{"count":2,"item":"mekanism:dust_lead"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:lead_ore"}},"output":{"count":2,"item":"mekanism:dust_lead"},"type":"mekanism:enriching"}

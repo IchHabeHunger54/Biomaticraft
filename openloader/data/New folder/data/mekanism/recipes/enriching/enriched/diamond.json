@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:gems/diamond"}},"output":{"item":"mekanism:enriched_diamond"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"minecraft:diamond"}},"output":{"item":"mekanism:enriched_diamond"},"type":"mekanism:enriching"}

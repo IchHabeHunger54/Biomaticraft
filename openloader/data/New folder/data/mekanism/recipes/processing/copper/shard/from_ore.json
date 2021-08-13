@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"gas":"mekanism:hydrogen_chloride"},"itemInput":{"ingredient":{"tag":"forge:ores/copper"}},"output":{"count":4,"item":"mekanism:shard_copper"},"type":"mekanism:injecting"}
+{"gasInput":{"amount":1,"gas":"mekanism:hydrogen_chloride"},"itemInput":{"ingredient":{"item":"mekanism:copper_ore"}},"output":{"count":4,"item":"mekanism:shard_copper"},"type":"mekanism:injecting"}

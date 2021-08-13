@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:obsidian"}},"output":{"count":4,"item":"mekanism:dust_obsidian"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"minecraft:obsidian"}},"output":{"count":4,"item":"mekanism:dust_obsidian"},"type":"mekanism:enriching"}

@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:dusts/sulfur"}},"output":{"item":"minecraft:gunpowder"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:dust_sulfur"}},"output":{"item":"minecraft:gunpowder"},"type":"mekanism:enriching"}

@@ -1,1 +1,1 @@
-{"replace":true,"values":["#forge:fences/nether_brick","#forge:fences/plastic","#forge:fences/wooden","securitycraft:electrified_iron_fence"]}
+{"replace":true,"values":["minecraft:nether_brick_fence","#forge:fences/plastic","#forge:fences/wooden","securitycraft:electrified_iron_fence"]}

@@ -1,1 +1,1 @@
-{"infusionInput":{"amount":10,"tag":"mekanism:diamond"},"itemInput":{"ingredient":{"tag":"forge:dusts/obsidian"}},"output":{"item":"mekanism:dust_refined_obsidian"},"type":"mekanism:metallurgic_infusing"}
+{"infusionInput":{"amount":10,"tag":"mekanism:diamond"},"itemInput":{"ingredient":{"item":"mekanism:dust_obsidian"}},"output":{"item":"mekanism:dust_refined_obsidian"},"type":"mekanism:metallurgic_infusing"}

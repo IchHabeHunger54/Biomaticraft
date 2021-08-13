@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:dusts/sulfur"}},"output":{"amount":100,"gas":"mekanism:sulfur_dioxide"},"type":"mekanism:oxidizing"}
+{"input":{"ingredient":{"item":"mekanism:dust_sulfur"}},"output":{"amount":100,"gas":"mekanism:sulfur_dioxide"},"type":"mekanism:oxidizing"}

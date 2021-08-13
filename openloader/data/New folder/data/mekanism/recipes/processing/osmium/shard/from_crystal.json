@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"gas":"mekanism:hydrogen_chloride"},"itemInput":{"ingredient":{"tag":"mekanism:crystals/osmium"}},"output":{"item":"mekanism:shard_osmium"},"type":"mekanism:injecting"}
+{"gasInput":{"amount":1,"gas":"mekanism:hydrogen_chloride"},"itemInput":{"ingredient":{"item":"mekanism:crystal_osmium"}},"output":{"item":"mekanism:shard_osmium"},"type":"mekanism:injecting"}

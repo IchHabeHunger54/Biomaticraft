@@ -11,7 +11,7 @@ for color in ["black", "blue", "brown", "cyan", "gray", "green", "light_blue", "
 	dye1(color + "_elevator", wool, <item:minecraft:ender_pearl>, getItem("elevatorid", "elevator_" + color));
 	dye1(color + "_plastic", <item:mekanism:hdpe_pellet>, dye, getItem("mekanismadditions", color + "_plastic"));
 	dye8(color + "_cistern", <tag:items:ceramics:porcelain_cisterns>, dye, getItem("ceramics", color + "_porcelain_cistern"));
-	dye8(color + "_cobblestone", <tag:items:forge:cobblestone>, dye, getItem("pickletweaks", color + "_cobblestone"));
+	dye8(color + "_cobblestone", <item:minecraft:cobblestone>, dye, getItem("pickletweaks", color + "_cobblestone"));
 	dye8(color + "_covered_cable", <item:appliedenergistics2:fluix_covered_cable>, dye, getItem("appliedenergistics2", color + "_covered_cable"));
 	dye8(color + "_covered_dense_cable", <item:appliedenergistics2:fluix_covered_dense_cable>, dye, getItem("appliedenergistics2", color + "_covered_dense_cable"));
 	dye8(color + "_framed_glass", <item:quark:framed_glass>, dye, getItem("quark", color + "_framed_glass"));
@@ -26,7 +26,7 @@ for color in ["black", "blue", "brown", "cyan", "gray", "green", "light_blue", "
 	dye8(color + "_porcelain", <tag:items:ceramics:porcelain_block>, dye, getItem("ceramics", color + "_porcelain"));
 	dye8(color + "_quilted_wool", wool, <item:minecraft:string>, getItem("quark", color + "_quilted_wool"));
 	dye8(color + "_reinforced_plastic", getItem("mekanismadditions", color + "_plastic"), <item:mekanism:dust_osmium>, getItem("mekanismadditions", color + "_reinforced_plastic"));
-	dye8(color + "_slick_plastic", getItem("mekanismadditions", color + "_plastic"), <tag:items:forge:slimeballs>, getItem("mekanismadditions", color + "_slick_plastic"));
+	dye8(color + "_slick_plastic", getItem("mekanismadditions", color + "_plastic"), <item:minecraft:slime_ball>, getItem("mekanismadditions", color + "_slick_plastic"));
 	dye8(color + "_smart_cable", <item:appliedenergistics2:fluix_smart_cable>, dye, getItem("appliedenergistics2", color + "_smart_cable"));
 	dye8(color + "_smart_dense_cable", <item:appliedenergistics2:fluix_smart_dense_cable>, dye, getItem("appliedenergistics2", color + "_smart_dense_cable"));
 	dye8(color + "_terracotta", <item:minecraft:terracotta>, dye, getItem("minecraft", color + "_terracotta"));

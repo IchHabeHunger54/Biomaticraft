@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:gems/emerald"}},"output":{"item":"mekanism:dust_emerald"},"type":"mekanism:crushing"}
+{"input":{"ingredient":{"item":"minecraft:emerald"}},"output":{"item":"mekanism:dust_emerald"},"type":"mekanism:crushing"}

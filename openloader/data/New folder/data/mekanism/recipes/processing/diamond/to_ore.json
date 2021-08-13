@@ -1,1 +1,1 @@
-{"extraInput":{"ingredient":{"item":"minecraft:cobblestone"}},"mainInput":{"amount":3,"ingredient":{"tag":"forge:dusts/diamond"}},"output":{"item":"minecraft:diamond_ore"},"type":"mekanism:combining"}
+{"extraInput":{"ingredient":{"item":"minecraft:cobblestone"}},"mainInput":{"amount":3,"ingredient":{"item":"mekanism:dust_diamond"}},"output":{"item":"minecraft:diamond_ore"},"type":"mekanism:combining"}

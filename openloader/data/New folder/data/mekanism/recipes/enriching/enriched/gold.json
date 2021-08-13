@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:dusts/gold"}},"output":{"item":"mekanism:enriched_gold"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"appliedenergistics2:gold_dust"}},"output":{"item":"mekanism:enriched_gold"},"type":"mekanism:enriching"}

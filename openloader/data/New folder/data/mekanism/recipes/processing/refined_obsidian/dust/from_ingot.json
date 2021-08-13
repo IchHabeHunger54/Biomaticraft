@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:ingots/refined_obsidian"}},"output":{"item":"mekanism:dust_refined_obsidian"},"type":"mekanism:crushing"}
+{"input":{"ingredient":{"item":"mekanism:ingot_refined_obsidian"}},"output":{"item":"mekanism:dust_refined_obsidian"},"type":"mekanism:crushing"}

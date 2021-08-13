@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"mekanism:clumps/gold"}},"output":{"item":"mekanism:dirty_dust_gold"},"type":"mekanism:crushing"}
+{"input":{"ingredient":{"item":"mekanism:clump_gold"}},"output":{"item":"mekanism:dirty_dust_gold"},"type":"mekanism:crushing"}

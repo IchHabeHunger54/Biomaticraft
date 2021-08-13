@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"gas":"mekanism:oxygen"},"itemInput":{"ingredient":{"tag":"mekanism:shards/gold"}},"output":{"item":"mekanism:clump_gold"},"type":"mekanism:purifying"}
+{"gasInput":{"amount":1,"gas":"mekanism:oxygen"},"itemInput":{"ingredient":{"item":"mekanism:shard_gold"}},"output":{"item":"mekanism:clump_gold"},"type":"mekanism:purifying"}

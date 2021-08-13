@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:gunpowder"}},"output":{"item":"minecraft:flint"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"minecraft:gunpowder"}},"output":{"item":"minecraft:flint"},"type":"mekanism:enriching"}

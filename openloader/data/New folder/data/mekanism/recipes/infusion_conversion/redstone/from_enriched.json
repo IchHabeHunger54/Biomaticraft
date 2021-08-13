@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"mekanism:enriched/redstone"}},"output":{"amount":80,"infuse_type":"mekanism:redstone"},"type":"mekanism:infusion_conversion"}
+{"input":{"ingredient":{"item":"mekanism:enriched_redstone"}},"output":{"amount":80,"infuse_type":"mekanism:redstone"},"type":"mekanism:infusion_conversion"}

@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"gas":"mekanism:sulfuric_acid"},"itemInput":{"ingredient":{"tag":"forge:ores/lead"}},"output":{"amount":1000,"chemicalType":"slurry","slurry":"mekanism:dirty_lead"},"type":"mekanism:dissolution"}
+{"gasInput":{"amount":1,"gas":"mekanism:sulfuric_acid"},"itemInput":{"ingredient":{"item":"mekanism:lead_ore"}},"output":{"amount":1000,"chemicalType":"slurry","slurry":"mekanism:dirty_lead"},"type":"mekanism:dissolution"}

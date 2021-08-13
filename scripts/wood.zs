@@ -179,7 +179,7 @@ shaped("livingwood_twig", <item:botania:livingwood_twig> * 4, [[<item:botania:li
 shaped("nether_fence", <item:minecraft:nether_brick_fence> * 4, [[<item:minecraft:nether_bricks>, <item:minecraft:nether_brick>, <item:minecraft:nether_bricks>], [<item:minecraft:nether_bricks>, <item:minecraft:nether_brick>, <item:minecraft:nether_bricks>]]);
 shaped("nether_gate", <item:quark:nether_brick_fence_gate> * 2, [[<item:minecraft:nether_brick>, <item:minecraft:nether_bricks>, <item:minecraft:nether_brick>], [<item:minecraft:nether_brick>, <item:minecraft:nether_bricks>, <item:minecraft:nether_brick>]]);
 shaped("polished_blackstone_pressure_plate", <item:minecraft:polished_blackstone_pressure_plate>, [[<item:minecraft:polished_blackstone>, <item:minecraft:polished_blackstone>]]);
-shaped("stone_pressure_plate", <item:minecraft:stone_pressure_plate>, [[<tag:items:forge:stone>, <tag:items:forge:stone>]]);
+shaped("stone_pressure_plate", <item:minecraft:stone_pressure_plate>, [[<item:minecraft:stone>, <item:minecraft:stone>]]);
 shapeless("chest", <item:minecraft:chest>, [<tag:items:forge:chests/wooden>]);
 shapeless("dreamwood_planks", <item:botania:dreamwood_planks> * 4, [<item:botania:dreamwood>]);
 shapeless("gold_button", <item:quark:gold_button>, [<item:minecraft:stone_button>, <item:minecraft:gold_ingot>]);
@@ -199,7 +199,7 @@ shapeless("reinforced_door", <item:securitycraft:door_indestructible_iron_item>,
 shapeless("reinforced_trapdoor", <item:securitycraft:reinforced_iron_trapdoor>, [<item:minecraft:iron_trapdoor>, <item:mekanism:ingot_steel>]);
 shapeless("scanner_door", <item:securitycraft:scanner_door_item>, [<item:securitycraft:door_indestructible_iron_item>, <item:securitycraft:retinal_scanner>]);
 shapeless("shimmerwood_planks", <item:botania:shimmerwood_planks>, [<item:botania:dreamwood_planks>, <item:botania:bifrost_perm>]);
-shapeless("stone_button", <item:minecraft:stone_button>, [<tag:items:forge:stone>]);
+shapeless("stone_button", <item:minecraft:stone_button>, [<item:minecraft:stone>]);
 shapeless("trapped_chest", <item:minecraft:trapped_chest>, [<tag:items:forge:chests/wooden_trapped>]);
 slab("dreamwood_plank_slab", <item:botania:dreamwood_planks_slab>, <item:botania:dreamwood_planks>);
 slab("dreamwood_slab", <item:botania:dreamwood_slab>, <item:botania:dreamwood>);

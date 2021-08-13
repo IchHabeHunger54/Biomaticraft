@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:storage_blocks/charcoal"}},"output":{"amount":90,"infuse_type":"mekanism:carbon"},"type":"mekanism:infusion_conversion"}
+{"input":{"ingredient":{"item":"vanillatweaks:charcoalblock"}},"output":{"amount":90,"infuse_type":"mekanism:carbon"},"type":"mekanism:infusion_conversion"}

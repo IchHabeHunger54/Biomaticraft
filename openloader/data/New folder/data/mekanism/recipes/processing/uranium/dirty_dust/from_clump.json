@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"mekanism:clumps/uranium"}},"output":{"item":"mekanism:dirty_dust_uranium"},"type":"mekanism:crushing"}
+{"input":{"ingredient":{"item":"mekanism:clump_uranium"}},"output":{"item":"mekanism:dirty_dust_uranium"},"type":"mekanism:crushing"}

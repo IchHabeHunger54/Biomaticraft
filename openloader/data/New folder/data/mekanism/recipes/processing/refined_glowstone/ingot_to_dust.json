@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:ingots/refined_glowstone"}},"output":{"item":"minecraft:glowstone_dust"},"type":"mekanism:crushing"}
+{"input":{"ingredient":{"item":"mekanism:ingot_refined_glowstone"}},"output":{"item":"minecraft:glowstone_dust"},"type":"mekanism:crushing"}

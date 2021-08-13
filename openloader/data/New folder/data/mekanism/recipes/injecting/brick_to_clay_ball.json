@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"tag":"mekanism:water_vapor"},"itemInput":{"ingredient":{"tag":"forge:ingots/brick"}},"output":{"item":"minecraft:clay_ball"},"type":"mekanism:injecting"}
+{"gasInput":{"amount":1,"tag":"mekanism:water_vapor"},"itemInput":{"ingredient":{"item":"minecraft:brick"}},"output":{"item":"minecraft:clay_ball"},"type":"mekanism:injecting"}

@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:ores/copper"}},"output":{"count":2,"item":"mekanism:dust_copper"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:copper_ore"}},"output":{"count":2,"item":"mekanism:dust_copper"},"type":"mekanism:enriching"}

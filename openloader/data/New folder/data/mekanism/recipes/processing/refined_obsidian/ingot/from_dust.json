@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"gas":"mekanism:liquid_osmium"},"itemInput":{"ingredient":{"tag":"forge:dusts/refined_obsidian"}},"output":{"item":"mekanism:ingot_refined_obsidian"},"type":"mekanism:compressing"}
+{"gasInput":{"amount":1,"gas":"mekanism:liquid_osmium"},"itemInput":{"ingredient":{"item":"mekanism:dust_refined_obsidian"}},"output":{"item":"mekanism:ingot_refined_obsidian"},"type":"mekanism:compressing"}

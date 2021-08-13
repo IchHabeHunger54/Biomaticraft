@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"gas":"mekanism:oxygen"},"itemInput":{"ingredient":{"tag":"mekanism:shards/uranium"}},"output":{"item":"mekanism:clump_uranium"},"type":"mekanism:purifying"}
+{"gasInput":{"amount":1,"gas":"mekanism:oxygen"},"itemInput":{"ingredient":{"item":"mekanism:shard_uranium"}},"output":{"item":"mekanism:clump_uranium"},"type":"mekanism:purifying"}

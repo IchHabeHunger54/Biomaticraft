@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:storage_blocks/coal"}},"output":{"amount":90,"infuse_type":"mekanism:carbon"},"type":"mekanism:infusion_conversion"}
+{"input":{"ingredient":{"item":"minecraft:coal_block"}},"output":{"amount":90,"infuse_type":"mekanism:carbon"},"type":"mekanism:infusion_conversion"}

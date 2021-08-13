@@ -1,1 +1,1 @@
-{"ingredients":{"bottom":{"item":"appliedenergistics2:printed_silicon"},"middle":{"tag":"forge:dusts/redstone"},"top":{"item":"appliedenergistics2:printed_logic_processor"}},"mode":"press","result":{"item":"appliedenergistics2:logic_processor"},"type":"appliedenergistics2:inscriber"}
+{"ingredients":{"bottom":{"item":"appliedenergistics2:printed_silicon"},"middle":{"item":"minecraft:redstone"},"top":{"item":"appliedenergistics2:printed_logic_processor"}},"mode":"press","result":{"item":"appliedenergistics2:logic_processor"},"type":"appliedenergistics2:inscriber"}

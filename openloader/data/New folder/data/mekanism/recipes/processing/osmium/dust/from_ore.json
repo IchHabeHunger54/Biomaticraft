@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:ores/osmium"}},"output":{"count":2,"item":"mekanism:dust_osmium"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:osmium_ore"}},"output":{"count":2,"item":"mekanism:dust_osmium"},"type":"mekanism:enriching"}

@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:dusts/tin"}},"output":{"item":"mekanism:enriched_tin"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:dust_tin"}},"output":{"item":"mekanism:enriched_tin"},"type":"mekanism:enriching"}

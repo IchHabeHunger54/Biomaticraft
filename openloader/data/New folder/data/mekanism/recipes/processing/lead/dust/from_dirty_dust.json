@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"mekanism:dirty_dusts/lead"}},"output":{"item":"mekanism:dust_lead"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:dirty_dust_lead"}},"output":{"item":"mekanism:dust_lead"},"type":"mekanism:enriching"}

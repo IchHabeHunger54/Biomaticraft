@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"gas":"mekanism:hydrogen_chloride"},"itemInput":{"ingredient":{"tag":"mekanism:crystals/uranium"}},"output":{"item":"mekanism:shard_uranium"},"type":"mekanism:injecting"}
+{"gasInput":{"amount":1,"gas":"mekanism:hydrogen_chloride"},"itemInput":{"ingredient":{"item":"mekanism:crystal_uranium"}},"output":{"item":"mekanism:shard_uranium"},"type":"mekanism:injecting"}

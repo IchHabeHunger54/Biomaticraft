@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"mekanism:dirty_dusts/gold"}},"output":{"item":"appliedenergistics2:gold_dust"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:dirty_dust_gold"}},"output":{"item":"appliedenergistics2:gold_dust"},"type":"mekanism:enriching"}

@@ -1,1 +1,1 @@
-{"infusionInput":{"amount":10,"tag":"mekanism:carbon"},"itemInput":{"amount":4,"ingredient":{"tag":"forge:dusts/gold"}},"output":{"item":"mekanismgenerators:hohlraum"},"type":"mekanism:metallurgic_infusing"}
+{"infusionInput":{"amount":10,"tag":"mekanism:carbon"},"itemInput":{"amount":4,"ingredient":{"item":"appliedenergistics2:gold_dust"}},"output":{"item":"mekanismgenerators:hohlraum"},"type":"mekanism:metallurgic_infusing"}

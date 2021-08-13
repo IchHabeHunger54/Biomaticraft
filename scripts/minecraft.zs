@@ -191,7 +191,7 @@ shaped("iron_bars", <item:minecraft:iron_bars> * 12, [[<item:minecraft:iron_ingo
 shaped("jungle_log", <item:minecraft:jungle_log> * 8, [[<item:mysticalagriculture:wood_essence>, air, air], [<item:mysticalagriculture:wood_essence>, air, air], [<item:mysticalagriculture:wood_essence>, air, air]]);
 shaped("jungle_sapling", <item:minecraft:jungle_sapling> * 8, [[<item:mysticalagriculture:wood_essence>, air, air], [<item:mysticalagriculture:nature_essence>, air, air], [<item:mysticalagriculture:wood_essence>, air, air]]);
 shaped("kelp", <item:minecraft:kelp> * 8, [[<item:mysticalagriculture:nature_essence>, <item:mysticalagriculture:water_essence>, <item:mysticalagriculture:nature_essence>]]);
-shaped("lead", <item:minecraft:lead> * 2, [[<item:minecraft:string>, <item:minecraft:string>, air], [<item:minecraft:string>, <tag:items:forge:slimeballs>, air], [air, air, <item:minecraft:string>]]);
+shaped("lead", <item:minecraft:lead> * 2, [[<item:minecraft:string>, <item:minecraft:string>, air], [<item:minecraft:string>, <item:minecraft:slime_ball>, air], [air, air, <item:minecraft:string>]]);
 shaped("leather", <item:minecraft:leather> * 3, [[air, air, air], [<item:mysticalagriculture:cow_essence>, <item:mysticalagriculture:cow_essence>, <item:mysticalagriculture:cow_essence>], [air, air, air]]);
 shaped("lectern", <item:minecraft:lectern>, [[<tag:items:minecraft:wooden_slabs>], [<tag:items:forge:bookshelves>], [<tag:items:minecraft:wooden_slabs>]]);
 shaped("lever", <item:minecraft:lever>, [[<item:minecraft:stick>], [<item:minecraft:cobblestone>]]);
@@ -312,7 +312,7 @@ shapeless("magenta_dye_coral", <item:minecraft:magenta_dye>, [<item:minecraft:br
 shapeless("magenta_dye_dye", <item:minecraft:magenta_dye> * 2, [<item:minecraft:purple_dye>, <item:minecraft:pink_dye>]);
 shapeless("magenta_dye_syringa", <item:minecraft:magenta_dye>, [<item:inspirations:syringa>]);
 shapeless("magenta_dye_tall", <item:minecraft:magenta_dye> * 2, [<item:minecraft:lilac>]);
-shapeless("magma_cream", <item:minecraft:magma_cream>, [<tag:items:forge:slimeballs>, <item:minecraft:blaze_powder>]);
+shapeless("magma_cream", <item:minecraft:magma_cream>, [<item:minecraft:slime_ball>, <item:minecraft:blaze_powder>]);
 shapeless("melon_seeds", <item:minecraft:melon_seeds>, [<item:minecraft:melon_slice>]);
 shapeless("mojang_banner_pattern", <item:minecraft:mojang_banner_pattern>, [<item:minecraft:paper>, <item:minecraft:enchanted_golden_apple>]);
 shapeless("mushroom_stew", <item:minecraft:mushroom_stew>, [<item:minecraft:bowl>, <tag:items:forge:mushrooms>, <tag:items:forge:mushrooms>]);
@@ -372,7 +372,7 @@ shapeless("splash_potion_strength", <item:minecraft:splash_potion>.withTag({Poti
 shapeless("splash_potion_speed", <item:minecraft:splash_potion>.withTag({Potion: "minecraft:long_swiftness" as string}), [<item:minecraft:potion>.withTag({Potion: "minecraft:long_swiftness" as string}), <item:minecraft:gunpowder>]);
 shapeless("splash_potion_water_breathing", <item:minecraft:splash_potion>.withTag({Potion: "minecraft:long_water_breathing" as string}), [<item:minecraft:potion>.withTag({Potion: "minecraft:long_water_breathing" as string}), <item:minecraft:gunpowder>]);
 shapeless("splash_potion_weakness", <item:minecraft:splash_potion>.withTag({Potion: "minecraft:long_weakness" as string}), [<item:minecraft:potion>.withTag({Potion: "minecraft:long_weakness" as string}), <item:minecraft:gunpowder>]);
-shapeless("sticky_piston", <item:minecraft:sticky_piston>, [<item:minecraft:piston>, <tag:items:forge:slimeballs>]);
+shapeless("sticky_piston", <item:minecraft:sticky_piston>, [<item:minecraft:piston>, <item:minecraft:slime_ball>]);
 shapeless("stonecutter", <item:minecraft:stonecutter>, [<item:minecraft:stone>, <item:mekanism:ingot_steel>]);
 shapeless("sugar", <item:minecraft:sugar>, [<item:minecraft:sugar_cane>]);
 shapeless("sugar_honey", <item:minecraft:sugar> * 3, [<item:minecraft:honey_bottle>]);

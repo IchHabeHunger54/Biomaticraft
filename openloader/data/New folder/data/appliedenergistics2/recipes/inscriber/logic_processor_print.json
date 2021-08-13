@@ -1,1 +1,1 @@
-{"ingredients":{"middle":{"tag":"forge:ingots/gold"},"top":{"item":"appliedenergistics2:logic_processor_press"}},"mode":"inscribe","result":{"item":"appliedenergistics2:printed_logic_processor"},"type":"appliedenergistics2:inscriber"}
+{"ingredients":{"middle":{"item":"minecraft:gold_ingot"},"top":{"item":"appliedenergistics2:logic_processor_press"}},"mode":"inscribe","result":{"item":"appliedenergistics2:printed_logic_processor"},"type":"appliedenergistics2:inscriber"}

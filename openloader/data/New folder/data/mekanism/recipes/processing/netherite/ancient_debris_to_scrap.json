@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:ores/netherite_scrap"}},"output":{"count":2,"item":"minecraft:netherite_scrap"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"minecraft:ancient_debris"}},"output":{"count":2,"item":"minecraft:netherite_scrap"},"type":"mekanism:enriching"}

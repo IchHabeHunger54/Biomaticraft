@@ -1,1 +1,1 @@
-{"gasInput":{"amount":1,"gas":"mekanism:oxygen"},"itemInput":{"ingredient":{"tag":"forge:ores/copper"}},"output":{"count":3,"item":"mekanism:clump_copper"},"type":"mekanism:purifying"}
+{"gasInput":{"amount":1,"gas":"mekanism:oxygen"},"itemInput":{"ingredient":{"item":"mekanism:copper_ore"}},"output":{"count":3,"item":"mekanism:clump_copper"},"type":"mekanism:purifying"}

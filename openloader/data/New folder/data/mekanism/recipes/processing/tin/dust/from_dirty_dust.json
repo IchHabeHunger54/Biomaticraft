@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"mekanism:dirty_dusts/tin"}},"output":{"item":"mekanism:dust_tin"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:dirty_dust_tin"}},"output":{"item":"mekanism:dust_tin"},"type":"mekanism:enriching"}

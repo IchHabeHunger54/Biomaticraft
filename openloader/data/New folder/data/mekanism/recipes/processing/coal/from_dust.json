@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:dusts/coal"}},"output":{"item":"minecraft:coal"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:dust_coal"}},"output":{"item":"minecraft:coal"},"type":"mekanism:enriching"}

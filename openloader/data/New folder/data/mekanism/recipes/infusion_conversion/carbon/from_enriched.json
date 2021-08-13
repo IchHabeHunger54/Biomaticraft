@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"mekanism:enriched/carbon"}},"output":{"amount":80,"infuse_type":"mekanism:carbon"},"type":"mekanism:infusion_conversion"}
+{"input":{"ingredient":{"item":"mekanism:enriched_carbon"}},"output":{"amount":80,"infuse_type":"mekanism:carbon"},"type":"mekanism:infusion_conversion"}

@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:gems/lapis"}},"output":{"item":"mekanism:dust_lapis_lazuli"},"type":"mekanism:crushing"}
+{"input":{"ingredient":{"item":"minecraft:lapis_lazuli"}},"output":{"item":"mekanism:dust_lapis_lazuli"},"type":"mekanism:crushing"}

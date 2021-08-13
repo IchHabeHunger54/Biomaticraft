@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"forge:ores/tin"}},"output":{"count":2,"item":"mekanism:dust_tin"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:tin_ore"}},"output":{"count":2,"item":"mekanism:dust_tin"},"type":"mekanism:enriching"}

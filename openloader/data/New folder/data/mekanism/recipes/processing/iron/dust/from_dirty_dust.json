@@ -1,1 +1,1 @@
-{"input":{"ingredient":{"tag":"mekanism:dirty_dusts/iron"}},"output":{"item":"appliedenergistics2:iron_dust"},"type":"mekanism:enriching"}
+{"input":{"ingredient":{"item":"mekanism:dirty_dust_iron"}},"output":{"item":"appliedenergistics2:iron_dust"},"type":"mekanism:enriching"}
